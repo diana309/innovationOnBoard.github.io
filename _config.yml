@@ -41,6 +41,12 @@ sass:
 plugins_dir:
   - jekyll-redirect-from
 
+theme: minima
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
 # -----------------------------------------------------------------------------
 # Collections
 # -----------------------------------------------------------------------------
