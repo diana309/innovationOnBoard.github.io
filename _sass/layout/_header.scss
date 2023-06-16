@@ -14,12 +14,13 @@
 	#header {
 		@include vendor('display', 'flex');
 		background-color: _palette(bg-alt);
-		box-shadow: 0 0 0.25em 0 rgba(0,0,0,0.15);
+		// box-shadow: 0 0 0.25em 0 rgba(0,0,0,0.15);
 		cursor: default;
 		font-weight: _font(weight-bold);
 		height: 3.25em;
 		left: 0;
-		letter-spacing: _font(letter-spacing-alt);
+		// letter-spacing: _font(letter-spacing-alt);
+		letter-spacing: 0.15em;
 		line-height: 3.25em;
 		margin: 0;
 		position: fixed;
@@ -27,6 +28,7 @@
 		top: 0;
 		width: 100%;
 		z-index: _misc(z-index-base);
+		box-shadow: 0px 1px;
 
 		.logo {
 			border: 0;
@@ -35,14 +37,19 @@
 			height: inherit;
 			line-height: inherit;
 			padding: 0 1.5em;
+			align-items: center;
+
+			#logo_dm{
+				display: flex; //dm 
+			}
 
 			strong {
 				@include vendor('transition', (
 					'background-color #{_duration(transition)} ease-in-out',
 					'color #{_duration(transition)} ease-in-out'
 				));
-				background-color: _palette(fg-bold);
-				color: _palette(bg);
+				// background-color: _palette(fg-bold);
+				// color: _palette(bg);
 				display: inline-block;
 				line-height: 1.65em;
 				margin-right: 0.325em;
@@ -51,13 +58,13 @@
 
 			&:hover {
 				strong {
-					background-color: _palette(pink);
+					background-color: _palette(rgb(73, 158, 255));
 				}
 			}
 
 			&:active {
 				strong {
-					background-color: desaturate(darken(_palette(pink), 15), 5);
+					background-color: _palette(rgb(73, 158, 255));;
 				}
 			}
 		}
