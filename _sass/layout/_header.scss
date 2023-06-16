@@ -28,7 +28,15 @@
 		top: 0;
 		width: 100%;
 		z-index: _misc(z-index-base);
-		box-shadow: 0px 1px;
+		border-bottom: 1px solid white;
+
+		svg {
+
+			rect:hover{
+				fill: _palette(rgb(73, 158, 255));
+			}
+
+		}
 
 		.logo {
 			border: 0;
