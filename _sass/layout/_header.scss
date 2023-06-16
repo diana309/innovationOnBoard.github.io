@@ -17,10 +17,10 @@
 		// box-shadow: 0 0 0.25em 0 rgba(0,0,0,0.15);
 		cursor: default;
 		font-weight: _font(weight-bold);
-		height: 3.25em;
+		height: 3.6em;
 		left: 0;
 		// letter-spacing: _font(letter-spacing-alt);
-		letter-spacing: 0.15em;
+		letter-spacing: 0.10em;
 		line-height: 3.25em;
 		margin: 0;
 		position: fixed;
@@ -33,7 +33,7 @@
 		svg {
 
 			rect:hover{
-				fill: _palette(rgb(73, 158, 255));
+				fill: (rgb(73, 158, 255));
 			}
 
 		}
@@ -62,17 +62,18 @@
 				line-height: 1.65em;
 				margin-right: 0.325em;
 				padding: 0 0.125em 0 (_font(letter-spacing-alt) + 0.125em);
+				font-size: 1rem;
 			}
 
 			&:hover {
 				strong {
-					background-color: _palette(rgb(73, 158, 255));
+					background-color: (rgb(73, 158, 255));
 				}
 			}
 
 			&:active {
 				strong {
-					background-color: _palette(rgb(73, 158, 255));;
+					background-color: (rgb(73, 158, 255));;
 				}
 			}
 		}
