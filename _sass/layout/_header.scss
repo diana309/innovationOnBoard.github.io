@@ -30,12 +30,8 @@
 		z-index: _misc(z-index-base);
 		border-bottom: 1px solid white;
 
-		svg {
-
-			rect:hover{
+		svg:hover{
 				fill: (rgb(73, 158, 255));
-			}
-
 		}
 
 		.logo {
@@ -67,13 +63,13 @@
 
 			&:hover {
 				strong {
-					background-color: (rgb(73, 158, 255));
+					color: (rgb(73, 158, 255));
 				}
 			}
 
 			&:active {
 				strong {
-					background-color: (rgb(73, 158, 255));;
+					color: (rgb(73, 158, 255));;
 				}
 			}
 		}
