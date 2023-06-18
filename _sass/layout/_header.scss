@@ -64,13 +64,13 @@
 
 			&:hover {
 				strong {
-					color: map-get($palette, accent1);
+					color: pink;
 				}
 			}
 
 			&:active {
 				strong {
-					color: map-get($palette, accent1);
+					color: pink;
 				}
 			}
 		}
