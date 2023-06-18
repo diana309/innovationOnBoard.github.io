@@ -13,5 +13,5 @@ biography: >
   Group and Consumer Goods & Retail Gnroup. Essien represents clients in the
   areas of technology, media and communications, consumer goods and retail,
   and financial services.
-linkedin: 
+
 ---

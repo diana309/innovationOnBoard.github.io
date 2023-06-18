@@ -16,5 +16,5 @@ biography: >
   gy Transfer Manager at UBC’s University-Industry Liaison Office (UILO) where
   he manages a large portfolio of physical science, materials and medical-device
   based technologies.
-linkedin: 
+
 ---

@@ -14,5 +14,5 @@ biography: >
   microfuel cell systems, low-cost solar power, and a beautifully simple water filter
   called Tapp. Kevin thrives when he takes large challenges head on and leads
   projects to success with creative solutions.
-linkedin: 
+
 ---

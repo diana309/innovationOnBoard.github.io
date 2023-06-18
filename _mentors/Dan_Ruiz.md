@@ -15,5 +15,5 @@ biography: >
   in natural science with specializations in mathematics and biology and recently
   graduated with a masters degree in health policy and leadership from the
   University of British Columbia.
-linkedin: 
+
 ---

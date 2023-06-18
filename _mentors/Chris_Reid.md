@@ -12,5 +12,5 @@ biography: >
   had successful experience developing opportunities from the nascent stage,
   through technology development, productization and cost down, market
   establishment, sales, and establishing complete teams.
-linkedin: 
+
 ---

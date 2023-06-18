@@ -16,5 +16,5 @@ biography: >
   services sector, and for ACL Services Ltd., the global leader in audit-analytics
   software. His career includes senior management and engineering positions with
   multinational companies Duke Energy, Cerberus Pyrotronics, and Honeywell.
-linkedin: 
+
 ---

@@ -12,5 +12,5 @@ biography: >
   Deloitte’s Braxton Associates and PwC’s Strategy Group. Francis is currently
   Entrepreneur-in-Residence at HATCH, UBC’s new technology startup incuba-
   tor.
-linkedin: 
+
 ---

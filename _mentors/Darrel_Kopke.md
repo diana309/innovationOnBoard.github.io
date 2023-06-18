@@ -14,5 +14,5 @@ biography: >
   experience, he has prolific management experience as CEO of four different
   companies. He has also shared his views on creating abundance from
   generosity on Tedx as a featured speaker!
-linkedin: 
+
 ---
