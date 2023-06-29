@@ -2,7 +2,7 @@
 layout: post
 weight: 500
 name: Memo Tejapaibul
-title: Media Coordinator
+title: Technical Lead
 status: executive
 img: /assets/images/members/memo.jpg
 biography: >
