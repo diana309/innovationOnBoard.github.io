@@ -1,6 +1,6 @@
 ---
 layout: post
-weight: 500
+weight: 200
 name: Mikah L'Ecuyer Morison
 title: Director & Team Coordination 
 status: executive
