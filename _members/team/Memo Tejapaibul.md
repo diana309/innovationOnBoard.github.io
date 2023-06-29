@@ -6,6 +6,6 @@ title: Media Coordinator
 status: executive
 img: /assets/images/members/memo.jpg
 biography: >
-  Julija Baliunaite has a Bachelor's Degree in Psychology. Studying in Lithuania and in Spain, volunteering with kids and also in students' organizations helped her to develop strong communication skills. Internship in organizational psychology and working in a marketing department of Students' representation organization helped her to develop strong public relations and marketing skills. Julija is fascinated about empowering her knowledge in a field of technologies and entrepreneurship. 
+  I am an ambitious Chemical and Biological engineering student dedicated to broadening my technical expertise across multiple industries, with a strong desire to make a positive impact on both my own life and the world at large. As an esteemed member of the engineering design teams BIOT, I take great pride in being part of cutting-edge projects.
 linkedin: https://www.linkedin.com/in/peerakij-tejapaibul/
 ---

@@ -6,6 +6,6 @@ status: executive
 title: Outreach Coordinator 
 img: /assets/images/members/eunice.jpg
 biography: >
- I am a chemical and biological engineering student at UBC, passionate about sustainability and how I can contribute in the future as an engineer. Currently, I am broadening my understanding of the engineering industry by working as a Junior Process Engineer at Chemetics (Worley), a company that specializes in sulphuric acid and chlorine chemical production. I am also a member of the student council in my department, which I have joined to expand my network and improve my leadership skills. I am grateful to have the opportunity to join the Innovation OnBoard team and to work with innovative peers and professionals that share a similar vision!
-linkedin: https://www.linkedin.com/in/vtrianda/
+ I am a chemical and biological engineering student at UBC, passionate about sustainability and how I can contribute in the future as an engineer. Currently, I am broadening my understanding of the engineering industry by working as a Junior Process Engineer at Chemetics (Worley), a company that specializes in sulphuric acid and chlorine chemical production. I am also a member of the student council in my department, which I have joined to expand my network and improve my leadership skills. 
+linkedin: https://www.linkedin.com/in/eunicehjchoi/
 ---
