@@ -1,6 +1,6 @@
 ---
 layout: post
-weight: 200
+weight: 400
 name: Memo Tejapaibul
 title: Media Coordinator
 status: executive

@@ -1,6 +1,6 @@
 ---
 layout: post
-weight: 500
+weight: 300
 name: Ekaterina Manskaia
 status: executive
 title: Marketing Lead
