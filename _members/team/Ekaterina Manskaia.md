@@ -1,9 +1,9 @@
 ---
 layout: post
-weight: 200
+weight: 500
 name: Ekaterina Manskaia
 status: executive
-title: Director
+title: Marketing Lead
 img: /assets/images/members/kate.jpg
 # email: director@innovationonboard.ca
 biography: >
