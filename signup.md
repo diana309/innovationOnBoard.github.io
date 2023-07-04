@@ -9,15 +9,13 @@ explanation: Workshops and seminars are open to everyone, including non-UBC stud
 <div class="row">
 
 <div class="6u 12u$(small)">
-    <!-- <h4>Sign-Up</h4>
-    <p>Workshops and seminars are open to everyone, including non-UBC students. You do not need to be competing to learn from our workshops, everyone is welcome. Please sign up for our newsletter for the latest updates using this form.</p> -->
 <section>
 
 <form  action="https://formspree.io/f/mleyrqyp"
   method="POST" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
 <div class="field">
     <label for="mce-EMAIL" class="col-2 col-form-label">Email Address</label>
-    <input type="email" value="" name="EMAIL" class="form-control required email" id="mce-EMAIL" required="required">
+    <input type="email" value="" name="email" class="form-control required email" id="email" required="required">
 </div>
 <div class="field half first">
     <label for="mce-FNAME" class="col-2 col-form-label">First Name </label>
