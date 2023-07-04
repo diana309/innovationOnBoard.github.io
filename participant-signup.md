@@ -8,6 +8,7 @@ explanation: Unlock the pathway to entrepreneurship, connect with fellow startup
 
 <div class="row">
 
+
 <div class="6u 12u$(small)">
 <section>
 
