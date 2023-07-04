@@ -6,7 +6,7 @@ title: President
 status: executive
 img: /assets/images/members/mariia.jpg
 biography: >
-    I am a Bioinformatics PhD student at UBC, specializing in computer-aided drug discovery for prostate cancer. Also, I have a strong interest in big data science and currently contribute my expertise to a digital health startup by providing valuable insights from patient biometric data. I am equally passionate about entrepreneurship and organize networking events that facilitate connections between scientists and business-minded individuals.
+    I am a Bioinformatics PhD student at UBC, specializing in computer-aided drug discovery for prostate cancer. I have a strong interest in big data science and currently contribute my expertise to a digital health startup by providing valuable insights from patient biometric data. I am equally passionate about entrepreneurship and organize networking events that facilitate connections between scientists and business-minded individuals.
 linkedin: https://www.linkedin.com/in/mariia-radaeva-089a70159/
 ---
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-weight: 600
+weight: 800
 name: Rami Jubeili
 title: Finance Lead
 status: executive

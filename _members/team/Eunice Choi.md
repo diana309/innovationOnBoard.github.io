@@ -1,6 +1,6 @@
 ---
 layout: post
-weight: 400
+weight: 700
 name: Eunice Choi
 status: executive
 title: Outreach Coordinator 
