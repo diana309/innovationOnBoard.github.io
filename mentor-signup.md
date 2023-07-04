@@ -13,23 +13,27 @@ explanation: Your generous support provides a defining educational experience fo
 
 <form  action="https://formspree.io/f/xqkvzrrd"
   method="POST" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-<div class="field">
-    <label for="mce-EMAIL" class="col-2 col-form-label">Email Address</label>
-    <input type="email" value="" name="email" class="form-control required email" id="email" required="required">
-</div>
-<div class="field half first">
+
+  <div class="field half first">
     <label for="mce-FNAME" class="col-2 col-form-label">First Name </label>
     <input type="text" value="" name="FNAME" class="form-control" id="mce-FNAME" required="required">
 </div>
+
 <div class="field half">
     <label for="mce-LNAME" class="col-2 col-form-label">Last Name </label>
     <input type="text" value="" name="LNAME" class="form-control" id="mce-LNAME" required="required">
 </div>
 
 <div class="field">
+    <label for="mce-EMAIL" class="col-2 col-form-label">Email Address</label>
+    <input type="email" value="" name="email" class="form-control required email" id="email" required="required">
+</div>
+
+<div class="field">
     <label for="mce-LNAME" class="col-2 col-form-label">Area of Expertise </label>
     <textarea name="message" id="" required="required"></textarea>
 </div>
+
 <div class="field">
     <label for="mce-LNAME" class="col-2 col-form-label">Help us to know you better! (Optional: LinkedIn or personal website links)</label>
     <textarea name="message" id="" required="required"></textarea>
@@ -40,13 +44,12 @@ explanation: Your generous support provides a defining educational experience fo
     <textarea name="message" id="" required="required"></textarea>
 </div>
 
-
 <div id="mce-responses" class="clear">
     <div class="response" id="mce-error-response" style="display:none"></div>
     <div class="response" id="mce-success-response" style="display:none"></div>
 </div>
 <ul class="actions">
-	<li><input type="submit" value="Sign Me Up" name="subscribe" id="mc-embedded-subscribe"/></li>
+	<li><input type="submit" value="Submit" name="subscribe" id="mc-embedded-subscribe"/></li>
 </ul>
 
 <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_c3b28e1c3768da0034cb9df6b_d52602a9c6" tabindex="-1" value=""></div>
