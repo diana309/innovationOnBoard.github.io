@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Competition & Events
+title: Newsletter Sign-Up
 description: Sign Up Form
 nav-menu: true
 ---
@@ -8,7 +8,7 @@ nav-menu: true
 <div class="row">
 
 <div class="6u 12u$(small)">
-    <h4>Newsletter Sign-Up</h4>
+    <h4>Sign-Up</h4>
     <p>Workshops and seminars are open to everyone, including non-UBC students. You do not need to be competing to learn from our workshops, everyone is welcome. Please sign up for our newsletter for the latest updates using this form.</p>
 <section>
 
@@ -72,7 +72,7 @@ nav-menu: true
 </div>
 
 <div class="6u 12u$(small)">
-    <h4>Competition Eligibility</h4>
+    <!-- <h4>Competition Eligibility</h4>
     <p>To participate in the competition, you must meet the following criteria. Please read the <a href="{{ '/2017/10/04/faq.html ' | prepend: site.baseurl | prepend: site.url }}" class="link">FAQ</a> for more information.</p>
     <dl>
         <dt>Student Status</dt>
@@ -83,14 +83,12 @@ nav-menu: true
         <dd>
             <p>If you're entering an existing project or startup, it must be a non-incorporated venture that have not gone through the e@UBC Lean Launchpad program</p>
         </dd>
-    </dl>
-
-    <p><a href="https://goo.gl/forms/mvlqhtLvMeNwrcGE3" class="button special fit">Competition Registration</a></p>
+    </dl> -->
+    <!-- <p><a href="https://goo.gl/forms/mvlqhtLvMeNwrcGE3" class="button special fit">Competition Registration</a></p>
     <hr>
     <p>If you're signing up to be a <b>mentor</b>, please use this link:</p>
-
     <p><a href="https://goo.gl/forms/wYy145odJ9Fsivtv1" class="button fit">Mentor Registration</a></p>
-    <p><a href="{{ '/assets/mentorship.pdf' | prepend: site.baseurl | prepend: site.url }}" class="button next">Mentorship package</a></p>
+    <p><a href="{{ '/assets/mentorship.pdf' | prepend: site.baseurl | prepend: site.url }}" class="button next">Mentorship package</a></p> -->
    <!--  
     <p><a href="{{ '/assets/mentorship.pdf' | prepend: site.baseurl | prepend: site.url }}"" class="button fit">Mentorship package</a>
     </p>
