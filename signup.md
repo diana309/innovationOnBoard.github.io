@@ -3,28 +3,29 @@ layout: post
 title: Newsletter Sign-Up
 description: Sign Up Form
 nav-menu: true
+explanation: Workshops and seminars are open to everyone, including non-UBC students. You do not need to be competing to learn from our workshops, everyone is welcome. Please sign up for our newsletter for the latest updates using this form.
 ---
 
 <div class="row">
 
 <div class="6u 12u$(small)">
-    <h4>Sign-Up</h4>
-    <p>Workshops and seminars are open to everyone, including non-UBC students. You do not need to be competing to learn from our workshops, everyone is welcome. Please sign up for our newsletter for the latest updates using this form.</p>
+    <!-- <h4>Sign-Up</h4>
+    <p>Workshops and seminars are open to everyone, including non-UBC students. You do not need to be competing to learn from our workshops, everyone is welcome. Please sign up for our newsletter for the latest updates using this form.</p> -->
 <section>
 
 <form  action="https://formspree.io/f/mleyrqyp"
   method="POST" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
 <div class="field">
     <label for="mce-EMAIL" class="col-2 col-form-label">Email Address</label>
-    <input type="email" value="" name="EMAIL" class="form-control required email" id="mce-EMAIL">
+    <input type="email" value="" name="EMAIL" class="form-control required email" id="mce-EMAIL" required="required">
 </div>
 <div class="field half first">
     <label for="mce-FNAME" class="col-2 col-form-label">First Name </label>
-    <input type="text" value="" name="FNAME" class="form-control" id="mce-FNAME">
+    <input type="text" value="" name="FNAME" class="form-control" id="mce-FNAME" required="required">
 </div>
 <div class="field half">
     <label for="mce-LNAME" class="col-2 col-form-label">Last Name </label>
-    <input type="text" value="" name="LNAME" class="form-control" id="mce-LNAME">
+    <input type="text" value="" name="LNAME" class="form-control" id="mce-LNAME" required="required">
 </div>
 <div class="field">
     <label for="mce-MMERGE5" class="col-2 col-form-label">Program </label>
@@ -64,7 +65,7 @@ nav-menu: true
     <div class="response" id="mce-success-response" style="display:none"></div>
 </div>
 <ul class="actions">
-	<li><input type="submit" value="Sign Me Up!" name="subscribe" id="mc-embedded-subscribe"/></li>
+	<li><input type="submit" value="Sign Me Up" name="subscribe" id="mc-embedded-subscribe"/></li>
 </ul>
 <!-- <button type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="btn btn-default">Sign Up!</button> -->
 <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_c3b28e1c3768da0034cb9df6b_d52602a9c6" tabindex="-1" value=""></div>
