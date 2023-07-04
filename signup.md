@@ -12,7 +12,8 @@ nav-menu: true
     <p>Workshops and seminars are open to everyone, including non-UBC students. You do not need to be competing to learn from our workshops, everyone is welcome. Please sign up for our newsletter for the latest updates using this form.</p>
 <section>
 
-<form action="//innovationonboard.us16.list-manage.com/subscribe/post?u=c3b28e1c3768da0034cb9df6b&amp;id=d52602a9c6" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+<form  action="https://formspree.io/f/mleyrqyp"
+  method="POST" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
 <div class="field">
     <label for="mce-EMAIL" class="col-2 col-form-label">Email Address</label>
     <input type="email" value="" name="EMAIL" class="form-control required email" id="mce-EMAIL">
