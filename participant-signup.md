@@ -69,21 +69,21 @@ explanation: Unlock the pathway to entrepreneurship, connect with fellow startup
       <label for="mce-TEAM" class="col-2 col-form-label">What type of startup team would you be most interested in joining?</label>
       <div class="select-option">
         <input type="checkbox" id="technology" name="Team to Join" value="technology">
-        <label for="technology">Technology/Software Development</label><br>
-        <input type="checkbox" id="social" name="team" value="social">
-        <label for="social">Social Impact/Non-profit</label><br>
-        <input type="checkbox" id="commerce" name="team" value="commerce">
-        <label for="commerce">E-commerce/Retail</label><br>
-        <input type="checkbox" id="health" name="team" value="health">
-        <label for="health">Health and Wellness</label><br>
-        <input type="checkbox" id="education" name="team" value="education">
-        <label for="education">Education and EdTech</label><br>
-        <input type="checkbox" id="arts" name="team" value="arts">
-        <label for="arts">Creative Arts and Media</label><br>
-        <input type="checkbox" id="sustainability" name="team" value="sustainability">
-        <label for="sustainability">Sustainability and Environmental</label><br>
+        <label for="Technology/Software Development">Technology/Software Development</label><br>
+        <input type="checkbox" id="social" name="Team" value="social">
+        <label for="Social Impact/Non-profit">Social Impact/Non-profit</label><br>
+        <input type="checkbox" id="commerce" name="Team" value="commerce">
+        <label for="E-commerce/Retail">E-commerce/Retail</label><br>
+        <input type="checkbox" id="health" name="Team" value="health">
+        <label for="Health and Wellness">Health and Wellness</label><br>
+        <input type="checkbox" id="education" name="Team" value="education">
+        <label for="Education and EdTech">Education and EdTech</label><br>
+        <input type="checkbox" id="arts" name="Team" value="arts">
+        <label for="Creative Arts and Media">Creative Arts and Media</label><br>
+        <input type="checkbox" id="sustainability" name="Team" value="sustainability">
+        <label for="Sustainability and Environmental">Sustainability and Environmental</label><br>
         <input type="checkbox" id="other" name="Team" value="other">
-        <label for="other">Other</label><br>
+        <label for="Other">Other</label><br>
       </div>
     </div>
     <div id="mce-responses" class="clear">
