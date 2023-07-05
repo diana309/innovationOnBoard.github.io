@@ -11,7 +11,7 @@ explanation: Established in 2017, Innovation Onboard (IOB) is a student-led init
 <!-- <embed src="StakeholderPackage.pdf" width="500" height="375" 
  type="application/pdf"> -->
 
-<iframe type="application/pdf" src="iStakeholderPackage.pdf" style="width:100%"; height="100%" ></iframe>
+<iframe type="application/pdf" src="StakeholderPackage.pdf" style="width:100%"; height="100%" ></iframe>
 
 
 </div>
