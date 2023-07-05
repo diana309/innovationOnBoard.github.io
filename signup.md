@@ -15,17 +15,17 @@ explanation: Workshops and seminars are open to everyone, including non-UBC stud
   method="POST" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank">
   <div class="field half first">
     <label for="mce-FNAME" class="col-2 col-form-label">First Name </label>
-    <input type="text" value="" name="FNAME" class="form-control" id="mce-FNAME" required>
+    <input type="text" value="" name="First Name" class="form-control" id="mce-FNAME" required>
 </div>
 
 <div class="field half">
     <label for="mce-LNAME" class="col-2 col-form-label">Last Name </label>
-    <input type="text" value="" name="LNAME" class="form-control" id="mce-LNAME" required>
+    <input type="text" value="" name="Last Name" class="form-control" id="mce-LNAME" required>
 </div>
 
 <div class="field">
     <label for="mce-EMAIL" class="col-2 col-form-label">Email Address</label>
-    <input type="email" value="" name="email" class="form-control required email" id="email" required="required">
+    <input type="email" value="" name="Email" class="form-control required email" id="email" required="required">
 </div>
 <div id="mce-responses" class="clear">
     <div class="response" id="mce-error-response" style="display:none"></div>
