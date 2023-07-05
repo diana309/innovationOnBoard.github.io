@@ -7,7 +7,7 @@ image: assets/images/pic05.jpg
 
 <div class="row">
 {% for sponsor in site.sponsors %}
-	{% if sponsor.status == '2023-2024' %}
+	{% if sponsor.status == 'platinum' %}
 		<div class="4u 12u$(small)" style="text-align:center;">
 			<span class="image fit">
 				<img src="{{ sponsor.img | prepend: site.baseurl | prepend: site.url }}" class="img-sponsor">
