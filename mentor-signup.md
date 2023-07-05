@@ -12,36 +12,36 @@ explanation: Your generous support provides a defining educational experience fo
 <section>
 
 <form  action="https://formspree.io/f/xqkvzrrd"
-  method="POST" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+  method="POST" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank">
 
   <div class="field half first">
     <label for="mce-FNAME" class="col-2 col-form-label">First Name </label>
-    <input type="text" value="" name="FNAME" class="form-control" id="mce-FNAME" required="required">
+    <input type="text" value="" name="FNAME" class="form-control" id="mce-FNAME" required>
 </div>
 
 <div class="field half">
     <label for="mce-LNAME" class="col-2 col-form-label">Last Name </label>
-    <input type="text" value="" name="LNAME" class="form-control" id="mce-LNAME" required="required">
+    <input type="text" value="" name="LNAME" class="form-control" id="mce-LNAME" required>
 </div>
 
 <div class="field">
     <label for="mce-EMAIL" class="col-2 col-form-label">Email Address</label>
-    <input type="email" value="" name="email" class="form-control required email" id="email" required="required">
+    <input type="email" value="" name="email" class="form-control required email" id="email" required>
 </div>
 
 <div class="field">
     <label for="mce-LNAME" class="col-2 col-form-label">Area of Expertise </label>
-    <textarea name="message" id="" required="required"></textarea>
+    <textarea name="message" id="" required></textarea>
 </div>
 
 <div class="field">
-    <label for="mce-LNAME" class="col-2 col-form-label">Help us to know you better! (Optional: LinkedIn or personal website links)</label>
-    <textarea name="message" id="" required="required"></textarea>
+    <label for="mce-LNAME" class="col-2 col-form-label">Help us to know you better! LinkedIn or personal website links</label>
+    <textarea name="message" id="" required></textarea>
 </div>
 
 <div class="field">
     <label for="mce-LNAME" class="col-2 col-form-label">Do you have a specific challenge in mind that you want the UBC students to solve?</label>
-    <textarea name="message" id="" required="required"></textarea>
+    <textarea name="message" id="" required></textarea>
 </div>
 
 <div id="mce-responses" class="clear">

@@ -49,6 +49,40 @@ explanation: Unlock the pathway to entrepreneurship, connect with fellow startup
     </select>
     </div>
 </div>
+<div class="field">
+    <label for="mce-MMERGE5" class="col-2 col-form-label">Program </label>
+    <div class="select-wrapper">
+    <select name="MMERGE5" class="" id="mce-MMERGE5">
+    <option value=""></option>
+    <option value="Bachelors">Bachelors</option>
+    <option value="Masters">Masters</option>
+    <option value="PhD">PhD</option>
+    <option value="Postdoc">Postdoc</option>
+    <option value="Staff">Staff</option>
+    <option value="Alumnus">Alumnus</option>
+    </select>
+    </div>
+</div>
+
+<div class="field half first">
+    <label for="mce-MMERGE3" class="col-2 col-form-label">Specialization </label>
+    <input type="text" value="" name="MMERGE3" class="" id="mce-MMERGE3" placeholder="e.g. Energy">
+</div>
+<div class="field half">
+    <label for="mce-MMERGE4" class="col-2 col-form-label">Year </label>
+    <div class="select-wrapper">
+    <select name="MMERGE4" class="" id="mce-MMERGE4">
+    <option value=""></option>
+    <option value="Year 1">Year 1</option>
+    <option value="Year 2">Year 2</option>
+    <option value="Year 3">Year 3</option>
+    <option value="Year 4">Year 4</option>
+    <option value="Year 5">Year 5</option>
+    <option value="Year 6">Year 6</option>
+    <option value="N/A">N/A</option>
+    </select>
+    </div>
+</div>      
 
 <div class="field">
     <label for="mce-LNAME" class="col-2 col-form-label">Do you have a startup idea? If yes, please describe it briefly.</label>
@@ -56,11 +90,11 @@ explanation: Unlock the pathway to entrepreneurship, connect with fellow startup
 </div>
 
 <div class="field">
-    <label for="mce-MMERGE5" class="col-2 col-form-label">What type of startup team would you be most interested in joining?
- </label>
-    <div class="select-wrapper">
+    <div class="select-option">
+     <label for="mce-MMERGE5" class="col-2 col-form-label">What type of startup team would you be most interested in joining?
+    </label>
         <input type="checkbox" id="technology" name="technology" value="technology">
-        <label for="technology">Technology/Software Development<</label><br>
+        <label for="technology">Technology/Software Development</label><br>
         <input type="checkbox" id="technology" name="technology" value="technology">
         <label for="social">Social Impact/Non-profit</label><br>
         <input type="checkbox" id="social" name="social" value="social">

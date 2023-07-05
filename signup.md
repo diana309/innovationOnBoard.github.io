@@ -12,52 +12,21 @@ explanation: Workshops and seminars are open to everyone, including non-UBC stud
 <section>
 
 <form  action="https://formspree.io/f/mleyrqyp"
-  method="POST" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+  method="POST" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank">
+  <div class="field half first">
+    <label for="mce-FNAME" class="col-2 col-form-label">First Name </label>
+    <input type="text" value="" name="FNAME" class="form-control" id="mce-FNAME" required>
+</div>
+
+<div class="field half">
+    <label for="mce-LNAME" class="col-2 col-form-label">Last Name </label>
+    <input type="text" value="" name="LNAME" class="form-control" id="mce-LNAME" required>
+</div>
+
 <div class="field">
     <label for="mce-EMAIL" class="col-2 col-form-label">Email Address</label>
     <input type="email" value="" name="email" class="form-control required email" id="email" required="required">
 </div>
-<div class="field half first">
-    <label for="mce-FNAME" class="col-2 col-form-label">First Name </label>
-    <input type="text" value="" name="FNAME" class="form-control" id="mce-FNAME" required="required">
-</div>
-<div class="field half">
-    <label for="mce-LNAME" class="col-2 col-form-label">Last Name </label>
-    <input type="text" value="" name="LNAME" class="form-control" id="mce-LNAME" required="required">
-</div>
-<div class="field">
-    <label for="mce-MMERGE5" class="col-2 col-form-label">Program </label>
-    <div class="select-wrapper">
-    <select name="MMERGE5" class="" id="mce-MMERGE5">
-    <option value=""></option>
-    <option value="Bachelors">Bachelors</option>
-    <option value="Masters">Masters</option>
-    <option value="PhD">PhD</option>
-    <option value="Postdoc">Postdoc</option>
-    <option value="Staff">Staff</option>
-    <option value="Alumnus">Alumnus</option>
-    </select>
-    </div>
-</div>
-<div class="field half first">
-    <label for="mce-MMERGE3" class="col-2 col-form-label">Specialization </label>
-    <input type="text" value="" name="MMERGE3" class="" id="mce-MMERGE3" placeholder="e.g. Energy">
-</div>
-<div class="field half">
-    <label for="mce-MMERGE4" class="col-2 col-form-label">Year </label>
-    <div class="select-wrapper">
-    <select name="MMERGE4" class="" id="mce-MMERGE4">
-    <option value=""></option>
-    <option value="Year 1">Year 1</option>
-    <option value="Year 2">Year 2</option>
-    <option value="Year 3">Year 3</option>
-    <option value="Year 4">Year 4</option>
-    <option value="Year 5">Year 5</option>
-    <option value="Year 6">Year 6</option>
-    <option value="N/A">N/A</option>
-    </select>
-    </div>
-</div>      
 <div id="mce-responses" class="clear">
     <div class="response" id="mce-error-response" style="display:none"></div>
     <div class="response" id="mce-success-response" style="display:none"></div>
