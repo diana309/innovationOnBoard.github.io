@@ -1,6 +1,6 @@
 ---
 layout: post
-weight: 100
+weight: 200
 name: GSS
 status: present
 img: /assets/images/sponsors/gss.png
