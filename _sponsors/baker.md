@@ -2,6 +2,6 @@
 layout: post
 weight: 100
 name: Baker McKenzie.
-status: silver
+status: past
 img: /assets/images/sponsors/baker.jpg
 ---

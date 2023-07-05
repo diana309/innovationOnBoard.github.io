@@ -82,7 +82,7 @@ explanation: Unlock the pathway to entrepreneurship, connect with fellow startup
         <label for="arts">Creative Arts and Media</label><br>
         <input type="checkbox" id="sustainability" name="team" value="sustainability">
         <label for="sustainability">Sustainability and Environmental</label><br>
-        <input type="checkbox" id="other" name="team" value="other">
+        <input type="checkbox" id="other" name="Team" value="other">
         <label for="other">Other</label><br>
       </div>
     </div>

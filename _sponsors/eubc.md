@@ -2,6 +2,6 @@
 layout: post
 weight: 100
 name: e@UBC
-status: platinum
+status: present
 img: /assets/images/sponsors/e_ubc.png
 ---
