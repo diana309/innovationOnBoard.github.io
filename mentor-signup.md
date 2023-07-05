@@ -16,32 +16,32 @@ explanation: Your generous support provides a defining educational experience fo
 
   <div class="field half first">
     <label for="mce-FNAME" class="col-2 col-form-label">First Name </label>
-    <input type="text" value="" name="FNAME" class="form-control" id="mce-FNAME" required>
+    <input type="text" value="" name="First Name" class="form-control" id="mce-FNAME" required>
 </div>
 
 <div class="field half">
     <label for="mce-LNAME" class="col-2 col-form-label">Last Name </label>
-    <input type="text" value="" name="LNAME" class="form-control" id="mce-LNAME" required>
+    <input type="text" value="" name="Last Name" class="form-control" id="mce-LNAME" required>
 </div>
 
 <div class="field">
     <label for="mce-EMAIL" class="col-2 col-form-label">Email Address</label>
-    <input type="email" value="" name="email" class="form-control required email" id="email" required>
+    <input type="email" value="" name="Email" class="form-control required email" id="email" required>
 </div>
 
 <div class="field">
     <label for="mce-LNAME" class="col-2 col-form-label">Area of Expertise </label>
-    <textarea name="message" id="" required></textarea>
+    <textarea name="Area of Expertise" id="" required></textarea>
 </div>
 
 <div class="field">
     <label for="mce-LNAME" class="col-2 col-form-label">Help us to know you better! LinkedIn or personal website links</label>
-    <textarea name="message" id="" required></textarea>
+    <textarea name="Social Links" id="" required></textarea>
 </div>
 
 <div class="field">
     <label for="mce-LNAME" class="col-2 col-form-label">Do you have a specific challenge in mind that you want the UBC students to solve?</label>
-    <textarea name="message" id="" required></textarea>
+    <textarea name="Ideas" id="" required></textarea>
 </div>
 
 <div id="mce-responses" class="clear">
@@ -49,7 +49,7 @@ explanation: Your generous support provides a defining educational experience fo
     <div class="response" id="mce-success-response" style="display:none"></div>
 </div>
 <ul class="actions">
-	<li><input type="submit" value="Submit" name="subscribe" id="mc-embedded-subscribe"/></li>
+	<li><input type="submit" value="Submit" name="Subscribe" id="mc-embedded-subscribe"/></li>
 </ul>
 
 <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_c3b28e1c3768da0034cb9df6b_d52602a9c6" tabindex="-1" value=""></div>

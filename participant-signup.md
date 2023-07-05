@@ -14,24 +14,24 @@ explanation: Unlock the pathway to entrepreneurship, connect with fellow startup
   <form action="https://formspree.io/f/xdoronnz" method="POST" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank">
     <div class="field half first">
       <label for="mce-FNAME" class="col-2 col-form-label">First Name</label>
-      <input type="text" value="" name="FNAME" class="form-control" id="mce-FNAME" required>
+      <input type="text" value="" name="First Name" class="form-control" id="mce-FNAME" required>
     </div>
     <div class="field half">
       <label for="mce-LNAME" class="col-2 col-form-label">Last Name</label>
-      <input type="text" value="" name="LNAME" class="form-control" id="mce-LNAME" required>
+      <input type="text" value="" name="Last Name" class="form-control" id="mce-LNAME" required>
     </div>
     <div class="field">
       <label for="mce-EMAIL" class="col-2 col-form-label">Email Address</label>
-      <input type="email" value="" name="email" class="form-control required email" id="email" required>
+      <input type="email" value="" name="Email" class="form-control required email" id="email" required>
     </div>
-    <div class="field">
+    <!-- <div class="field">
       <label for="mce-PROGRAM" class="col-2 col-form-label">Which faculty and program are you enrolled in?</label>
-      <textarea name="message" id="mce-PROGRAM" required></textarea>
-    </div>
+      <textarea name="Faculty &" id="mce-PROGRAM" required></textarea>
+    </div> -->
     <div class="field">
       <label for="mce-PROGRAM-TYPE" class="col-2 col-form-label">Program</label>
       <div class="select-wrapper">
-        <select name="MMERGE5" class="" id="mce-PROGRAM-TYPE">
+        <select name="Program" class="" id="mce-PROGRAM-TYPE">
           <option value=""></option>
           <option value="Bachelors">Bachelors</option>
           <option value="Masters">Masters</option>
@@ -44,12 +44,12 @@ explanation: Unlock the pathway to entrepreneurship, connect with fellow startup
     </div>
     <div class="field half first">
       <label for="mce-MMERGE3" class="col-2 col-form-label">Specialization</label>
-      <input type="text" value="" name="MMERGE3" class="" id="mce-MMERGE3" placeholder="e.g. Energy">
+      <input type="text" value="" name="Specialization" class="" id="mce-MMERGE3" placeholder="e.g. Energy">
     </div>
     <div class="field half">
       <label for="mce-MMERGE4" class="col-2 col-form-label">Year</label>
       <div class="select-wrapper">
-        <select name="MMERGE4" class="" id="mce-MMERGE4">
+        <select name="Year" class="" id="mce-MMERGE4">
           <option value=""></option>
           <option value="Year 1">Year 1</option>
           <option value="Year 2">Year 2</option>
@@ -63,12 +63,12 @@ explanation: Unlock the pathway to entrepreneurship, connect with fellow startup
     </div>
     <div class="field">
       <label for="mce-IDEA" class="col-2 col-form-label">Do you have a startup idea? If yes, please describe it briefly.</label>
-      <textarea name="message" id="mce-IDEA" required></textarea>
+      <textarea name="Idea" id="mce-IDEA" required></textarea>
     </div>
     <div class="field">
       <label for="mce-TEAM" class="col-2 col-form-label">What type of startup team would you be most interested in joining?</label>
       <div class="select-option">
-        <input type="checkbox" id="technology" name="team" value="technology">
+        <input type="checkbox" id="technology" name="Team to Join" value="technology">
         <label for="technology">Technology/Software Development</label><br>
         <input type="checkbox" id="social" name="team" value="social">
         <label for="social">Social Impact/Non-profit</label><br>
@@ -91,7 +91,7 @@ explanation: Unlock the pathway to entrepreneurship, connect with fellow startup
       <div class="response" id="mce-success-response" style="display:none"></div>
     </div>
     <ul class="actions">
-      <li><input type="submit" value="Submit" name="subscribe" id="mc-embedded-subscribe" /></li>
+      <li><input type="submit" value="Submit" id="mc-embedded-subscribe" /></li>
     </ul>
     <div style="position: absolute; left: -5000px;" aria-hidden="true">
       <input type="text" name="b_c3b28e1c3768da0034cb9df6b_d52602a9c6" tabindex="-1" value="">

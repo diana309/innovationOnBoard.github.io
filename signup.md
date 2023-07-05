@@ -32,7 +32,7 @@ explanation: Workshops and seminars are open to everyone, including non-UBC stud
     <div class="response" id="mce-success-response" style="display:none"></div>
 </div>
 <ul class="actions">
-	<li><input type="submit" value="Sign Me Up" name="subscribe" id="mc-embedded-subscribe"/></li>
+	<li><input type="submit" value="Sign Me Up" id="mc-embedded-subscribe"/></li>
 </ul>
 <!-- <button type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="btn btn-default">Sign Up!</button> -->
 <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_c3b28e1c3768da0034cb9df6b_d52602a9c6" tabindex="-1" value=""></div>
