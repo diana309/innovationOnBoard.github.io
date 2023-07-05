@@ -13,7 +13,7 @@ explanation: Unlock the pathway to entrepreneurship, connect with fellow startup
 <section>
 
 <form  action="https://formspree.io/f/xdoronnz"
-  method="POST" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+  method="POST" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank">
 
   <div class="field half first">
     <label for="mce-FNAME" class="col-2 col-form-label">First Name </label>
@@ -59,25 +59,23 @@ explanation: Unlock the pathway to entrepreneurship, connect with fellow startup
     <label for="mce-MMERGE5" class="col-2 col-form-label">What type of startup team would you be most interested in joining?
  </label>
     <div class="select-wrapper">
-    <select name="MMERGE5" class="" id="join-team">
-    <option value=""></option>
-     <input type="checkbox" id="vehicle1" name="vehicle1" value="Bike">
-  <label for="technology">Technology/Software Development<</label><br>
-  <input type="checkbox" id="technology" name="technology" value="technology">
-  <label for="social">Social Impact/Non-profit</label><br>
-  <input type="checkbox" id="social" name="social" value="social">
-  <label for="commerce">E-commerce/Retail</label><br>
-  <input type="checkbox" id="commerce" name="commerce" value="commerce">
-  <label for="health">Health and Wellness</label><br>
-  <input type="checkbox" id="health" name="health" value="health">
-  <label for="education">Education and EdTech</label><br>
-  <input type="checkbox" id="education" name="education" value="education">
-  <label for="arts">Creative Arts and Media</label><br>
-  <input type="checkbox" id="arts" name="arts" value="arts">
-  <label for="sustainability">Sustainability and Environmental</label><br>
-  <input type="checkbox" id="sustainability" name="sustainability" value="sustainability">
-   <label for="other">Other</label><br>
-  <input type="checkbox" id="other" name="other" value="other">
+        <input type="checkbox" id="technology" name="technology" value="technology">
+        <label for="technology">Technology/Software Development<</label><br>
+        <input type="checkbox" id="technology" name="technology" value="technology">
+        <label for="social">Social Impact/Non-profit</label><br>
+        <input type="checkbox" id="social" name="social" value="social">
+        <label for="commerce">E-commerce/Retail</label><br>
+        <input type="checkbox" id="commerce" name="commerce" value="commerce">
+        <label for="health">Health and Wellness</label><br>
+        <input type="checkbox" id="health" name="health" value="health">
+        <label for="education">Education and EdTech</label><br>
+        <input type="checkbox" id="education" name="education" value="education">
+        <label for="arts">Creative Arts and Media</label><br>
+        <input type="checkbox" id="arts" name="arts" value="arts">
+        <label for="sustainability">Sustainability and Environmental</label><br>
+        <input type="checkbox" id="sustainability" name="sustainability" value="sustainability">
+        <label for="other">Other</label><br>
+        <input type="checkbox" id="other" name="other" value="other">
 </div>
 
 
@@ -91,22 +89,6 @@ explanation: Unlock the pathway to entrepreneurship, connect with fellow startup
 
 <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_c3b28e1c3768da0034cb9df6b_d52602a9c6" tabindex="-1" value=""></div>
 </form>
-
-<script>
-  document.getElementById("mc-embedded-subscribe-form").addEventListener("submit", function(event) {
-    // Prevent the form from being submitted
-    event.preventDefault();
-
-    // Clear the form fields
-    document.getElementById("mce-FNAME").value = "";
-    document.getElementById("mce-LNAME").value = "";
-    document.getElementById("email").value = "";
-    document.getElementById("program").value = "";
-    document.getElementById("idea").value = "";
-    document.getElementById("join-team").value = "";
-  });
-</script>
-
 </section>
 </div>
 
