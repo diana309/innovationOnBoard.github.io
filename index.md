@@ -7,7 +7,7 @@ image: null
 author: null
 event-name: "IOB Introduction + Social"
 event-time: " Wednesday, September 20, 6:30PM, CHBE 101, UBC | 2360 East Mall Vancouver"
-event-link: https://www.eventbrite.com/e/iob-introduction-social-tickets-715308576207?aff=oddtdtcreator
+event-link: "https://www.eventbrite.com/e/iob-introduction-social-tickets-715308576207?aff=oddtdtcreator"
 event-desc: Embark on an inspiring journey of entrepreneurship and innovation at the "IOB Introduction + Social" event, featuring insights, networking, and success stories from the world of startups.
 ---
 <!-- Stay informed about our exciting workshops, seminars, and speaker series! Sign up now to receive the latest updates. -->
