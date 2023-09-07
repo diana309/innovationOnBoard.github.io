@@ -12,18 +12,18 @@
     {% include header.html %}
 
 <!-- Banner -->
-    <!--DM <section id="banner" class="major">
-        <div class="inner"> DM--> 
-            <!-- <header class="major">
+    <section id="banner" class="major">
+        <div class="inner">
+            <header class="major">
                 <h1>{{ page.landing-title }}</h1>
             </header>
-             --><!-- first sign-up bar - could be updated later -->
-            <!--DM <div class="content">
-                <p style="text-transform: uppercase;">{{ site.description }}</p> DM-->
-                <!-- <ul class="actions">
+             <!-- first sign-up bar - could be updated later -->
+           <div class="content">
+                <p style="text-transform: uppercase;">{{ site.description }}</p>
+                 <ul class="actions">
                     <li><a href="{{ '/signup.html' | prepend: site.baseurl | prepend: site.url }}" class="button next scrolly">Sign Up!</a></li>
-                </ul> -->
-            <!-- </div>
+                </ul> 
+            </div>
 
             <div class="6u 12u$(small)">
 
@@ -32,42 +32,42 @@
             {{page.event-desc}} <strong> <u><a href="{{page.event-link}}" class="icon fa-facebook" target="_blank"> RSVP </a> </u></strong>
             </p>
 
-            <h5><a href="{{ '/2017/10/04/schedule.html' | prepend: site.baseurl | prepend: site.url }}" class="button small scrolly">Upcoming Events</a></h5>
+            <h5><a href="{{ '/2017/10/04/schedule.html' | prepend: site.baseurl | prepend: site.url }}" class="button small scrolly">Sign Up</a></h5>
             </div>
             <div class="6u 12u$(small)">
                 <div class="inner">
                     <ul class="icons">
-                        {% if site.twitter_url %}
-                        <li><a href="{{ site.twitter_url }}" class="icon alt fa-twitter" target="_blank"><span class="label">Twitter</span></a></li>
+                        <!-- {% if site.twitter_url %} -->
+                        <!-- <li><a href="{{ site.twitter_url }}" class="icon alt fa-twitter" target="_blank"><span class="label">Twitter</span></a></li>
                         {% endif %}
                         {% if site.googleplus_url %}
                         <li><a href="{{ site.googleplus_url }}" class="icon alt fa-google-plus" target="_blank"><span class="label">Google+</span></a></li>
-                        {% endif %}
+                        {% endif %} -->
+                        {% if site.linkedin_url %}
+                        <li><a href="{{ site.linkedin_url }}" class="icon alt fa-linkedin" target="_blank"><span class="label">LinkedIn</span></a></li>
+                        {% endif %} 
                         {% if site.facebook_url %}
                         <li><a href="{{ site.facebook_url }}" class="icon alt fa-facebook" target="_blank"><span class="label">Facebook</span></a></li>
                         {% endif %}
                         {% if site.instagram_url %}
                         <li><a href="{{ site.instagram_url }}" class="icon alt fa-instagram" target="_blank"><span class="label">Instagram</span></a></li>
                         {% endif %}
-                        {% if site.github_url %}
+                        <!-- {% if site.github_url %}
                         <li><a href="{{ site.github_url }}" class="icon alt fa-github" target="_blank"><span class="label">GitHub</span></a></li>
                         {% endif %}
-                        {% if site.slack_url %}
-                        <li><a href="{{ site.slack_url }}" class="icon alt fa-slack" target="_blank"><span class="label">Slack</span></a></li>
-                        {% endif %}
-                        {% if site.linkedin_url %}
-                        <li><a href="{{ site.linkedin_url }}" class="icon alt fa-linkedin" target="_blank"><span class="label">LinkedIn</span></a></li>
-                        {% endif %}
-                        {% if site.medium_url %}
+                        {% if site.slack_url %} -->
+                        <!-- <li><a href="{{ site.slack_url }}" class="icon alt fa-slack" target="_blank"><span class="label">Slack</span></a></li>
+                        {% endif %} -->
+                        <!-- {% if site.medium_url %}
                         <li><a href="{{ site.medium_url }}" class="icon alt fa-medium" target="_blank"><span class="label">Medium</span></a></li>
-                        {% endif %}
+                        {% endif %} -->
                         {% if site.flickr_url %}
                         <li><a href="{{ site.flickr_url }}" class="icon alt fa-flickr" target="_blank"><span class="label">Flickr</span></a></li>
                         {% endif %}
                     </ul>
                 </div>
             </div>
-        </div> -->
+        </div> 
     </section>
 
     <!-- One -->

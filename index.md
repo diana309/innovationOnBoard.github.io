@@ -5,12 +5,12 @@ landing-title: " "
 description: null
 image: null
 author: null
-event-name: "Final Competition"
-event-time: "February 8, 5:30PM, Thea Koerner Lounge, UBC GSS | 25, 6371 Crescent Rd"
-event-link: https://www.eventbrite.ca/e/iob-final-competition-tickets-55945387159
-event-desc: Compete against other teams for the top 5 spots and the chance to pitch before a live panel of judges.
+event-name: "IOB Introduction + Social"
+event-time: " Wednesday, September 20, 6:30PM, CHBE 101, UBC | 2360 East Mall Vancouver"
+event-link: https://www.eventbrite.com/e/iob-introduction-social-tickets-715308576207?aff=oddtdtcreator
+event-desc: Embark on an inspiring journey of entrepreneurship and innovation at the "IOB Introduction + Social" event, featuring insights, networking, and success stories from the world of startups.
 ---
-Stay informed about our exciting workshops, seminars, and speaker series! Sign up now to receive the latest updates.
+<!-- Stay informed about our exciting workshops, seminars, and speaker series! Sign up now to receive the latest updates. -->
 
 <!-- Sign up to get the latest updates for our exciting workshops, seminars and speaker series! To register your team for the competition, visit the Registration page.
 
