@@ -14,25 +14,27 @@
 <!-- Banner -->
     <section id="banner" class="major">
         <div class="inner">
-            <header class="major">
+            <!-- <header class="major">
                 <h1>{{ page.landing-title }}</h1>
-            </header>
+            </header> -->
              <!-- first sign-up bar - could be updated later -->
-           <div class="content">
+           <!-- <div class="content">
                 <p style="text-transform: uppercase;">{{ site.description }}</p>
                  <ul class="actions">
                     <li><a href="{{ '/signup.html' | prepend: site.baseurl | prepend: site.url }}" class="button next scrolly">Sign Up!</a></li>
                 </ul> 
-            </div>
+            </div> -->
 
             <div class="6u 12u$(small)">
 
-            <p><b>{{ page.event-name }}</b> | <i>{{page.event-time}}</i>
+           <h2>{{ page.event-name }}</h2>
+           <p>
+            <br> <i>{{page.event-time}}</i>
             <br>
-            {{page.event-desc}} <strong> <u><a href="{{page.event-link}}" class="icon fa-facebook" target="_blank"> RSVP </a> </u></strong>
+            {{page.event-desc}}
             </p>
 
-            <h5><a href="{{ '/2017/10/04/schedule.html' | prepend: site.baseurl | prepend: site.url }}" class="button small scrolly">Sign Up</a></h5>
+            <h5><a href="{{ '/2017/10/04/schedule.html' | prepend: site.baseurl | prepend: site.url }}" class="button special fit">Sign Up</a></h5>
             </div>
             <div class="6u 12u$(small)">
                 <div class="inner">
