@@ -7,7 +7,7 @@ image: null
 author: null
 event-name: "Innovation and Non-linear Thinking + Social and Pizza"
 event-time: " Thursday, October 19, 6:30PM, CHBE 101, UBC | 2360 East Mall Vancouver"
-event-link: "https://www.eventbrite.com/e/iob-introduction-social-tickets-715308576207?aff=oddtdtcreator"
+event-link: "https://www.eventbrite.com/e/innovation-and-non-linear-thinking-social-and-pizza-tickets-727026875957?aff=oddtdtcreator&keep_tld=1"
 event-desc: Curious about embracing innovation and non-linear thinking? Dive into the essentials of this transformative approach with our lecture.
 ---
 <!-- Stay informed about our exciting workshops, seminars, and speaker series! Sign up now to receive the latest updates. -->
