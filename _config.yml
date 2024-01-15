@@ -19,11 +19,11 @@ tiles-count: 7
 
 # social settings
 500px_url:
-facebook_url: https://www.facebook.com/InnovationOnBoard/
+# facebook_url: https://www.facebook.com/InnovationOnBoard/
 instagram_url: https://www.instagram.com/innovationonboard_/
 linkedin_url: https://www.linkedin.com/company/innovation-onboard-ubc/
 # twitter_url: https://twitter.com/InnovationOB
-flickr_url: https://www.flickr.com/photos/155012628@N03/
+flickr_url: https://www.flickr.com/photos/199382947@N06/
 medium_url: https://medium.com/@innovationonboard
 
 # build settings
