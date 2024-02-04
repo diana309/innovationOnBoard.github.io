@@ -1,7 +1,7 @@
 ---
 layout: post
 weight: 100
-name: Mayaqua
+name: Sustain-A-Bit
 status: ventures
 title: 2023 cohort
 img: /assets/images/ventures/SustainAbit.jpg
