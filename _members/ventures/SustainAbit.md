@@ -4,7 +4,7 @@ weight: 100
 name: Sustain-A-Bit
 status: ventures
 title: 2017 cohort
-img: /assets/images/ventures/SustainAbit.jpeg
+img: /assets/images/ventures/SustainAbit.jpg
 email: 
 biography: >
 test
