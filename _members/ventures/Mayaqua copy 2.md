@@ -1,6 +1,6 @@
 ---
 layout: post
-weight: 200
+weight: 20
 name: Insporos
 status: ventures
 title: 2023 cohort
