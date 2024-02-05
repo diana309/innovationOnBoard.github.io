@@ -1,13 +1,13 @@
 ---
 layout: post
-weight: 100
-name: Mayaqua
+weight: 200
+name: Insporos
 status: ventures
 title: 2023 cohort
-img: /assets/images/ventures/mayaqua.jpg
+img: /assets/images/ventures/Insporos.jpeg
 email: 
 biography: >
- Safe water is a basic human right, yet over 100 communities in Canada don't have this fulfilled. Communities are looking for a continuous, reliable, low-maintenance, and cost-effective solution to provide potable water. Mayaqua is a modular drinking water treatment system that meets these criteria. Our current prototype is designed to fulfill the needs of around 100 people, with future iterations being planned to scale up to 500 people. In addition, there will be customized solutions for communities with special issues, such as high concentrations of arsenic.
+ Insporos' intelligent seed sorting technology revolutionizes modern greenhouse operations, which are increasingly reliant on sensors and robotics that demand uniform plant growth. By identifying and eliminating diseased and defective seeds, Insporos helps growers avoid overplanting—a common practice due to the unpredictability of seed success, leading to significant resource waste. Traditionally, a typical greenhouse facility discards plants amounting to $15M annually in resources. However, by ensuring that every planted seed counts, Insporos' seed analysis platform significantly mitigates this waste, potentially saving facilities up to $10M per year in resource costs.
 ---
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbODM1Mjc5MDc1LDIxMTE5Nzg3MTgsMTY5OD
