@@ -1,6 +1,6 @@
 ---
 layout: post
-weight: 100
+weight: 20
 name: Nappi Lab
 status: ventures
 title: 2023 cohort

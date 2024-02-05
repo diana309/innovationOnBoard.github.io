@@ -1,6 +1,6 @@
 ---
 layout: post
-weight: 800
+weight: 20
 name: Sustain-A-Bit
 status: ventures
 title: 2023 cohort
