@@ -23,5 +23,5 @@ Go to _posts and update "2017-10-04-faq.md"
 # Changing the homepage video
 1. Go to _layouts/home.html and replace the iframe code with the new video embed link (grab it from youtube):
 ```
-<iframe width="100%" height="250" src="https://www.youtube.com/embed/LsYi6E_1hRE?rel=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+<iframe width="100%" height="250" src="https://youtu.be/KyDHbgAVYvA" frameborder="0" allowfullscreen></iframe>
 ```
