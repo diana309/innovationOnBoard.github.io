@@ -1,11 +1,11 @@
----
+<!-- ---
 layout: mentor
 title: Mentors
 description: Innovation OnBoard Mentors
 image: assets/images/pic15.jpg
 redirect_from: "/mentors/"
 ---
-{% assign members = site.members | sort: 'weight' %}
+{% assign members = site.members | sort: 'weight' %} -->
 
 
 ## Mentors
