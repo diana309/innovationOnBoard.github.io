@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: home
 title: UBC
 landing-title: " "
 description: null
