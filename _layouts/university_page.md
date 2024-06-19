@@ -1,0 +1,74 @@
+<!doctype html>
+<!--
+	Forty by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+  {% include head.html %}
+
+  <body>
+    {% include header.html %}
+    <section id="banner" class="banner-sponsor">
+      <div class="inner">
+        <header class="major">
+          <h1>{{ page.title }}</h1>
+        </header>
+      </div>
+    </section>
+
+    <!-- Main -->
+
+    <div id="main" class="alt">
+      <section id="one" class="alt">
+        <div class="inner">
+          <header>
+            <div class="row">
+              <div class="6u 12u$(small)">
+                <div class="box">
+                  <h1>Participant Sign Up</h1>
+                  <p>
+                    Unlock the pathway to entrepreneurship, connect with fellow
+                    startup enthusiasts, and tap into a wealth of knowledge from
+                    experienced entrepreneurs and industry professionals.
+                  </p>
+                  <ul class="actions fit">
+                    <li>
+                      <a
+                        href="{{ '/participant-signup.html' | prepend: site.baseurl | prepend: site.url }}"
+                        target="_blank"
+                        class="button fit"
+                        >Sign Up</a
+                      >
+                    </li>
+                  </ul>
+                </div>
+              </div>
+              <div class="6u 12u$(small)">
+                <div class="box">
+                  <h1>Competition Application</h1>
+                  <p>
+                    Take the first step toward an exciting adventure – submit
+                    your team application today to take part in the Innovation
+                    OnBoard competition.
+                  </p>
+                  <p>
+                    <a
+                      href="https://docs.google.com/forms/d/e/1FAIpQLSfkHvjyR-NZ-VncQWREHw_tvhDVlANN-Ga6i-bJKWxluCebdw/viewform"
+                      target="_blank"
+                      class="button fit"
+                      >Sign Up</a
+                    >
+                  </p>
+                </div>
+              </div>
+            </div>
+          </header>
+        </div>
+      </section>
+    </div>
+
+    {% include footer.html %}
+
+  </body>
+</html>
