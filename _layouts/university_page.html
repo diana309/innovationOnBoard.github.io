@@ -5,76 +5,86 @@
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 -->
 <html>
-  {% include head.html %}
+{% include head.html %}
 
-  <body>
-    {% include header.html %}
-    <section id="banner" class="banner-sponsor">
+<body>
+  {% include header.html %}
+  <section id="banner" class="banner-sponsor">
+    <div class="inner">
+      <header class="major">
+        <h1>{{ page.title }}</h1>
+      </header>
+      <p>
+        Innovation OnBoard is a student-led entrepreneurship program featuring
+        bi-weekly seminars and workshops, culminating in a premier venture
+        competition where teams compete for cash prizes. We foster innovation
+        by providing a forum to build cohesive, multidisciplinary teams,
+        simplify the entrepreneurial experience, and launch new ventures.
+      </p>
+    </div>
+  </section>
+
+  <!-- Main -->
+  <div id="main" class="alt">
+    <section id="one" class="alt">
       <div class="inner">
-        <header class="major">
-          <h1>{{ page.title }}</h1>
+        <header>
+          <div class="row">
+            <div class="6u 12u$(small)">
+              <div class="box">
+                <h1>Participant Sign Up</h1>
+                <p>
+                  Unlock the pathway to entrepreneurship, connect with fellow
+                  startup enthusiasts, and tap into a wealth of knowledge from
+                  experienced entrepreneurs and industry professionals.
+                </p>
+                <ul class="actions fit">
+                  <li>
+                    <a href="{{ '/participant-signup.html' | prepend: site.baseurl | prepend: site.url }}"
+                      target="_blank" class="button fit">Sign Up</a>
+                  </li>
+                </ul>
+              </div>
+            </div>
+            <div class="6u 12u$(small)">
+              <div class="box">
+                <h1>Competition Application</h1>
+                <p>
+                  Take the first step toward an exciting adventure – submit
+                  your team application today to take part in the Innovation
+                  OnBoard competition.
+                </p>
+                <p>
+                  <a href="https://docs.google.com/forms/d/e/1FAIpQLSfkHvjyR-NZ-VncQWREHw_tvhDVlANN-Ga6i-bJKWxluCebdw/viewform"
+                    target="_blank" class="button fit">Sign Up</a>
+                </p>
+              </div>
+            </div>
+            {% include tiles.html %}
+          </div>
         </header>
-        <p>
-          Innovation OnBoard is a student-led entrepreneurship program featuring
-          bi-weekly seminars and workshops, culminating in a premier venture
-          competition where teams compete for cash prizes. We foster innovation
-          by providing a forum to build cohesive, multidisciplinary teams,
-          simplify the entrepreneurial experience, and launch new ventures.
-        </p>
       </div>
     </section>
 
-    <!-- Main -->
-    <div id="main" class="alt">
-      <section id="one" class="alt">
-        <div class="inner">
-          <header>
-            <div class="row">
-              <div class="6u 12u$(small)">
-                <div class="box">
-                  <h1>Participant Sign Up</h1>
-                  <p>
-                    Unlock the pathway to entrepreneurship, connect with fellow
-                    startup enthusiasts, and tap into a wealth of knowledge from
-                    experienced entrepreneurs and industry professionals.
-                  </p>
-                  <ul class="actions fit">
-                    <li>
-                      <a
-                        href="{{ '/participant-signup.html' | prepend: site.baseurl | prepend: site.url }}"
-                        target="_blank"
-                        class="button fit"
-                        >Sign Up</a
-                      >
-                    </li>
-                  </ul>
-                </div>
-              </div>
-              <div class="6u 12u$(small)">
-                <div class="box">
-                  <h1>Competition Application</h1>
-                  <p>
-                    Take the first step toward an exciting adventure – submit
-                    your team application today to take part in the Innovation
-                    OnBoard competition.
-                  </p>
-                  <p>
-                    <a
-                      href="https://docs.google.com/forms/d/e/1FAIpQLSfkHvjyR-NZ-VncQWREHw_tvhDVlANN-Ga6i-bJKWxluCebdw/viewform"
-                      target="_blank"
-                      class="button fit"
-                      >Sign Up</a
-                    >
-                  </p>
-                </div>
-              </div>
-              {% include tiles.html %}
-            </div>
-          </header>
+    <!-- Prizes -->
+    <section>
+      <div class="inner">
+        <div class="row">
+          <div class="12u">
+            <h1>Prizes</h1>
+            <p>The competition finalists will compete in a Dragons' Den style presentation in front of industry judges.
+              The top three teams will receive cash prizes: </p>
+            <ul class="actions">
+              <li><a href="#!" class="button fit">1st - $5,000</a></li>
+              <li><a href="#!" class="button fit">2nd - $3,000</a></li>
+              <li><a href="#!" class="button fit">3rd - $2,000</a></li>
+            </ul>
+          </div>
         </div>
-      </section>
-    </div>
+    </section>
+  </div>
 
-    {% include footer.html %}
-  </body>
+  {% include footer.html %}
+</body>
+
 </html>
