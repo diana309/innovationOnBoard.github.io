@@ -1,6 +1,6 @@
 <section id="one" class="tiles">
-  {% for post in site.tags.{{ include.page }} limit:site.tiles-count %} {% if
-  site.tiles-source == 'posts' %}
+  {% assign tag_name = include.page %} {% for post in site.tags[tag_name]
+  limit:site.tiles-count %} {% if site.tiles-source == 'posts' %}
   <article>
     <span class="image">
       <img src="{{ post.image }}" alt="" />
