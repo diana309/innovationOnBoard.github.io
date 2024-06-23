@@ -6,6 +6,7 @@ image: assets/images/pic05.jpg
 redirect_from:
 #   - /sponsors
 #   - /sponsors.html
+tag: ubc
 ---
 
 <!-- <h1 style="color: #2a2f4a !important;">Sponsors</h1>  -->
@@ -25,7 +26,6 @@ redirect_from:
 	{% endif %}
 {% endfor %}
 </div>
-
 
 <h1 style="color: #2a2f4a !important; padding-top: 2.5rem;">Past Sponsors & Partners</h1>
 <div class="row">

@@ -6,6 +6,7 @@ image: assets/images/pic02.jpg
 redirect_from:
   - /schedule/
   - /schedule.html
+tag: ubc
 ---
 
 <div class="row">
@@ -271,4 +272,3 @@ redirect_from:
             <!-- </ul>
         </div>
     </div> -->
-
