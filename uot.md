@@ -7,4 +7,4 @@ image: null
 author: null
 ---
 
-{{ include titles.md page ="uot"}}
+{{ include titles.md page="uot"}}
