@@ -7,4 +7,4 @@ image: null
 author: null
 ---
 
-{{ include tiles.md page="uot"}}
+{% include tiles.html page="uot" %}
