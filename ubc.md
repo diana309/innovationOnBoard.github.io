@@ -7,4 +7,4 @@ image: null
 author: null
 ---
 
-{% include tiles.html %}
+{% include tiles.html page="ubc" %}
