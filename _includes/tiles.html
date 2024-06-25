@@ -17,7 +17,8 @@
     </header>
   </article>
   {% endif %} {% endfor %} {% for page in site.pages limit:site.tiles-count %}
-  {% if site.tiles-source == 'pages' %}
+  {% if site.tiles-source == 'ventures' or site.tiles-source ==
+  'university_page'%}
   <article>
     <span class="image">
       <img src="{{ page.image }}" alt="" />
