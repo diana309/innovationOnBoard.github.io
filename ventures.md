@@ -1,12 +1,14 @@
 ---
 layout: venture
-title: Ventures in 2017/2018 & 2023/2024 
+title: Ventures in 2017/2018 & 2023/2024
 description: Ventures in 2017/2018 & 2023/2024
-image: assets/images/pic13.jpg
+image: /assets/images/pic13.jpg
 redirect_from: "/ventures/"
+tag: home
+weight: 3
 ---
-{% assign members = site.members | sort: 'weight' %}
 
+{% assign members = site.members | sort: 'weight' %}
 
 <!-- ## Ventures of the 2017/2018 cohort -->
 <div class="row">

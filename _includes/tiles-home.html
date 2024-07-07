@@ -1,0 +1,20 @@
+<section id="one" class="tiles">
+  {% assign pages = site.pages | sort: 'weight' %} {% for page in pages| sort:
+  'weight' %} {% if page.tag == "home" %}
+  <article>
+    <span class="image">
+      <img src="{{ page.image }}" alt="" />
+    </span>
+    <header class="major">
+      <h3>
+        <a
+          href="{{ page.url | prepend:site.baseurl | prepend:site.url }}"
+          class="link"
+          >{{ page.title }}</a
+        >
+      </h3>
+      <p>{{ page.description }}</p>
+    </header>
+  </article>
+  {% endif %}{% endfor %}
+</section>
