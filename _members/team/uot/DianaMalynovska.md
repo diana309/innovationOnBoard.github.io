@@ -1,6 +1,6 @@
 ---
 layout: post
-weight: 100
+weight: 6
 name: Diana Malynovska
 title: Director of Marketing
 status: executive
