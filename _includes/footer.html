@@ -1,132 +1,133 @@
 <!-- Contact -->
+<div id="particles-js" style="position: absolute; width: 100%; height: 100%; z-index: -1;"></div>
 <section id="contact">
-	<div class="inner">
-		<!-- <section>
-			<h2>About Innovation OnBoard</h2>
-			<p>Innovation OnBoard is jointly hosted by the UBC Faculty of Applied Science, the UBC Department of Chemical &amp; Biological Engineering and e@UBC.</p>
-			<hr>
-			<ul class="actions">
-				<li><a href="{{ '/index.html' | prepend: site.baseurl | prepend: site.url }}" class="button fit">Home</a></li>
-				<li><a href="{{ '/2017/10/04/schedule.html' | prepend: site.baseurl | prepend: site.url }}" class="button fit">Schedule</a></li>
-				<li><a href="{{ '/2017/10/04/faq.html' | prepend: site.baseurl | prepend: site.url }}" class="button fit">FAQ</a></li>
-				<li><a href="{{ '/2017/10/04/sponsors.html' | prepend: site.baseurl | prepend: site.url }}" class="button fit">Sponsors</a></li>
-				<li><a href="{{ '/2017/10/04/team.html' | prepend: site.baseurl | prepend: site.url }}" class="button fit">Team</a></li>
-				<li><a href="https://medium.com/@innovationonboard" target="_blank" class="button fit">Blog</a></li>
-
-				<li><a href="{{ '/signup.html' | prepend: site.baseurl | prepend: site.url }}" class="button special fit">Registration</a></li>
-			</ul>
-		</section> -->
-		<section class="split">
-			<section>
-				<div class="contact-method">
-					<span class="icon alt fa-envelope"></span>
-					<h3>Email</h3>
-					<a href="mailto:{{ site.email }}">{{ site.email }}</a>
-				</div>
-			</section>
-			<section>
-				<div class="contact-method">
-					<span class="icon alt fa-phone"></span>
-					<h3>Phone</h3>
-					<span>{{ site.phone }}</span>
-				</div>
-			</section>
-			<section>
-				<div class="contact-method">
-					<span class="icon alt fa-home"></span>
-					<h3>Address</h3>
-					<span>
-					{% if site.street_address %}
-					    {{ site.street_address }}<br />
-					{% endif %}
-					{% if site.city %}
-					    {{ site.city }},
-					{% endif %}
-					{% if site.state %}
-					    {{ site.state }} 
-					{% endif %}
-					{% if site.zip_code %}
-					    {{ site.zip_code }}<br />
-					{% endif %}
-					{% if site.country %}
-					    {{ site.country }}
-					{% endif %}
-					</span>
-				</div>
-			</section>
-		</section>
-	</div>
+  <div class="inner">
+    <section class="split">
+      <section>
+        <div class="contact-method">
+          <span class="icon alt fa-envelope"></span>
+          <h3>Email</h3>
+          <a href="mailto:{{ site.email }}">{{ site.email }}</a>
+        </div>
+      </section>
+      <section>
+        <div class="contact-method">
+          <span class="icon alt fa-phone"></span>
+          <h3>Phone</h3>
+          <span>{{ site.phone }}</span>
+        </div>
+      </section>
+      <section>
+        <div class="contact-method">
+          <span class="icon alt fa-home"></span>
+          <h3>Address</h3>
+          <span>
+            {% if site.street_address %}
+            {{ site.street_address }}<br />
+            {% endif %}
+            {% if site.city %}
+            {{ site.city }},
+            {% endif %}
+            {% if site.state %}
+            {{ site.state }}
+            {% endif %}
+            {% if site.zip_code %}
+            {{ site.zip_code }}<br />
+            {% endif %}
+            {% if site.country %}
+            {{ site.country }}
+            {% endif %}
+          </span>
+        </div>
+      </section>
+    </section>
+  </div>
 </section>
 
 <!-- Footer -->
-	<footer id="footer">
-		<div class="inner">
+<footer id="footer">
+  <div class="inner">
 
-			<ul class="icons">
-				<!-- {% if site.twitter_url %}
+    <ul class="icons">
+      <!-- {% if site.twitter_url %}
 				<li><a href="{{ site.twitter_url }}" class="icon alt fa-twitter" target="_blank"><span class="label">Twitter</span></a></li>
 				{% endif %} -->
-				<!-- {% if site.googleplus_url %}
+      <!-- {% if site.googleplus_url %}
 				<li><a href="{{ site.googleplus_url }}" class="icon alt fa-google-plus" target="_blank"><span class="label">Google+</span></a></li>
 				{% endif %} -->
-				{% if site.facebook_url %}
-				<li><a href="{{ site.facebook_url }}" class="icon alt fa-facebook" target="_blank"><span class="label">Facebook</span></a></li>
-				{% endif %}
-				{% if site.instagram_url %}
-				<li><a href="{{ site.instagram_url }}" class="icon alt fa-instagram" target="_blank"><span class="label">Instagram</span></a></li>
-				{% endif %}
-				{% if site.pinterest_url %}
-				<li><a href="{{ site.pinterest_url }}" class="icon alt fa-pinterest" target="_blank"><span class="label">Pinterest</span></a></li>
-				{% endif %}
-				{% if site.gitlab_url %}
-				<li><a href="{{ site.gitlab_url }}" class="icon alt fa-gitlab" target="_blank"><span class="label">GitLab</span></a></li>
-				{% endif %}
-				{% if site.github_url %}
-				<li><a href="{{ site.github_url }}" class="icon alt fa-github" target="_blank"><span class="label">GitHub</span></a></li>
-				{% endif %}
-				<!-- {% if site.slack_url %}
+      {% if site.facebook_url %}
+      <li><a href="{{ site.facebook_url }}" class="icon alt fa-facebook" target="_blank"><span
+            class="label">Facebook</span></a></li>
+      {% endif %}
+      {% if site.instagram_url %}
+      <li><a href="{{ site.instagram_url }}" class="icon alt fa-instagram" target="_blank"><span
+            class="label">Instagram</span></a></li>
+      {% endif %}
+      {% if site.pinterest_url %}
+      <li><a href="{{ site.pinterest_url }}" class="icon alt fa-pinterest" target="_blank"><span
+            class="label">Pinterest</span></a></li>
+      {% endif %}
+      {% if site.gitlab_url %}
+      <li><a href="{{ site.gitlab_url }}" class="icon alt fa-gitlab" target="_blank"><span
+            class="label">GitLab</span></a></li>
+      {% endif %}
+      {% if site.github_url %}
+      <li><a href="{{ site.github_url }}" class="icon alt fa-github" target="_blank"><span
+            class="label">GitHub</span></a></li>
+      {% endif %}
+      <!-- {% if site.slack_url %}
 				<li><a href="{{ site.slack_url }}" class="icon alt fa-slack" target="_blank"><span class="label">Slack</span></a></li>
 				{% endif %} -->
-				{% if site.linkedin_url %}
-				<li><a href="{{ site.linkedin_url }}" class="icon alt fa-linkedin" target="_blank"><span class="label">LinkedIn</span></a></li>
-				{% endif %}
-				<!-- {% if site.medium_url %}
+      {% if site.linkedin_url %}
+      <li><a href="{{ site.linkedin_url }}" class="icon alt fa-linkedin" target="_blank"><span
+            class="label">LinkedIn</span></a></li>
+      {% endif %}
+      <!-- {% if site.medium_url %}
 				<li><a href="{{ site.medium_url }}" class="icon alt fa-medium" target="_blank"><span class="label">Medium</span></a></li>
 				{% endif %} -->
-				{% if site.flickr_url %}
-				<li><a href="{{ site.flickr_url }}" class="icon alt fa-flickr" target="_blank"><span class="label">Flickr</span></a></li>
-				{% endif %}
-				{% if site.youtube_url %}
-				<li><a href="{{ site.youtube_url }}" class="icon alt fa-youtube" target="_blank"><span class="label">YouTube</span></a></li>
-				{% endif %}
-			</ul>
+      {% if site.flickr_url %}
+      <li><a href="{{ site.flickr_url }}" class="icon alt fa-flickr" target="_blank"><span
+            class="label">Flickr</span></a></li>
+      {% endif %}
+      {% if site.youtube_url %}
+      <li><a href="{{ site.youtube_url }}" class="icon alt fa-youtube" target="_blank"><span
+            class="label">YouTube</span></a></li>
+      {% endif %}
+    </ul>
 
-			<ul class="copyright">
-				<li>&copy; {{ site.title }} {{ site.subtitle }} 2017-2024</li>
-				<!-- <li><a href="https://html5up.net" target="_blank">HTML5Up</a></li>
+    <ul class="copyright">
+      <li>&copy; {{ site.title }} {{ site.subtitle }} 2017-2024</li>
+      <!-- <li><a href="https://html5up.net" target="_blank">HTML5Up</a></li>
 				<li><a href="http://andrewbanchi.ch" target="_blank">Theme</a></li>
 				<li><a href="https://www.siang.ca" target="_blank">Dev</a></li> -->
-			</ul>
-		</div>
-	</footer>
-
-</div>
+    </ul>
+  </div>
+</footer>
 
 <!-- Scripts -->
-	<script>
-	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-	  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+<script>
+  (function (i, s, o, g, r, a, m) {
+    i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+      (i[r].q = i[r].q || []).push(arguments)
+    }, i[r].l = 1 * new Date(); a = s.createElement(o),
+      m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+  })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
 
-	  ga('create', 'UA-104881160-1', 'auto');
-	  ga('send', 'pageview');
+  ga('create', 'UA-104881160-1', 'auto');
+  ga('send', 'pageview');
 
-	</script>
-	<script src="{{ "assets/js/jquery.min.js" | absolute_url }}"></script>
-	<script src="{{ "assets/js/jquery.scrolly.min.js" | absolute_url }}"></script>
-	<script src="{{ "assets/js/jquery.scrollex.min.js" | absolute_url }}"></script>
-	<script src="{{ "assets/js/skel.min.js" | absolute_url }}"></script>
-	<script src="{{ "assets/js/util.js" | absolute_url }}"></script>
-	<!--[if lte IE 8]><script src="{{ "assets/js/ie/respond.min.js" | absolute_url }}"></script><![endif]-->
-	<script src="{{ "assets/js/main.js" | absolute_url }}"></script>
+</script>
+<script src="{{ '/assets/js/particles.js' | prepend: site.baseurl | prepend: site.url }}"></script>
+<script type="text/javascript">
+  /* particlesJS.load(@dom-id, @path-json, @callback (optional)); */
+  particlesJS.load('particles-js', 'particles.json', function () {
+    console.log('callback - particles.js config loaded');
+  });
+</script>
+<script src={{ "assets/js/jquery.min.js" | absolute_url }}></script>
+<script src={{ "assets/js/jquery.scrolly.min.js" | absolute_url }}></script>
+<script src={{ "assets/js/jquery.scrollex.min.js" | absolute_url }}></script>
+<script src={{ "assets/js/skel.min.js" | absolute_url }}></script>
+<script src={{ "assets/js/util.js" | absolute_url }}></script>
+<!--[if lte IE 8]><script src="{{ "assets/js/ie/respond.min.js" | absolute_url }}"></script><![endif]-->
+<script src={{ "assets/js/main.js" | absolute_url }}></script>
