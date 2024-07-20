@@ -4,7 +4,7 @@ subtitle: OnBoard
 email: innovationonb@gmail.com
 description: Fostering Entrepreneurship in Canada
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://www.innovationboard.ca/" # the base hostname & protocol for your site
+url: "https://www.innovationboard.ca" # the base hostname & protocol for your site
 author:
 street_address: 2360 East Mall
 city: Vancouver

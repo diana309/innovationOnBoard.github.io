@@ -2,7 +2,7 @@
 layout: post
 weight: 100
 name: Richard Sones
-status: board
+status: mentor
 title: Board
 img: /assets/images/members/richard.jpg
 email: ma.amanian [at] alumni.ubc.ca
