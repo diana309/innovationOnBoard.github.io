@@ -6,7 +6,7 @@ image: /assets/images/pic02.jpg
 redirect_from:
   - /schedule/
   - /schedule.html
-tags: ubc uot
+tags: ubc
 ---
 
 <div class="row">
