@@ -4,20 +4,10 @@ title: Board Members
 description: Innovation OnBoard Organizers
 image: /assets/images/pic01.jpg
 redirect_from: "/board"
-explanation: Discover the talented individuals who form the backbone of our project, working together with passion and dedication to make it a reality.
+explanation: Meet our board members who help us execute our mission with passion and dedication, providing invaluable guidance and expertise. Their collective experience and strategic vision ensure our continued success and growth.
 tag: home
 weight: 4
 ---
-
-{% include header.html %}
-    <section id="banner" class="banner-sponsor">
-        <div class="inner">
-            <header class="major"><h1>{{ page.title }}</h1>
-            </header>
-            <div class="content"> <p style="text-transform: none !important; font-weight: 300; font-size: 1rem;">Meet our board members who help us execute our mission with passion and dedication, providing invaluable guidance and expertise. Their collective experience and strategic vision ensure our continued success and growth.</p>	
-            </div>
-        </div>
-    </section>
 
 {% assign members = site.members | sort: 'weight' %}
 
