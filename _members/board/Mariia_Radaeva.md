@@ -1,6 +1,6 @@
 ---
 layout: post
-weight: 100
+weight: 0
 name: Mariia Radaeva
 status: board
 title: Board Member

@@ -27,7 +27,7 @@ tags: uot
                     <div class="timeline-marker"></div>
                     <div class="timeline-content">
                         <h3 class="timeline-title">Getting Started: Your Innovation Journey Begins</h3>
-                       <p><span class="timeline-desc">Speaker</span> | <b>Dr. Rosanne Aleong</b>- Director of Research, Innovation, and Translation at CABHI.</p>
+                       <p><span class="timeline-desc">Speaker</span> | <b>Dr. Rosanne Aleong</b>- Director of Research, Innovation, and Translation at CABHI</p>
                       <p><span class="timeline-desc">Lecture series</span>  |  IOB Introduction: Are you ready to embark on a journey of innovation and entrepreneurship? Look no further! Innovation Onboard (IOB) is here in Toronto, and we're thrilled to invite you to our exciting event! The first event speaker Dr. Rosanne Aleong is the director of Research, Innovation, and Translation at the Centre for Aging + Brain Health Innovation (CABHI), a solution accelerator based at Baycrest Hospital. She will introduce you the broader concept of innovation and academic research translation!</p>
                     </div>
                 </li>
@@ -63,7 +63,7 @@ tags: uot
                     <div class="timeline-marker"></div>
                     <div class="timeline-content">
                         <h3 class="timeline-title">Identifying Opportunities and Framing Problems</h3>
-                         <p><span class="timeline-desc">Speaker</span> | <b>TBD</p>
+                         <p><span class="timeline-desc">Speaker</span> | <b>TBD</b></p>
                         <p><span class="timeline-desc">Lecture series</span> | TBD</p>
                            <!-- <ul class="actions">
                     <li><a href="https://www.eventbrite.ca/e/innovation-and-non-linear-thinking-social-and-pizza-tickets-727026875957?aff=oddtdtcreator" target="_blank" class="button special fit">RSVP</a></li>
@@ -85,7 +85,7 @@ tags: uot
                     <div class="timeline-marker"></div>
                     <div class="timeline-content">
                         <h3 class="timeline-title">Market Research and Value Proposition</h3>
-                       <p><span class="timeline-desc">Speaker</span> | <b>TBD</p>
+                       <p><span class="timeline-desc">Speaker</span> | <b>TBD</b></p>
                         <p><span class="timeline-desc">Lecture series</span> | TBD</p> 
                           <!-- <ul class="actions">
                     <li><a href="https://www.eventbrite.ca/e/prototyping-for-products-and-instrumentation-tickets-727044588937?aff=oddtdtcreator" target="_blank" class="button special fit">RSVP</a></li>
@@ -142,7 +142,7 @@ tags: uot
                     <div class="timeline-marker"></div>
                     <div class="timeline-content">
                         <h3 class="timeline-title">Navigating Startup Stages and Fundraising Strategies</h3>
-                        <p><span class="timeline-desc">Speaker</span> | <b>Dr. Paul Santerre </b> - Professor at the University of Toronto; director of Health Innovation Hub (H2i).</p>
+                        <p><span class="timeline-desc">Speaker</span> | <b>Dr. Paul Santerre </b> - Professor at the University of Toronto; director of Health Innovation Hub (H2i)</p>
                         <p><span class="timeline-desc">Lecture series</span> | Dr. Santerre has published >220 peer-reviewed publications and is a listed inventor on >70 patents in the area of medical polymers. He is co-founder and current director of the Health Innovation Hub at the University of Toronto (a student-focused entrepreneur training cocurricular program that has trained > 650 client health science companies which have generated > $430M Cdn). Dr. Santerre will bring us the different stages of a startup lifecycle, and expand on the new opportunities that support entrepreneurship in the ecosystem.</p>
                         <!-- <ul class="actions">
                     <li><a href="https://www.eventbrite.ca/e/intellectual-property-tickets-727049363217?aff=oddtdtcreator" target="_blank" class="button special fit">RSVP</a></li>
@@ -164,7 +164,7 @@ tags: uot
                     <div class="timeline-marker"></div>
                     <div class="timeline-content">
                         <h3 class="timeline-title">Crafting Your Story: The Art of Persuasive Communication</h3>
-                       <p><span class="timeline-desc">Speaker</span> | <b>Dr. Blake Richards</b> - Associate professor at McGill University and Mila; mentor at the Creative Destruction Lab (CDL).</p>
+                       <p><span class="timeline-desc">Speaker</span> | <b>Dr. Blake Richards</b> - Associate professor at McGill University and Mila; mentor at the Creative Destruction Lab (CDL)</p>
                         <p><span class="timeline-desc">Lecture series</span> | Learn the power of storytelling to captivate your audience, drive engagement, and ultimately boost your sales. This interactive workshop will equip you with the skills to harness the magic of storytelling, making your innovation stand out in a crowded market.
                         </p>
                         <!-- <ul class="actions">
@@ -180,7 +180,7 @@ tags: uot
                     <div class="timeline-marker"></div>
                     <div class="timeline-content">
                         <h3 class="timeline-title">Mastering the Pitch: Workshop and Practice</h3>
-                       <p><span class="timeline-desc">Speaker</span> | <b>TBD</p>
+                       <p><span class="timeline-desc">Speaker</span> | <b>TBD</b></p>
                         <p><span class="timeline-desc">Lecture series</span> | TBD</p> 
                         <!-- <ul class="actions">
                     <li><a href="https://www.eventbrite.com/e/innovation-fair-tickets-772363137937?aff=oddtdtcreator" target="_blank" class="button special fit">RSVP</a></li>
@@ -255,7 +255,7 @@ tags: uot
                     <div class="timeline-marker"></div>
                     <div class="timeline-content">
                         <h3 class="timeline-title">What’s Next Workshop</h3>
-                       <p><span class="timeline-desc">Speaker</span> | <b>TBD</p>
+                       <p><span class="timeline-desc">Speaker</span> | <b>TBD</b></p>
                         <p><span class="timeline-desc">Workshop</span> | TBD</p> 
                         <!-- <ul class="actions">
                     <li><a href="https://www.eventbrite.com/e/innovation-fair-tickets-772363137937?aff=oddtdtcreator" target="_blank" class="button special fit">RSVP</a></li>

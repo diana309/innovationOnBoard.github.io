@@ -13,6 +13,7 @@ weight: 4
 
 <!-- ## Board of Advisors -->
 <div class="row">
+<h1>Board Members</h1>
 {% assign members = site.members | where:"status", "board" | sort: 'weight' %}
 {% for member in members %}
 	<div class="4u 12u$(small)" style="text-align:center;"><div class="box">
