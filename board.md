@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Board Members
 description: Innovation OnBoard Organizers
 image: /assets/images/pic01.jpg
@@ -18,11 +18,11 @@ weight: 4
             </div>
         </div>
     </section>
+
 {% assign members = site.members | sort: 'weight' %}
 
 <!-- ## Board of Advisors -->
 <div class="row">
-<div>
 {% assign members = site.members | where:"status", "board" | sort: 'weight' %}
 {% for member in members %}
 	<div class="4u 12u$(small)" style="text-align:center;"><div class="box">
@@ -38,5 +38,5 @@ weight: 4
 	<p>{{ member.biography }}</p>
 	</div></div> {% unless forloop.last %}{% cycle '', '', '</div><div class="row">' %}{% endunless %}
 {% endfor %}
-</div>
+
 </div>
