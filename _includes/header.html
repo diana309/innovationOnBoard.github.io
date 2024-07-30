@@ -1,42 +1,49 @@
 <!-- Wrapper -->
 <div id="wrapper">
 
-<!-- Header -->
-<header id="header"{% if page.layout == "landing" %} class="alt style2"{% endif %}{% if page.layout == "home" %} class="alt"{% endif %}>
-	<a href="{{ "" | absolute_url }}/" class="logo"> 
-		<div id="logo_dm">
-			<svg width="40" height="40" viewBox="0 0 166 166" fill="none" xmlns="http://www.w3.org/2000/svg">
-			<rect width="40" height="40" fill="#002047"/>
-			<rect x="42" y="55.9934" width="19.3253" height="19.3253" fill="white"/>
-			<rect x="42" y="81.5381" width="19.3253" height="19.3253" fill="white"/>
-			<rect x="42" y="107.083" width="19.3253" height="19.3253" fill="white"/>
-			<rect x="67.5449" y="107.083" width="19.3253" height="19.3253" fill="white"/>
-			<rect x="67.5449" y="81.5381" width="19.3253" height="19.3253" fill="white"/>
-			<rect x="93.0898" y="107.083" width="19.3253" height="19.3253" fill="white"/>
-			<rect x="104.796" y="72.4309" width="19.3253" height="19.3253" transform="rotate(21.3693 104.796 72.4309)" fill="white"/>
-			<rect x="101.976" y="42.9219" width="19.3253" height="19.3253" transform="rotate(-8.69603 101.976 42.9219)" fill="white"/>
-			<rect x="69.3223" y="54.3274" width="19.3253" height="19.3253" transform="rotate(-30 69.3223 54.3274)" fill="white"/>
-			</svg>
-		</div>
+  <!-- Header -->
+  <header id="header" {% if page.layout=="landing" %} class="alt style2" {% endif %}{% if page.layout=="home" %}
+    class="alt" {% endif %}>
+    <a href="{{ "" | absolute_url }}/" class="logo">
+      <div id="logo_dm">
+        <svg width="40" height="40" viewBox="0 0 166 166" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <rect width="40" height="40" fill="#002047" />
+          <rect x="42" y="55.9934" width="19.3253" height="19.3253" fill="white" />
+          <rect x="42" y="81.5381" width="19.3253" height="19.3253" fill="white" />
+          <rect x="42" y="107.083" width="19.3253" height="19.3253" fill="white" />
+          <rect x="67.5449" y="107.083" width="19.3253" height="19.3253" fill="white" />
+          <rect x="67.5449" y="81.5381" width="19.3253" height="19.3253" fill="white" />
+          <rect x="93.0898" y="107.083" width="19.3253" height="19.3253" fill="white" />
+          <rect x="104.796" y="72.4309" width="19.3253" height="19.3253" transform="rotate(21.3693 104.796 72.4309)"
+            fill="white" />
+          <rect x="101.976" y="42.9219" width="19.3253" height="19.3253" transform="rotate(-8.69603 101.976 42.9219)"
+            fill="white" />
+          <rect x="69.3223" y="54.3274" width="19.3253" height="19.3253" transform="rotate(-30 69.3223 54.3274)"
+            fill="white" />
+        </svg>
+      </div>
 
-		<strong>{{ site.title }} {{ site.subtitle }}</strong> </a>
-	<nav>
-		<a href="#menu"></a>
-	</nav>
-</header>
+      <strong>{{ site.title }} {{ site.subtitle }}</strong>
+    </a>
+    <nav>
+      <a href="#menu"></a>
+    </nav>
+  </header>
 
-<!-- Menu -->
-<nav id="menu">
-	<ul class="links">
-		<li><a href="{{ '/index.html' | prepend: site.baseurl | prepend: site.url }}">Home</a></li>
-		<!-- <li><a href="{{ 'participant-signup.html' | prepend: site.baseurl | prepend: site.url }}">Participant Sign Up</a></li> -->
-		<li><a href="{{ '/2017/10/04/uoft.html' | prepend: site.baseurl | prepend: site.url }}">IOB at UofT</a></li>
-		<!-- <li><a href="{{ '/2017/10/04/schedule.html' | prepend: site.baseurl | prepend: site.url }}" >Schedule</a></li> -->
-		<li><a href="{{ '/2017/10/04/faq.html' | prepend: site.baseurl | prepend: site.url }}">FAQ</a></li>
-		<!-- <li><a href="{{ '/2017/10/04/team.html' | prepend: site.baseurl | prepend: site.url }}">Team</a></li> -->
-		<!-- <li><a href="https://medium.com/@innovationonboard" target="_blank">Blog</a></li> -->
-	</ul>
-	<ul class="actions vertical">
-		<li><a href="https://docs.google.com/forms/d/e/1FAIpQLSeKMqJ6ppA4fe1z_3mGJAPUu7rBkWXSbdk2rt6k68-XrteSRg/viewform" target="_blank" class="button special fit">Register/Sign Up</a></li>
-	</ul>
-</nav>
+  <!-- Menu -->
+  <nav id="menu">
+    <ul class="links">
+      <li><a href="{{ '/index.html' | prepend: site.baseurl | prepend: site.url }}">Home</a></li>
+      <!-- <li><a href="{{ 'participant-signup.html' | prepend: site.baseurl | prepend: site.url }}">Participant Sign Up</a></li> -->
+      <li><a href="{{ '/ubc.html' | prepend: site.baseurl | prepend: site.url }}">IOB at UBC</a></li>
+      <li><a href="{{ '/uot.html' | prepend: site.baseurl | prepend: site.url }}">IOB at UofT</a></li>
+      <!-- <li><a href="{{ '/2017/10/04/schedule.html' | prepend: site.baseurl | prepend: site.url }}" >Schedule</a></li> -->
+      <li><a href="{{ '/2017/10/04/faq.html' | prepend: site.baseurl | prepend: site.url }}">FAQ</a></li>
+      <!-- <li><a href="{{ '/2017/10/04/team.html' | prepend: site.baseurl | prepend: site.url }}">Team</a></li> -->
+      <!-- <li><a href="https://medium.com/@innovationonboard" target="_blank">Blog</a></li> -->
+    </ul>
+    <ul class="actions vertical">
+      <li><a href="http://localhost:4000/participant-signup.html" target="_blank"
+          class="button special fit">Register/Sign Up</a></li>
+    </ul>
+  </nav>

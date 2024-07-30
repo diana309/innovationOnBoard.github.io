@@ -10,7 +10,7 @@ explanation: Unlock the pathway to entrepreneurship, connect with fellow startup
 
 <div class="6u 12u$(small)">
 <section>
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfr2Wu6BnYYTVOdEL0cF8KYEG76cxIPbi-vwyCgZ8RV8eRBqA/viewform?embedded=true" width="1200" height="1700" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfr2Wu6BnYYTVOdEL0cF8KYEG76cxIPbi-vwyCgZ8RV8eRBqA/viewform?embedded=true" width="600" height="1700" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 </section>
 
 <div class="6u 12u$(small)">
