@@ -9,11 +9,19 @@ tag: home
 weight: 4
 ---
 
+{% include header.html %}
+    <section id="banner" class="banner-sponsor">
+        <div class="inner">
+            <header class="major"><h1>{{ page.title }}</h1>
+            </header>
+            <div class="content"> <p style="text-transform: none !important; font-weight: 300; font-size: 1rem;">Meet our board members who help us execute our mission with passion and dedication, providing invaluable guidance and expertise. Their collective experience and strategic vision ensure our continued success and growth.</p>	
+            </div>
+        </div>
+    </section>
 {% assign members = site.members | sort: 'weight' %}
 
 <!-- ## Board of Advisors -->
 <div class="row">
-<h1>Board Members</h1>
 {% assign members = site.members | where:"status", "board" | sort: 'weight' %}
 {% for member in members %}
 	<div class="4u 12u$(small)" style="text-align:center;"><div class="box">
