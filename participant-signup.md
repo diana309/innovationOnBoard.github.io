@@ -48,6 +48,7 @@ explanation: Unlock the pathway to entrepreneurship, connect with fellow startup
           <option value="Postdoc">Postdoc</option>
           <option value="Staff">Staff</option>
           <option value="Alumnus">Alumnus</option>
+          <option value="Alumnus">Other</option>
         </select>
       </div>
     </div>
