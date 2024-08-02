@@ -453,23 +453,25 @@
 
 				// Rows.
 					.row {
-						display: flex;
-    					flex-wrap: wrap; 
-    					box-sizing: border-box; 
+						border-bottom: solid 1px transparent;
+						-moz-box-sizing: border-box;
+						-webkit-box-sizing: border-box;
+						box-sizing: border-box;
 					}
 
 					.row > * {
+						float: left;
+						-moz-box-sizing: border-box;
+						-webkit-box-sizing: border-box;
 						box-sizing: border-box;
-						flex: 1 1 33.33%; /* Sets the base width to 33.33% for 3 items per row */
-						padding: 0 15px;
 					}
 
-					// .row:after, .row:before {
-					// 	content: '';
-					// 	display: block;
-					// 	clear: both;
-					// 	height: 0;
-					// }
+					.row:after, .row:before {
+						content: '';
+						display: block;
+						clear: both;
+						height: 0;
+					}
 
 					.row.uniform > * > :first-child {
 						margin-top: 0;
