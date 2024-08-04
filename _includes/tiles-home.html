@@ -1,5 +1,5 @@
 <section id="one" class="tiles">
-  {% assign pages = site.pages | sort: 'weight' %} {% for page in pages| sort:
+  {% assign pages = site.pages | sort: 'weight' %} {% for page in pages | sort:
   'weight' %} {% if page.tag == "home" %}
   <article>
     <span class="image">
@@ -13,7 +13,11 @@
           >{{ page.title }}</a
         >
       </h3>
-      <p>{{ page.description }}</p>
+      <p>{{ page.description }}
+      {%if page.layout == "university_page" %}
+      </br></br>
+      <button class="button">Begin Your Journey at {{ page.short-title }} </button></p>
+      {% endif %}
     </header>
   </article>
   {% endif %}{% endfor %}

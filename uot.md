@@ -1,8 +1,9 @@
 ---
 layout: university_page
-title: University of Toronto
+title: University of TorontoA
+short-title: UoT
 landing-title: " "
-description: null
+description: IOB AT UNIVERSITY OF TORONTO
 image: assets/images/pic04.jpg
 author: null
 tag: home

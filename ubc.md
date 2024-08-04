@@ -1,8 +1,9 @@
 ---
 layout: university_page
 title: University of British Columbia
+short-title: UBC
 landing-title: " "
-description: null
+description: IOB AT UNIVERSITY OF BRITISH COLUMBIA
 image: assets/images/pic13.jpg
 author: null
 tag: home
