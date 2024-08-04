@@ -7,6 +7,7 @@ redirect_from:
   - /schedule/
   - /schedule.html
 tags: ubc
+weight: 1
 ---
 
 <div class="row">

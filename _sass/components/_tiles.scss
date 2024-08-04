@@ -25,6 +25,7 @@
 				'-webkit-filter 1s ease'
 			));
 			@include padding(4em, 4em);
+			flex: 50%;
 			background-position: center;
 			background-repeat: no-repeat;
 			background-size: cover;

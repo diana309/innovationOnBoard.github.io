@@ -7,6 +7,7 @@ redirect_from:
 #   - /sponsors
 #   - /sponsors.html
 tag: ubc
+weight: 2
 ---
 
 <!-- <h1 style="color: #2a2f4a !important;">Sponsors</h1>  -->

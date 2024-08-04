@@ -1,6 +1,6 @@
 ---
 layout: university_page
-title: University of TorontoA
+title: University of Toronto
 short-title: UoT
 landing-title: " "
 description: IOB AT UNIVERSITY OF TORONTO

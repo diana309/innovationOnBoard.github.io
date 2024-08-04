@@ -7,6 +7,7 @@ redirect_from:
   - /schedule/
   - /schedule.html
 tags: uot
+weight: 1
 ---
 
 <div class="row">
