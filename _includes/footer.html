@@ -2,37 +2,37 @@
 <div id="particles-js" style="position: absolute; width: 100%; height: 60%; z-index: -1;"></div>
 <section id="contact">
   <div class="inner">
-        <div class="contact-method">
-          <span class="icon alt fa-envelope"></span>
-          <h3>Email</h3>
-          <a href="mailto:{{ site.email }}">{{ site.email }}</a>
-        </div>
-        <div class="contact-method">
-          <span class="icon alt fa-phone"></span>
-          <h3>Phone</h3>
-          <span>{{ site.phone }}</span>
-        </div>
-        <div class="contact-method">
-          <span class="icon alt fa-home"></span>
-          <h3>Address</h3>
-          <span>
-            {% if site.street_address %}
-            {{ site.street_address }}<br />
-            {% endif %}
-            {% if site.city %}
-            {{ site.city }},
-            {% endif %}
-            {% if site.state %}
-            {{ site.state }}
-            {% endif %}
-            {% if site.zip_code %}
-            {{ site.zip_code }}<br />
-            {% endif %}
-            {% if site.country %}
-            {{ site.country }}
-            {% endif %}
-          </span>
-        </div>
+    <div class="contact-method">
+      <span class="icon alt fa-envelope"></span>
+      <h3>Email</h3>
+      <a href="mailto:{{ site.email }}">{{ site.email }}</a>
+    </div>
+    <div class="contact-method">
+      <span class="icon alt fa-phone"></span>
+      <h3>Phone</h3>
+      <span>{{ site.phone }}</span>
+    </div>
+    <div class="contact-method">
+      <span class="icon alt fa-home"></span>
+      <h3>Address</h3>
+      <span>
+        {% if site.street_address %}
+        {{ site.street_address }}<br />
+        {% endif %}
+        {% if site.city %}
+        {{ site.city }},
+        {% endif %}
+        {% if site.state %}
+        {{ site.state }}
+        {% endif %}
+        {% if site.zip_code %}
+        {{ site.zip_code }}<br />
+        {% endif %}
+        {% if site.country %}
+        {{ site.country }}
+        {% endif %}
+      </span>
+    </div>
   </div>
 </section>
 
@@ -112,7 +112,7 @@
 <script src="{{ '/assets/js/particles.js' | prepend: site.baseurl | prepend: site.url }}"></script>
 <script type="text/javascript">
   /* particlesJS.load(@dom-id, @path-json, @callback (optional)); */
-  particlesJS.load('particles-js', 'particles.json', function () {
+  particlesJS.load('particles-js', '/particles.json', function () {
     console.log('callback - particles.js config loaded');
   });
 </script>
