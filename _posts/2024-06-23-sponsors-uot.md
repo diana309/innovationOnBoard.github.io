@@ -14,12 +14,11 @@ weight: 2
 
 <h1 style="color: #2a2f4a !important;">Sponsors & Partners 2024-2025</h1>
 
-<div>Coming Soon...</div>
 <div class="row">
-<!-- {% assign sponsors = site.sponsors | sort: 'weight' %}
+{% assign sponsors = site.sponsors | where: 'campus', 'uot' | sort: 'weight' %}
 {% for sponsor in sponsors %}
 	{% if sponsor.status == 'present' %}
-		<div class="3u" style="text-align:center;">
+		<div class="2u" style="text-align:center;">
 			<span class="image fit">
             <a href="{{ sponsor.link }}">
 				<img src="{{ sponsor.img | prepend: site.baseurl | prepend: site.url }}" class="img">
@@ -27,6 +26,6 @@ weight: 2
 			</span>
 		</div>
 	{% endif %}
-{% endfor %} -->
+{% endfor %}
 </div>
 <hr>

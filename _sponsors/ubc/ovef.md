@@ -5,4 +5,5 @@ name: OVEF
 status: present
 img: /assets/images/sponsors/ovef.png
 link: https://www.vef.org
+campus: ubc
 ---

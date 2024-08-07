@@ -5,4 +5,5 @@ name: UBC Applied Science
 status: present
 img: /assets/images/sponsors/appliedscience.jpg
 link: https://apsc.ubc.ca/
+campus: ubc
 ---
