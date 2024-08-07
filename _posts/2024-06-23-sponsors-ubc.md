@@ -18,7 +18,7 @@ weight: 2
 {% assign sponsors = site.sponsors | sort: 'weight' %}
 {% for sponsor in sponsors %}
 	{% if sponsor.status == 'present' %}
-		<div class="3u" style="text-align:center;">
+		<div class="2u" style="text-align:center;">
 			<span class="image fit">
             <a href="{{ sponsor.link }}">
 				<img src="{{ sponsor.img | prepend: site.baseurl | prepend: site.url }}" class="img">
