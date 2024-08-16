@@ -1,65 +1,47 @@
-# Forty - Jekyll Theme
+# Running the Jekyll Server Locally
 
-A Jekyll version of the "Forty" theme by [HTML5 UP](https://html5up.net/).  
+- MacOS
+  - Installer `brew` package manager.
+  - `brew install ruby`
+  - `gem install --user-install bundler jekyll`
+  - `cd` to the repo root.
+  - `bundle install`
+  - `bundle exec jekyll server`
+  - Server will be running at `localhost:4000`
 
-![Forty Theme](assets/images/forty.jpg "Forty Theme")
+# Contributing
 
-# How to Use
+## Adding a new team member or board member
 
-For those unfamiliar with how Jekyll works, check out [jekyllrb.com](https://jekyllrb.com/) for all the details, 
-or read up on just the basics of [front matter](https://jekyllrb.com/docs/frontmatter/), [writing posts](https://jekyllrb.com/docs/posts/), 
-and [creating pages](https://jekyllrb.com/docs/pages/).
+1. Create a new .md file in \_members and fill in the details, use the existing ones as a template.
+2. Make sure the photo is square shaped, crop it if it is not, then add the photo to /assets/images/members/
+3. Change the weight variable to reorder members, lower weights are displayed first.
 
-- **GitLab**: Simply fork this repository and start editing the `_config.yml` file!  
-- **GitHub**: Fork this reposity and create a branch named `gh-pages`, then start editing the `_config.yml` file! The `.gitlab-ci.yml` file is only needed for GitLab Pages, so feel free to delete this if you are using GitHub instead.
+### Adding a new sponsor
 
-# Added Features
+1. Create a new .md file in \_sponsors and fill in the details, use the existing ones as a template.
+2. Crop the logo to roughly the same size as all the other ones before adding it to /assets/images/sponsors or you will break the layout.
+3. Change the weight variable to reorder sponsors, lower weights are displayed first.
 
-* **[Formspree.io](https://formspree.io/) contact form integration** - just add your email to the `_config.yml` and it works!
-* Use `_config.yml` to **set whether the homepage tiles should pull pages or posts**, as well as how many to display.
-* Add your **social profiles** easily in `_config.yml`. Only social profiles buttons you enter in `config.yml` show up on the site footer!
-* Set **featured images** in front matter.
+## Updating the front page events
 
-# Credits
+1. Go to index.md and update the event variables: event-name, event-time, event-desc, event-link etc.
+2. Make sure you do this after every event
 
-Original README from HTML5 UP:
+## Image sizes and files
+
+1. Cover picture and tiles: use the 'large' download settings from flickr
+2. Team photos: use a minimum of 200x200 or any squarish shape, it will get resized to 200x200 with CSS
+3. MAKE SURE ALL IMAGE EXTENSIONS I.E. JPG ARE lowercase (jpg not JPG)
+
+## Upating the FAQ
+
+Go to \_posts and update "2017-10-04-faq.md"
+
+## Changing the homepage video
+
+1. Go to \_layouts/home.html and replace the iframe code with the new video embed link (grab it from youtube):
 
 ```
-Forty by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
-
-
-This is Forty, my latest and greatest addition to HTML5 UP and, per its incredibly
-creative name, my 40th (woohoo)! It's built around a grid of "image tiles" that are
-set up to smoothly transition to secondary landing pages (for which a separate page
-template is provided), and includes a number of neat effects (check out the menu!),
-extra features, and all the usual stuff you'd expect. Hope you dig it!
-
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
-
-(* = not included)
-
-AJ
-aj@lkn.io | @ajlkn
-
-
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fortawesome.github.com/Font-Awesome)
-
-	Other:
-		jQuery (jquery.com)
-		html5shiv.js (@afarkas @jdalton @jon_neal @rem)
-		background-size polyfill (github.com/louisremi)
-		Misc. Sass functions (@HugoGiraudel)
-		Respond.js (j.mp/respondjs)
-		Skel (skel.io)
+<iframe width="100%" height="250" src="https://youtu.be/KyDHbgAVYvA" frameborder="0" allowfullscreen></iframe>
 ```
-
-Repository [Jekyll logo](https://github.com/jekyll/brand) icon licensed under a [Creative Commons Attribution 4.0 International License](http://choosealicense.com/licenses/cc-by-4.0/).
