@@ -1,60 +1,57 @@
-<!DOCTYPE html>
+<!doctype html>
 <!--
     Forty by HTML5 UP
     html5up.net | @ajlkn
     Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 -->
 <html>
-
 {% include head.html %}
 
-
 <body>
-
-    {% include header.html %}
-    <section id="banner" class="banner-sponsor">
-        <div class="inner">
-            <header class="major">
-                <h1>{{ page.title }}</h1>
-            </header>
-            <div class="content">
-                <p style="text-transform: none !important; font-weight: 300; font-size: 1rem;">Explore the remarkable projects completed by previous cohorts, offering valuable insights into the diverse range of topics and areas of expertise our students have delved into. These projects serve as a testament to the innovative and imaginative work produced within our program. </p>
-                <!-- <h2> Prospective mentors </h2> -->
-                <!-- <p>Interested in competing?</p> -->
-                <!-- <p><a href="https://goo.gl/forms/wYy145odJ9Fsivtv1" class="button fit">Mentor Registration</a></p> -->
-                <!-- <a href="https://goo.gl/forms/wYy145odJ9Fsivtv1" class="button fit">Mentor Registration</a> -->
-                <!-- <a href="https://goo.gl/forms/wYy145odJ9Fsivtv1" class="button fit">Mentor Registration</a> -->
-                <!-- <ul class="actions">
+  {% include header.html %}
+  <section id="banner" class="banner-sponsor">
+    <div class="inner">
+      <header class="major">
+        <h1>{{ page.title }}</h1>
+      </header>
+      <div class="content">
+        <p style="
+              text-transform: none !important;
+              font-weight: 300;
+              font-size: 1rem;
+            ">
+          Explore the remarkable projects completed by previous cohorts,
+          offering valuable insights into the diverse range of topics and
+          areas of expertise our students have delved into. These projects
+          serve as a testament to the innovative and imaginative work produced
+          within our program.
+        </p>
+        <!-- <h2> Prospective mentors </h2> -->
+        <!-- <p>Interested in competing?</p> -->
+        <!-- <p><a href="https://goo.gl/forms/wYy145odJ9Fsivtv1" class="button fit">Mentor Registration</a></p> -->
+        <!-- <a href="https://goo.gl/forms/wYy145odJ9Fsivtv1" class="button fit">Mentor Registration</a> -->
+        <!-- <a href="https://goo.gl/forms/wYy145odJ9Fsivtv1" class="button fit">Mentor Registration</a> -->
+        <!-- <ul class="actions">
                     <li><a href="{{ '/assets/infographics.pdf' | prepend: site.baseurl | prepend: site.url }}"" class="button next">Details about 2017/2018 cohort</a>
                     <a href="https://goo.gl/forms/wYy145odJ9Fsivtv1" class="button fit"> Venture registration</a>
                     </li>
                 </ul> -->
-            </div>
-        </div>
-    </section>
-
-    <!-- Main -->
-    <!-- <div id="main" class="alt"  style="background: #fff;"> -->
-
-
-<!-- Main -->
-<div id="main" class="alt">
-
-<!-- One -->
-<section id="one">
-    <div class="inner">
-        <!-- <header class="major">
-            <h1>{{ page.title }}</h1>
-        </header> -->
-        <!-- {% if page.image %}<span class="image main"><img src="{{ site.baseurl }}/{{ page.image }}" alt="" /></span>{% endif %} -->
-        <p>{{ content }}</p>
+      </div>
     </div>
-</section>
+  </section>
 
-</div>
+  <!-- Main -->
+  <!-- <div id="main" class="alt"  style="background: #fff;"> -->
 
-    {% include footer.html %}
+  <!-- Main -->
+  <div id="main" class="alt">
+    <!-- One -->
+    <section id="one">
+      <div class="inner">{{ content }}</div>
+    </section>
+  </div>
 
+  {% include footer.html %}
 </body>
 
 </html>
