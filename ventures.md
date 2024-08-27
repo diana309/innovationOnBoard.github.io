@@ -11,31 +11,33 @@ weight: 3
 {% assign members = site.members | sort: 'weight' %}
 
 <style>
-.flex-container {
-    display: flex;
-    flex-wrap: wrap;
-}
-.flex-item {
-            flex: 1 1 calc(50% - 10px);
-            box-sizing: border-box;
-            padding: 10px;
-}
+@media screen and (min-width: 800px) {
+    .flex-container {
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .flex-item {
+                flex: 1 0 calc(50% - 10px);
+                box-sizing: border-box;
+                padding: 10px;
+    }
 
-.kpi-container {
-    display: flex;
-    flex-wrap: wrap;
-    padding: 10px;
-    padding-bottom: 50px;
-    gap: 40px;
-}
-.kpi-box {
-    border: 1px solid #ccc; 
-    display: flex;
-    align-items: center;
-    padding-left: 20px;
-    padding-right: 20px;
-    padding-top: 10px;
-    padding-bottom: 10px;
+    .kpi-container {
+        display: flex;
+        flex-wrap: wrap;
+        padding: 10px;
+        padding-bottom: 50px;
+        gap: 40px;
+    }
+    .kpi-box {
+        border: 1px solid #ccc; 
+        display: flex;
+        align-items: center;
+        padding-left: 20px;
+        padding-right: 20px;
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
 }
 </style>
 
