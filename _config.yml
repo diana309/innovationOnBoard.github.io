@@ -13,6 +13,14 @@ zip_code: 2360 East Mall
 country: Canada
 phone: (236) 863-3815
 
+# UoT Contact Info
+uot_email: innovationboard.uoft@gmail.com
+uot_street_address: Sandford Fleming Building, 10 King's College Rd
+uot_city: Toronto
+uot_state: ON
+uot_zip_code: M5S 3G4
+uot_country: Canada
+
 # homepage tiles
 tiles-source: posts # accepts "posts" or "pages"
 tiles-count: 7
@@ -26,6 +34,7 @@ linkedin_url: https://www.linkedin.com/company/innovation-onboard-ubc/
 flickr_url: https://www.flickr.com/photos/199382947@N06/
 medium_url: https://medium.com/@innovationonboard
 youtube_url: https://www.youtube.com/@InnovationOnBoard
+eventbrite_url: https://www.eventbrite.ca/o/innovation-onboard-34101770019
 
 # build settings
 markdown: kramdown
@@ -56,3 +65,7 @@ collections:
   sponsors:
     output: true
     permalink: /sponsors/:path/
+
+minima:
+  social_links:
+    - platform: eventbrite # same as SVG filename.

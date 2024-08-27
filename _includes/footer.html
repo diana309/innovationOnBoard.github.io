@@ -5,7 +5,11 @@
     <div class="contact-method">
       <span class="icon alt fa-envelope"></span>
       <h3>Email</h3>
+      {%if include.page == "UoT" %}
+      <a href="mailto:{{ site.uot_email }}">{{ site.uot_email }}</a>
+      {% else %}
       <a href="mailto:{{ site.email }}">{{ site.email }}</a>
+      {% endif %}
     </div>
     <div class="contact-method">
       <span class="icon alt fa-phone"></span>
@@ -16,6 +20,23 @@
       <span class="icon alt fa-home"></span>
       <h3>Address</h3>
       <span>
+        {%if include.page == "UoT" %}
+        {% if site.uot_street_address %}
+        {{ site.uot_street_address }}<br />
+        {% endif %}
+        {% if site.uot_city %}
+        {{ site.uot_city }},
+        {% endif %}
+        {% if site.uot_state %}
+        {{ site.uot_state }}
+        {% endif %}
+        {% if site.uot_zip_code %}
+        {{ site.uot_zip_code }}<br />
+        {% endif %}
+        {% if site.uot_country %}
+        {{ site.uot_country }}
+        {% endif %}
+        {% else %}
         {% if site.street_address %}
         {{ site.street_address }}<br />
         {% endif %}
@@ -30,6 +51,7 @@
         {% endif %}
         {% if site.country %}
         {{ site.country }}
+        {% endif %}
         {% endif %}
       </span>
     </div>
@@ -84,6 +106,10 @@
       {% if site.youtube_url %}
       <li><a href="{{ site.youtube_url }}" class="icon alt fa-youtube" target="_blank"><span
             class="label">YouTube</span></a></li>
+      {% endif %}
+      {% if site.eventbrite_url %}
+      <li><a href="{{ site.eventbrite_url }}" class="icon alt fa-eventbrite" target="_blank"><span
+            class="label">EventBrite</span></a></li>
       {% endif %}
     </ul>
 
