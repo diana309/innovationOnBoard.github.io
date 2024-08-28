@@ -21,6 +21,7 @@ weight: 3
                 box-sizing: border-box;
                 padding: 10px;
     }
+}
 
     .kpi-container {
         display: flex;
@@ -38,7 +39,6 @@ weight: 3
         padding-top: 10px;
         padding-bottom: 10px;
     }
-}
 </style>
 
 <h1>Ventures 2023-2024</h1>
