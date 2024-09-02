@@ -16,7 +16,7 @@ weight: 1
           <li class="timeline-item">
             <div class="timeline-info">
               <span>September 19, 2024</span>
-              <span class="timeline-time">Time and Venue not specified</span>
+              <span class="timeline-time">TBD</span>
             </div>
             <div class="timeline-marker"></div>
             <div class="timeline-content">
@@ -35,7 +35,7 @@ weight: 1
           <li class="timeline-item">
             <div class="timeline-info">
               <span>September 26, 2024</span>
-              <span class="timeline-time">Time and Venue not specified</span>
+              <span class="timeline-time">TBD</span>
             </div>
             <div class="timeline-marker"></div>
             <div class="timeline-content">
@@ -50,7 +50,7 @@ weight: 1
           <li class="timeline-item">
             <div class="timeline-info">
               <span>November 7, 2024</span>
-              <span class="timeline-time">Time and Venue not specified</span>
+              <span class="timeline-time">TBD</span>
             </div>
             <div class="timeline-marker"></div>
             <div class="timeline-content">
@@ -66,7 +66,7 @@ weight: 1
           <li class="timeline-item">
             <div class="timeline-info">
               <span>November 21, 2024</span>
-              <span class="timeline-time">Time and Venue not specified</span>
+              <span class="timeline-time">TBD</span>
             </div>
             <div class="timeline-marker"></div>
             <div class="timeline-content">
@@ -81,7 +81,7 @@ weight: 1
           <li class="timeline-item">
             <div class="timeline-info">
               <span>December 5, 2024</span>
-              <span class="timeline-time">Time and Venue not specified</span>
+              <span class="timeline-time">TBD</span>
             </div>
             <div class="timeline-marker"></div>
             <div class="timeline-content">
@@ -97,7 +97,7 @@ weight: 1
           <li class="timeline-item">
             <div class="timeline-info">
               <span>January 9, 2025</span>
-              <span class="timeline-time">Time and Venue not specified</span>
+              <span class="timeline-time">TBD</span>
             </div>
             <div class="timeline-marker"></div>
             <div class="timeline-content">
@@ -126,7 +126,7 @@ weight: 1
           <li class="timeline-item">
             <div class="timeline-info">
               <span>January 30, 2025</span>
-              <span class="timeline-time">Time and Venue not specified</span>
+              <span class="timeline-time">TBD</span>
             </div>
             <div class="timeline-marker"></div>
             <div class="timeline-content">
@@ -155,7 +155,7 @@ weight: 1
           <li class="timeline-item">
             <div class="timeline-info">
               <span>February 13, 2025</span>
-              <span class="timeline-time">Time and Venue not specified</span>
+              <span class="timeline-time">TBD</span>
             </div>
             <div class="timeline-marker"></div>
             <div class="timeline-content">
