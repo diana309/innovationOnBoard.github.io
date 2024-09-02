@@ -10,266 +10,165 @@ tags: ubc
 weight: 1
 ---
 
-<div class="row">
-        <div class="12u$(small)">
-            <ul class="timeline">
-                <li class="timeline-item period">
-                    <div class="timeline-info"></div>
-                    <div class="timeline-marker-i"></div>
-                    <div class="timeline-content">
-                        <span class="button timeline-title header-inner">September 2023</span>
-                    </div>
-                </li>
-                <li class="timeline-item">
-                    <div class="timeline-info">
-                        <span>September 20, 2023</span>
-                      <span class="timeline-time">6:30PM, UBC CHBE 101</span>
-                    </div>
-                    <div class="timeline-marker"></div>
-                    <div class="timeline-content">
-                        <h3 class="timeline-title">IOB Introduction + Social</h3>
-                        <p>
-                            <span class="timeline-desc">Speakers</span> | <b>Chang Han</b> - Lead EiR (Entrepreneur in Residence) at e@UBC.<br>
-                            <b>Francis Steiner</b> - EiR at e@UBC; HATCH Founder; COO of Proton Intelligence Inc.<br>
-                            <b>Roman Kozak</b> - Co-founder and CTO at Verdi.<br>
-                            <b>Arthur Chen</b> - Co-founder & CEO - Verdi.
-                        </p>
-                    </div>
-                      <p><span class="timeline-desc">IOB Introduction</span>  | Are you ready to embark on a journey of innovation and entrepreneurship? Look no further! Innovation Onboard (IOB) is back, and we're thrilled to invite you to our exciting event.</p>
-                </li>
-                <li class="timeline-item">
-                    <div class="timeline-info">
-                        <span>September 27, 2023</span>
-                        <span class="timeline-time">6:30PM, UBC CHBE 101</span>
-                    </div>
-                    <div class="timeline-marker"></div>
-                    <div class="timeline-content">
-                        <h3 class="timeline-title"> Where to Start with Entrepreneurship?</h3>
-                         <p><span class="timeline-desc">Speaker</span> | <b>Chang Han</b> - Lead EiR (Entrepreneur in Residence) at e@UBC.</p>
-                        <p><span class="timeline-desc">Lecture series</span> | Chang Han is an entrepreneur, consultant-investor, and professor, specializing in entrepreneurship, startup growth strategy and market entry. He co-founded 3 currently operating businesses in biotech, international trade for sports performance beverages, and electric mountain bikes, and is also an investor and shareholder for several other startups in urban mining, CPG and tech.
-                        </p>
-                          <!-- <ul class="actions">
-                    <li><a href="https://www.eventbrite.ca/e/where-to-start-with-entrepreneurship-tickets-720538248297?aff=oddtdtcreator" target="_blank" class="button special fit">RSVP</a></li>
-                        </ul> -->
-                    </div>
-                     </li>
-                <li class="timeline-item period">
-                    <div class="timeline-info"></div>
-                    <div class="timeline-marker"></div>
-                    <div class="timeline-content">
-                        <span class="button timeline-title header-inner">October 2023</span>
-                    </div>
-                </li>
-                <li class="timeline-item">
-                    <div class="timeline-info">
-                        <span>October 19, 2023</span>
-                        <span class="timeline-time">6:30PM, UBC CHBE 101</span>
-                    </div>
-                    <div class="timeline-marker"></div>
-                    <div class="timeline-content">
-                        <h3 class="timeline-title">Innovation and Non-Linear Thinking; Failing Faster, Succeeding Better + Social </h3>
-                         <p><span class="timeline-desc">Speaker</span> | <b>Claudio Arato, P.Eng., FEC</b> - CTO-SonoAsh, Provectus: Creating and Mentoring ESG Cleantech Process Innovations for Maximum Value from Solid and Liquid Waste.</p>
-                        <p><span class="timeline-desc">Lecture series</span> | Claudio Arato is a dedicated advocate for cleantech innovation, boasting over 25 years of experience in inventing, developing, and optimizing environmentally friendly technologies. He has made significant contributions to various industries, from cellulosic ethanol to water treatment, and has been recognized with numerous awards for his professional service and innovation. Claudio's passion for invention, process design, and sustainability drives his impactful work, making him an invaluable asset to the field.</p>
-                           <!-- <ul class="actions">
-                    <li><a href="https://www.eventbrite.ca/e/innovation-and-non-linear-thinking-social-and-pizza-tickets-727026875957?aff=oddtdtcreator" target="_blank" class="button special fit">RSVP</a></li>
-                        </ul> -->
-                        </div>
-                </li>
-                <!-- <li class="timeline-item">
-                    <div class="timeline-info">
-                        <span>October 26, 2023</span>
-                        <span class="timeline-time">6:00PM, UBC CHBE 202</span>
-                    </div>
-                    <div class="timeline-marker"></div>
-                    <div class="timeline-content">
-                        <h3 class="timeline-title">Innovation and Non-Linear Thinking; Failing Faster, Succeeding Better</h3>
-                         <p>Coming Soon...</p>
-                        <p><span class="timeline-desc"> Mentor and student mixer</span> | So you want to start your venture tackling an important problem, but don't know where to find the challenges?  Or, perhaps, you are looking to mingle  with industry professionals and fellow-entrepreneurs? Then the Mentor and Student Mixer is just for you! The night will consist of some ice breaker events such as "speed dating" sessions between mentors and students  followed up by a networking session with full catering and drinks provided. At the sesion, invited professionals will share their ideas and challenges they experience in their industry. </p>
-                    </div>
-                </li> -->
-                <li class="timeline-item period">
-                    <div class="timeline-info"></div>
-                    <div class="timeline-marker"></div>
-                    <div class="timeline-content">
-                        <span class="button timeline-title header-inner">November 2023</span>
-                    </div>
-                </li>
-                <li class="timeline-item">
-                    <div class="timeline-info">
-                        <span>November 8, 2023</span>
-                         <span class="timeline-time">6:30PM, UBC CHBE 101</span>
-                    </div>
-                    <div class="timeline-marker"></div>
-                    <div class="timeline-content">
-                        <h3 class="timeline-title">Prototype!</h3>
-                       <p><span class="timeline-desc">Speaker</span> | <b>Robin Coope</b> - Instrumentation Group Leader at Canada's Michael Smith Genome Sciences Centre at BC Cancer.</p>
-                        <p><span class="timeline-desc">Lecture series</span> | Robin Coope PhD PEng, is the Group Leader for Instrumentation at the BC Cancer Michael Smith Genome Sciences Centre. He has over 25 years of experience in prototyping and early product development. His current work is centered around automated sample handling for genomics and other biomedical assays, as well as medical device projects in orthopaedic trauma and radiation oncology. He also mentors many biomedical engineering students in designing devices and apparatus destined for manufacture at BC Cancer's Joint Engineering Centre. Dr. Coope holds nine patents and two spin-off companies have emerged from the GSC's Instrumentation Group since 2012.</p> 
-                          <!-- <ul class="actions">
-                    <li><a href="https://www.eventbrite.ca/e/prototyping-for-products-and-instrumentation-tickets-727044588937?aff=oddtdtcreator" target="_blank" class="button special fit">RSVP</a></li>
-                        </ul> -->
-                    </div>
-                </li>
-                 <li class="timeline-item">
-                    <div class="timeline-info">
-                        <span>November 30, 2023</span>
-                         <span class="timeline-time">6:30PM, UBC CHBE 101</span>
-                    </div>
-                    <div class="timeline-marker"></div>
-                    <div class="timeline-content">
-                        <h3 class="timeline-title">Teaming and Ideation + Social</h3>
-                       <p><span class="timeline-desc">Speaker</span> | <b>Angèle Beausoleil</b> Assistant Professor of Teaching, Entrepreneurship and Innovation at Sauder Business School.</p>
-                        <p><span class="timeline-desc">Workshop</span> | Join us for an event with Angèle Beausoleil. We'll explore creativity, design-driven innovation, and innovation management. This interactive workshop will help students prepare for the final competition. Don't miss this chance to spark creativity and connect with fellow innovators! </p> 
-                          <!-- <ul class="actions">
-                    <li><a href="https://www.eventbrite.ca/e/teaming-and-ideation-tickets-748077238157?aff=oddtdtcreator" target="_blank" class="button special fit">RSVP</a></li>
-                        </ul> -->
-                    </div>
-                </li>
-                <!-- <li class="timeline-item">
-                    <div class="timeline-info">
-                        <span>November 30, 2023</span>
-                    </div>
-                    <div class="timeline-marker"></div>
-                    <div class="timeline-content">
-                        <h3 class="timeline-title"><b>Start Up Idea Competition Application Closes</b></h3>
-                        <p><span class="timeline-desc">Registration</span> | Join us to embark on an exciting journey of innovation, collaboration, and personal growth. This is your chance to present your innovative start-up idea and win cash prizes. Your team should consist of 1 to 5 members. All applications after the closing date will not be considered.</p>
-                         <ul class="actions">
-                    <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSfkHvjyR-NZ-VncQWREHw_tvhDVlANN-Ga6i-bJKWxluCebdw/viewform" target="_blank" class="button special fit">Register</a></li>
-                        </ul>
-                    </div> -->
-                <!-- </li>
-                <li class="timeline-item">
-                    <div class="timeline-info">
-                        <span>November 16, 2023</span>
-                        <span class="timeline-time">5PM, UBC CHBE 202</span>
-                    </div>
-                    <div class="timeline-marker"></div>
-                    <div class="timeline-content">
-                        <h3 class="timeline-title">UBC Entrepeneur Speaker Series + Social; Female Led Ventures</h3>
-                        <p>Coming Soon...</p>
-                    </div>
-                </li>
-                 <li class="timeline-item">
-                    <div class="timeline-info">
-                        <span>November 30, 2023</span>
-                        <span class="timeline-time">5PM, UBC CHBE 202</span>
-                    </div>
-                    <div class="timeline-marker"></div>
-                    <div class="timeline-content">
-                        <h3 class="timeline-title">Prototype!</h3>
-                        <p>Coming Soon...</p>
-                    </div>
-                </li> -->
-                 <li class="timeline-item period">
-                    <div class="timeline-info"></div>
-                    <div class="timeline-marker"></div>
-                    <div class="timeline-content">
-                        <span class="button timeline-title header-inner">December 2023</span>
-                    </div>
-                </li> 
-                <!-- <li class="timeline-item">
-                    <div class="timeline-info">
-                        <span>December 7, 2023</span>
-                        <span class="timeline-time">6:30PM, UBC CHBE 101</span>
-                    </div>
-                    <div class="timeline-marker"></div>
-                    <div class="timeline-content">
-                        <h3 class="timeline-title">Intellectual Property</h3>
-                        <p><span class="timeline-desc">Speaker</span> | <b>Cynthia Shippman</b> - Industrial Technology Advisor at National Research Council Canada.</p>
-                        <p><span class="timeline-desc">Lecture series</span> | Learn the basics about intellectual property including associated costs, why you need it and why it's important. Learn how to properly read, understand and "go-around" the patent claims. Cynthia, Avigilon's Intellectual Property Manager, brings over 20 years of experience in innovation management, intellectual property strategy, and research. Prior to her role at Avigilon in 2015, she served as an in-house patent agent at SWITCH Materials, UBC's University-Industry Liaison Office, and Gowlings law firm. Cynthia's contributions at UBC led to the founding of several spinoff companies, and she is a recognized IP Discussion Leader, speaker, and Canadian and US-registered Patent Agent.</p>
-                        <ul class="actions">
-                    <li><a href="https://www.eventbrite.ca/e/intellectual-property-tickets-727049363217?aff=oddtdtcreator" target="_blank" class="button special fit">RSVP</a></li>
-                        </ul>
-                    </div>
-                </li> -->
-                  <li class="timeline-item">
-                    <div class="timeline-info">
-                        <span>December 15, 2023</span>
-                    </div>
-                    <div class="timeline-marker"></div>
-                    <div class="timeline-content">
-                        <h3 class="timeline-title"><b>Start Up Idea Competition Application Closes</b></h3>
-                        <p><span class="timeline-desc">Registration</span> | Join us to embark on an exciting journey of innovation, collaboration, and personal growth. This is your opportunity to present your innovative start-up idea and get a chance to win cash prizes. Your team should consist of 1 to 5 members. All applications after the closing date will not be considered.</p>
-                         <!-- <ul class="actions">
-                    <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSfkHvjyR-NZ-VncQWREHw_tvhDVlANN-Ga6i-bJKWxluCebdw/viewform" target="_blank" class="button special fit">Register</a></li>
-                        </ul> -->
-                    </div>
-                    </li>
-                <li class="timeline-item period">
-                    <div class="timeline-info"></div>
-                    <div class="timeline-marker"></div>
-                    <div class="timeline-content">
-                        <span class="button timeline-title header-inner">January 2024</span>
-                    </div>
-                </li>
-                  <li class="timeline-item">
-                    <div class="timeline-info">
-                        <span>January 11, 2024</span>
-			    <span class="timeline-time">6:30PM, UBC CHBE 202</span>
-                    </div>
-                    <div class="timeline-marker"></div>
-                    <div class="timeline-content">
-                        <h3 class="timeline-title">Innovation Storytelling and Storyselling - Workshop</h3>
-                       <p><span class="timeline-desc">Speaker</span> | <b>Angele Beausoleil</b> - Assistant Professor of Teaching, Entrepreneurship and Innovation at Sauder Business School.</p>
-                        <p><span class="timeline-desc">Workshop</span> | Learn the power of storytelling to captivate your audience, drive engagement, and ultimately boost your sales. This interactive workshop will equip you with the skills to harness the magic of storytelling, making your innovation stand out in a crowded market.
-                        </p>
-                        <!-- <ul class="actions">
-                    <li><a href="https://www.eventbrite.ca/e/where-to-start-with-entrepreneurship-tickets-720538248297?aff=oddtdtcreator" target="_blank" class="button special fit">RSVP</a></li>
-                        </ul> -->
-                    </div>
-                </li> 
-                 <li class="timeline-item">
-                    <div class="timeline-info">
-                        <span>January 25, 2024</span>
-			    <span class="timeline-time">6:30PM, Great Hall South, Nest</span>
-                    </div>
-                    <div class="timeline-marker"></div>
-                    <div class="timeline-content">
-                        <h3 class="timeline-title">Innovation Fair</h3>
-                        <p><span class="timeline-desc">Competition - Semifinal</span> | Join us for an exciting showcase where student teams will present their innovative startup ideas on posters. This event offers a unique networking opportunity, allowing you to mingle with budding entrepreneurs, educators, and business professionals. We look forward to seeing you there and connecting with the future of innovation and entrepreneurship!
-                        </p>
-                        <ul class="actions">
-                    <li><a href="https://www.eventbrite.com/e/innovation-fair-tickets-772363137937?aff=oddtdtcreator" target="_blank" class="button special fit">RSVP</a></li>
-                        </ul>
-                    </div>
-                </li>
-                 <li class="timeline-item">
-                    <div class="timeline-info">
-                        <span>January 30, 2024</span>
-			    <span class="timeline-time">6:30PM, UBC CHBE 202</span>
-                    </div>
-                    <div class="timeline-marker"></div>
-                    <div class="timeline-content">
-                        <h3 class="timeline-title">Pitching Workshop</h3>
-                        <p><span class="timeline-desc">Speaker</span> | <b>Michelle Sklar</b> - Head of Venture Growth Strategy & Entrepreneur In Residence at entrepreneurship@UBC, Board Member with the VEF.</p>
-                        <p><span class="timeline-desc">Workshop</span> | Michelle is a performance-driven growth marketer, communications strategist, and entrepreneur with over two decades of comprehensive achievements in both B2B and B2C industries. She has a proven track record as an executive leader in digital marketing, PR, strategic partnerships, community management, and company building. Michelle focused her professional career development on scaling ideas to impact in the Emerging Technology, Digital Media, Events, Retail, and Nonprofit industries
-                        </p>
-                        <ul class="actions">
-                    <li><a href="https://www.eventbrite.ca/e/pitching-workshop-tickets-797980520217?aff=ebdsoporgprofile" target="_blank" class="button special fit">RSVP</a></li>
-                        </ul>
-                    </div>
-                </li>
-                <li class="timeline-item period">
-                    <div class="timeline-info"></div>
-                    <div class="timeline-marker"></div>
-                    <div class="timeline-content">
-                        <span class="button timeline-title header-inner">February 2024</span>
-                    </div>
-                </li>
-                <li class="timeline-item">
-                    <div class="timeline-info">
-                        <span>February 7, 2024</span>
-			<span class="timeline-time">6:30PM, UBC Alumni Centre - Jack Poole Hall</span>
-                    </div>
-                    <div class="timeline-marker"></div>
-                    <div class="timeline-content">
-                        <h3 class="timeline-title"><b>Final Competition and Reception</b></h3>
-                        <p><span class="timeline-desc">Competition - Finals</span> | Get ready to witness some mind-blowing ideas, intense competition, and lots of inspiration. Whether you're an aspiring entrepreneur or just love innovative ideas, this is the place to be! Cheer on the participants as they showcase their creativity and present their business ideas.
-                        </p>
-                           <ul class="actions">
-                    <li><a href="https://www.eventbrite.ca/e/pitch-competition-tickets-772369948307?aff=ebdsoporgprofile" target="_blank" class="button special fit">RSVP</a></li>
-                        </ul>
-                    </div>
-                </li>
-            <!-- </ul>
-        </div>
-    </div> -->
+<ul class="timeline">
+  <li class="timeline-item">
+    <div class="timeline-info">
+      <span>September 19, 2024</span>
+      <span class="timeline-time">Time and Venue not specified</span>
+    </div>
+    <div class="timeline-marker"></div>
+    <div class="timeline-content">
+      <h3 class="timeline-title">IOB Introduction + Social</h3>
+      <p>
+        <span class="timeline-desc">Speakers</span> |<br />
+        <b>Chang Han</b> - Lead EiR (Entrepreneur in Residence) at e@UBC<br />
+        <b>Francis Steiner</b> - EiR at e@UBC; HATCH Founder; COO of Proton
+        Intelligence Inc.<br />
+        <b>Nikita Telkar</b> - Co-Lead, National Strategy / Regional Director of
+        Nucleate
+      </p>
+    </div>
+  </li>
+
+  <li class="timeline-item">
+    <div class="timeline-info">
+      <span>September 26, 2024</span>
+      <span class="timeline-time">Time and Venue not specified</span>
+    </div>
+    <div class="timeline-marker"></div>
+    <div class="timeline-content">
+      <h3 class="timeline-title">Where to Start with Entrepreneurship?</h3>
+      <p>
+        <span class="timeline-desc">Speaker</span> |<br />
+        <b>Chang Han</b> - Lead EiR (Entrepreneur in Residence) at e@UBC<br />
+      </p>
+    </div>
+  </li>
+
+  <li class="timeline-item">
+    <div class="timeline-info">
+      <span>November 7, 2024</span>
+      <span class="timeline-time">Time and Venue not specified</span>
+    </div>
+    <div class="timeline-marker"></div>
+    <div class="timeline-content">
+      <h3 class="timeline-title">Teaming and Ideation Workshop</h3>
+      <p>
+        <span class="timeline-desc">Speaker</span> |<br />
+        <b>Angele Beausoleil</b> - Assistant Professor of Teaching,
+        Entrepreneurship and Innovation at Sauder Business School<br />
+      </p>
+    </div>
+  </li>
+
+  <li class="timeline-item">
+    <div class="timeline-info">
+      <span>November 21, 2024</span>
+      <span class="timeline-time">Time and Venue not specified</span>
+    </div>
+    <div class="timeline-marker"></div>
+    <div class="timeline-content">
+      <h3 class="timeline-title">Market Research and Hypothesis Validation</h3>
+      <p>
+        <span class="timeline-desc">Speaker</span> |<br />
+        <b>Angela Hamilton</b> - Entrepreneur in Residence, CORE Stream Lead<br />
+      </p>
+    </div>
+  </li>
+
+  <li class="timeline-item">
+    <div class="timeline-info">
+      <span>December 5, 2024</span>
+      <span class="timeline-time">Time and Venue not specified</span>
+    </div>
+    <div class="timeline-marker"></div>
+    <div class="timeline-content">
+      <h3 class="timeline-title">Intellectual Property</h3>
+      <p>
+        <span class="timeline-desc">Speaker</span> |<br />
+        <b>Cynthia Shippman</b> - Industrial Technology Advisor at National
+        Research Council Canada<br />
+      </p>
+    </div>
+  </li>
+
+  <li class="timeline-item">
+    <div class="timeline-info">
+      <span>January 9, 2025</span>
+      <span class="timeline-time">Time and Venue not specified</span>
+    </div>
+    <div class="timeline-marker"></div>
+    <div class="timeline-content">
+      <h3 class="timeline-title">
+        Innovation, Storytelling, and Storyselling - Workshop
+      </h3>
+      <p>
+        <span class="timeline-desc">Speaker</span> |<br />
+        <b>Angele Beausoleil</b> - Assistant Professor of Teaching,
+        Entrepreneurship and Innovation at Sauder Business School<br />
+      </p>
+    </div>
+  </li>
+
+  <li class="timeline-item">
+    <div class="timeline-info">
+      <span>January 23, 2025</span>
+      <span class="timeline-time">6:30PM, AMS Great Hall</span>
+    </div>
+    <div class="timeline-marker"></div>
+    <div class="timeline-content">
+      <h3 class="timeline-title">Innovation Fair</h3>
+    </div>
+  </li>
+
+  <li class="timeline-item">
+    <div class="timeline-info">
+      <span>January 30, 2025</span>
+      <span class="timeline-time">Time and Venue not specified</span>
+    </div>
+    <div class="timeline-marker"></div>
+    <div class="timeline-content">
+      <h3 class="timeline-title">Pitching Workshop</h3>
+      <p>
+        <span class="timeline-desc">Speaker</span> |<br />
+        <b>Michelle Sklar</b> - Head of Venture Growth Strategy & Entrepreneur
+        In Residence at entrepreneurship@UBC, Board Member with the VEF<br />
+      </p>
+    </div>
+  </li>
+
+  <li class="timeline-item">
+    <div class="timeline-info">
+      <span>February 6, 2025</span>
+      <span class="timeline-time"
+        >6:30PM, UBC Alumni Center - Jack Poole Hall</span
+      >
+    </div>
+    <div class="timeline-marker"></div>
+    <div class="timeline-content">
+      <h3 class="timeline-title">Pitch Competition</h3>
+    </div>
+  </li>
+
+  <li class="timeline-item">
+    <div class="timeline-info">
+      <span>February 13, 2025</span>
+      <span class="timeline-time">Time and Venue not specified</span>
+    </div>
+    <div class="timeline-marker"></div>
+    <div class="timeline-content">
+      <h3 class="timeline-title">
+        Entrepreneurial Resources and Funding Insights Event
+      </h3>
+      <p>
+        <span class="timeline-desc">Speakers</span> |<br />
+        <b>Francis Steiner</b> - EiR at e@UBC; HATCH Founder; COO of Proton
+        Intelligence Inc.<br />
+        <b>Angela Hamilton</b> - Venture Founder Program<br />
+        <b>Nikita Telkar</b> - Front Row Ventures Investment Analyst, Director
+        of Nucleate in BC<br />
+        <b>Non-dilutive Funding Speaker</b> - Reached out to Futureprenuer<br />
+      </p>
+    </div>
+  </li>
+</ul>
