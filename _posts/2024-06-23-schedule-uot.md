@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Schedule
+title: Schedule 2024-2025
 description: Innovation OnBoard Events
 image: /assets/images/pic02.jpg
 redirect_from:
@@ -22,14 +22,17 @@ weight: 1
                 </li>
                 <li class="timeline-item">
                     <div class="timeline-info">
-                        <span>September, 2024</span>
-                      <span class="timeline-time">TBD</span>
+                        <span>Wednesday, September 25</span>
+                      <span class="timeline-time">4:30am - 6:30pm EDT</span>
                     </div>
                     <div class="timeline-marker"></div>
                     <div class="timeline-content">
                         <h3 class="timeline-title">Getting Started: Your Innovation Journey Begins</h3>
-                       <p><span class="timeline-desc">Speaker</span> | <b>Dr. Rosanne Aleong</b>- Director of Research, Innovation, and Translation at CABHI</p>
-                      <p><span class="timeline-desc">Lecture series</span>  |  IOB Introduction: Are you ready to embark on a journey of innovation and entrepreneurship? Look no further! Innovation Onboard (IOB) is here in Toronto, and we're thrilled to invite you to our exciting event! The first event speaker Dr. Rosanne Aleong is the director of Research, Innovation, and Translation at the Centre for Aging + Brain Health Innovation (CABHI), a solution accelerator based at Baycrest Hospital. She will introduce you the broader concept of innovation and academic research translation!</p>
+                       <p><span class="timeline-desc">Speaker</span> | <b>Dr. Paul Santerre</b>- Professor, Co-director at Health Innovation Hub, Baxter Chair in Health Technology & Commercialization (UHN)</p>
+                      <p><span class="timeline-desc">Case Study Workshop</span>  |  Dr. Santerre has published over 220 peer-reviewed publications and is a listed inventor on over 70 patents in the area of medical polymers. He is the co-founder and current director of the Health Innovation Hub at the University of Toronto, a student-focused entrepreneurial training co-curricular program that has trained over 650 client health science companies which have generated over $430 million CAD. This interactive workshop will feature hands-on case studies, where Dr. Santerre will guide us through the startup lifecycle and highlight emerging opportunities within the entrepreneurial ecosystem.</p>
+                         <ul class="actions">
+                    <li><a href="https://www.eventbrite.ca/e/getting-started-your-innovation-journey-begins-tickets-1010022633887?aff=website" target="_blank" class="button special fit">RSVP</a></li>
+                        </ul>
                     </div>
                 </li>
                 <li class="timeline-item">
