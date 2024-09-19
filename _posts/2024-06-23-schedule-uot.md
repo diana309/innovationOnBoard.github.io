@@ -28,6 +28,7 @@ weight: 1
                     <div class="timeline-marker"></div>
                     <div class="timeline-content">
                         <h3 class="timeline-title">Getting Started: Your Innovation Journey Begins</h3>
+                         <p><span class="timeline-desc">Location</span> | <b>Toronto Rehabilitation Institute, 2nd floor auditorium</b> </p>
                        <p><span class="timeline-desc">Speaker</span> | <b>Dr. Paul Santerre</b>- Professor, Co-director at Health Innovation Hub, Baxter Chair in Health Technology & Commercialization (UHN)</p>
                       <p><span class="timeline-desc">Case Study Workshop</span>  |  Dr. Santerre has published over 220 peer-reviewed publications and is a listed inventor on over 70 patents in the area of medical polymers. He is the co-founder and current director of the Health Innovation Hub at the University of Toronto, a student-focused entrepreneurial training co-curricular program that has trained over 650 client health science companies which have generated over $430 million CAD. This interactive workshop will feature hands-on case studies, where Dr. Santerre will guide us through the startup lifecycle and highlight emerging opportunities within the entrepreneurial ecosystem.</p>
                          <ul class="actions">
@@ -67,7 +68,7 @@ weight: 1
                     <div class="timeline-marker"></div>
                     <div class="timeline-content"> 
                         <h3 class="timeline-title">Building Your Dream Team</h3>
-                         <p><span class="timeline-desc">Location</span> | Galbraith Building - GB221 </p>
+                         <p><span class="timeline-desc">Location</span> | <li><a href="https://maps.app.goo.gl/HCJEMcYjP3Rrw1i86" target="_blank"> Galbraith Building - GB221 </a></li></p>
                          <p><span class="timeline-desc">Speaker</span> | <b>Anjanaa Dattani |</b>Assistant Professor at Rotman School of Management, Business Design & Innovation </p>
                         <p><span class="timeline-desc">Case Study Workshop</span> |Join us for an exciting event where you'll gain the insights and tools needed to build your dream team! This Team Formation Workshop will delve into the essentials of creating, nurturing, and sustaining a high-performance team focused on innovation. We will examine the key traits of effective teams, the necessary skillsets for success, and strategies for fostering a growth-oriented culture.
                         </p>
