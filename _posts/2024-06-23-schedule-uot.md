@@ -68,7 +68,7 @@ weight: 1
                     <div class="timeline-marker"></div>
                     <div class="timeline-content"> 
                         <h3 class="timeline-title">Building Your Dream Team</h3>
-                         <p><span class="timeline-desc">Location</span> | <li><a href="https://maps.app.goo.gl/HCJEMcYjP3Rrw1i86" target="_blank"> Galbraith Building - GB221 </a></li></p>
+                         <p><span class="timeline-desc">Location</span> | <a href="https://maps.app.goo.gl/HCJEMcYjP3Rrw1i86" target="_blank"> Galbraith Building - GB221 </a></p>
                          <p><span class="timeline-desc">Speaker</span> | <b>Anjanaa Dattani |</b>Assistant Professor at Rotman School of Management, Business Design & Innovation </p>
                         <p><span class="timeline-desc">Case Study Workshop</span> |Join us for an exciting event where you'll gain the insights and tools needed to build your dream team! This Team Formation Workshop will delve into the essentials of creating, nurturing, and sustaining a high-performance team focused on innovation. We will examine the key traits of effective teams, the necessary skillsets for success, and strategies for fostering a growth-oriented culture.
                         </p>
