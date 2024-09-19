@@ -44,12 +44,12 @@ weight: 1
                     <div class="timeline-marker"></div>
                     <div class="timeline-content"> 
                         <h3 class="timeline-title">Building Your Dream Team</h3>
-                         <p><span class="timeline-desc">Speaker</span> | <b>Lisa Yeon-Ju Mah (CDL)</b> - Director of Ventures @ CDL | AI and Entrepreneurship | Aspiring Chief "Enabling" Officer | Action Canada Fellow</p>
-                        <p><span class="timeline-desc">Lecture series</span> | Lisa Yeon-Ju Mah is the director of venture at the incubator Creative Destruction Lab (CDL). Lisa oversees CDL’s venture recruitment, she will introduce us to what makes a winning team and how to navigate the complex team dynamics to ensure success!
+                         <p><span class="timeline-desc">Speaker</span> | <b>Anjanaa Dattani</b>Assistant Professor at Rotman School of Management, Business Design & Innovation </p>
+                        <p><span class="timeline-desc">Case Study</span> |Join us for an exciting event where you'll gain the insights and tools needed to build your dream team! This Team Formation Workshop will delve into the essentials of creating, nurturing, and sustaining a high-performance team focused on innovation. We will examine the key traits of effective teams, the necessary skillsets for success, and strategies for fostering a growth-oriented culture.
                         </p>
-                          <!-- <ul class="actions">
-                    <li><a href="https://www.eventbrite.ca/e/where-to-start-with-entrepreneurship-tickets-720538248297?aff=oddtdtcreator" target="_blank" class="button special fit">RSVP</a></li>
-                        </ul> -->
+                          <ul class="actions">
+                    <li><a href="https://www.eventbrite.ca/e/building-your-dream-team-tickets-1024247681387?aff=oddtdtcreator" target="_blank" class="button special fit">RSVP</a></li>
+                        </ul>
                     </div>
                      </li>
                 <li class="timeline-item period">
@@ -59,7 +59,7 @@ weight: 1
                         <span class="button timeline-title header-inner">October 2024</span>
                     </div>
                 </li>
-                <li class="timeline-item">
+                <!-- <li class="timeline-item">
                     <div class="timeline-info">
                         <span>October, 2024</span>
                         <span class="timeline-time">UofT Campus (TBD)</span>
@@ -69,11 +69,11 @@ weight: 1
                         <h3 class="timeline-title">Identifying Opportunities and Framing Problems</h3>
                          <p><span class="timeline-desc">Speaker</span> | <b>TBD</b></p>
                         <p><span class="timeline-desc">Lecture series</span> | TBD</p>
-                           <!-- <ul class="actions">
+                            <ul class="actions">
                     <li><a href="https://www.eventbrite.ca/e/innovation-and-non-linear-thinking-social-and-pizza-tickets-727026875957?aff=oddtdtcreator" target="_blank" class="button special fit">RSVP</a></li>
-                        </ul> -->
+                        </ul> 
                         </div>
-                </li>
+                </li> -->
                 <li class="timeline-item period">
                     <div class="timeline-info"></div>
                     <div class="timeline-marker"></div>
@@ -88,8 +88,8 @@ weight: 1
                     </div>
                     <div class="timeline-marker"></div>
                     <div class="timeline-content">
-                        <h3 class="timeline-title">Market Research and Value Proposition</h3>
-                       <p><span class="timeline-desc">Speaker</span> | <b>TBD</b></p>
+                        <h3 class="timeline-title">Special panel Q&A</h3>
+                       <p><span class="timeline-desc">Speaker</span> | <b>Wayne Pommen & Morgan Barense</b></p>
                         <p><span class="timeline-desc">Lecture series</span> | TBD</p> 
                           <!-- <ul class="actions">
                     <li><a href="https://www.eventbrite.ca/e/prototyping-for-products-and-instrumentation-tickets-727044588937?aff=oddtdtcreator" target="_blank" class="button special fit">RSVP</a></li>
