@@ -15,7 +15,7 @@ phone: +1 (647) 825-1689
 
 # UoT Contact Info
 uot_email: innovationboard.uoft@gmail.com
-uot_street_address: 550 University Ave
+uot_street_address: 550 University Ave (lol)
 uot_city: Toronto
 uot_state: 
 uot_zip_code: ON M5S 3G4
@@ -23,7 +23,7 @@ uot_country: Canada
 
 # homepage tiles
 tiles-source: posts # accepts "posts" or "pages"
-tiles-count: 7
+tiles-count: 8
 
 # social settings
 500px_url:
