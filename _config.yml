@@ -11,14 +11,14 @@ city: Vancouver
 state: BC
 zip_code: 2360 East Mall
 country: Canada
-phone: (236) 863-3815
+phone: +1 (647) 825-1689
 
 # UoT Contact Info
 uot_email: innovationboard.uoft@gmail.com
-uot_street_address: Sandford Fleming Building, 10 King's College Rd
+uot_street_address: 550 University Ave
 uot_city: Toronto
-uot_state: ON
-uot_zip_code: M5S 3G4
+uot_state: 
+uot_zip_code: ON M5S 3G4
 uot_country: Canada
 
 # homepage tiles
