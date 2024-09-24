@@ -62,14 +62,14 @@ weight: 1
                 </li>
                 <li class="timeline-item">
                     <div class="timeline-info">
-                        <span>October, 2024</span>
+                        <span>Friday, October 18</span>
                         <span class="timeline-time">4:30-7:00pm EDT</span>
                     </div>
                     <div class="timeline-marker"></div>
                     <div class="timeline-content"> 
                         <h3 class="timeline-title">Building Your Dream Team</h3>
                          <p><span class="timeline-desc">Location</span> | <a href="https://maps.app.goo.gl/HCJEMcYjP3Rrw1i86" target="_blank"> Galbraith Building - GB221 </a></p>
-                         <p><span class="timeline-desc">Speaker</span> | <b>Anjanaa Dattani |</b>Assistant Professor at Rotman School of Management, Business Design & Innovation </p>
+                         <p><span class="timeline-desc">Speaker</span> | <b>Anjanaa Dattani | </b>Assistant Professor at Rotman School of Management, Business Design & Innovation </p>
                         <p><span class="timeline-desc">Case Study Workshop</span> |Join us for an exciting event where you'll gain the insights and tools needed to build your dream team! This Team Formation Workshop will delve into the essentials of creating, nurturing, and sustaining a high-performance team focused on innovation. We will examine the key traits of effective teams, the necessary skillsets for success, and strategies for fostering a growth-oriented culture.
                         </p>
                           <ul class="actions">
@@ -77,6 +77,19 @@ weight: 1
                         </ul>
                     </div>
                      </li>
+                     <li class="timeline-item">
+                    <div class="timeline-info">
+                        <span>October 25</span>
+                    </div>
+                    <div class="timeline-marker"></div>
+                    <div class="timeline-content">
+                        <h3 class="timeline-title"><b>Startup Idea Competition Application Opens</b></h3>
+                        <p><span class="timeline-desc">Registration</span> | Join us to embark on an exciting journey of innovation, collaboration, and personal growth. This is your chance to present your innovative start-up idea and win cash prizes. Your team should consist of 1 to 5 members. All applications after the closing date will not be considered.</p>
+                         <ul class="actions">
+                    <li><a href="#" target="_blank" class="button special fit">Coming Soon</a></li>
+                        </ul>
+                    </div> 
+                </li>
                 <!-- <li class="timeline-item">
                     <div class="timeline-info">
                         <span>October, 2024</span>
@@ -101,20 +114,36 @@ weight: 1
                 </li>
                 <li class="timeline-item">
                     <div class="timeline-info">
-                        <span>November, 2024</span>
+                        <span>November</span>
                          <span class="timeline-time">UofT Campus (TBD)</span>
                     </div>
                     <div class="timeline-marker"></div>
                     <div class="timeline-content">
-                        <h3 class="timeline-title">Special panel Q&A</h3>
-                       <p><span class="timeline-desc">Speakers</span> | <b>Wayne Pommen & Morgan Barense</b></p>
-                        <p><span class="timeline-desc">Lecture series</span> | TBD</p> 
-                          <!-- <ul class="actions">
-                    <li><a href="https://www.eventbrite.ca/e/prototyping-for-products-and-instrumentation-tickets-727044588937?aff=oddtdtcreator" target="_blank" class="button special fit">RSVP</a></li>
-                        </ul> -->
+                        <h3 class="timeline-title">From Startups to Breakthroughs - Special Panel Q&A</h3>
+                        <p><span class="timeline-desc">Location</span> | TBD</p>
+                       <p><span class="timeline-desc">Speakers</span> | <b>Dr. Wayne Pommen & Dr. Morgan Barense</b></p>
+                        <p><span class="timeline-desc">Lecture series</span> | Wayne Pommen is the founder and former CEO of PayBright. Under his leadership, PayBright grew from 5 to 250 employees and became one of Canada’s leading fintech companies, with retail clients including Apple, Hudson’s Bay, Wayfair, Samsung, and Sephora. PayBright was acquired by Affirm, where Wayne currently serves as Chief Revenue Officer. Morgan Barense is a professor at the University of Toronto, a Canada Research Chair, and the director of the Toronto Neuroimaging Facility. She is also the CEO and founder of Dynamic Memory Solutions Inc. (DMS). Under her leadership, DMS applies advances in basic science to create practical, evidence-based solutions to combat memory loss. Drs. Pommen and Barense will share their innovation stories and answer questions from the audience in a panel-style session.
+</p> 
+                          <ul class="actions">
+                    <li><a href="https://www.eventbrite.ca/e/prototyping-for-products-and-instrumentation-tickets-727044588937?aff=oddtdtcreator" target="_blank" class="button special fit">COMING SOON</a></li>
+                        </ul>
                     </div>
                 </li>
-                <!-- <li class="timeline-item">
+                <li class="timeline-item">
+                    <div class="timeline-info">
+                        <span>November 30, 2024</span>
+                    </div>
+                    <div class="timeline-marker"></div>
+                    <div class="timeline-content">
+                        <h3 class="timeline-title"><b>Co-Founders Day</b></h3>
+                         <p><span class="timeline-desc">Location</span> | <a href="https://maps.app.goo.gl/FEpgmo7yRqaHEUXx5" target="_blank"> Toronto Rehabilitation Institute</a></p>
+                        <p><span class="timeline-desc">Registration</span> | Join us to embark on an exciting journey of innovation, collaboration, and personal growth. This is your chance to present your innovative start-up idea and win cash prizes. Your team should consist of 1 to 5 members. All applications after the closing date will not be considered.</p>
+                         <ul class="actions">
+                    <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSfkHvjyR-NZ-VncQWREHw_tvhDVlANN-Ga6i-bJKWxluCebdw/viewform" target="_blank" class="button special fit">Register</a></li>
+                        </ul>
+                    </div> 
+                </li>
+                <li class="timeline-item">
                     <div class="timeline-info">
                         <span>November 30, 2024</span>
                     </div>
@@ -125,9 +154,9 @@ weight: 1
                          <ul class="actions">
                     <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSfkHvjyR-NZ-VncQWREHw_tvhDVlANN-Ga6i-bJKWxluCebdw/viewform" target="_blank" class="button special fit">Register</a></li>
                         </ul>
-                    </div> -->
-                <!-- </li>
-                <li class="timeline-item">
+                    </div> 
+                </li>
+                <!--<li class="timeline-item">
                     <div class="timeline-info">
                         <span>November 16, 2024</span>
                         <span class="timeline-time">5PM, UBC CHBE 202</span>
