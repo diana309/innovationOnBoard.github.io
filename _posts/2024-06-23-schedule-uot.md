@@ -115,7 +115,7 @@ weight: 1
                         <p><span class="timeline-desc">Lecture series</span> | Wayne Pommen is the founder and former CEO of PayBright. Under his leadership, PayBright grew from 5 to 250 employees and became one of Canada’s leading fintech companies, with retail clients including Apple, Hudson’s Bay, Wayfair, Samsung, and Sephora. PayBright was acquired by Affirm, where Wayne currently serves as Chief Revenue Officer. Morgan Barense is a professor at the University of Toronto, a Canada Research Chair, and the director of the Toronto Neuroimaging Facility. She is also the CEO and founder of Dynamic Memory Solutions Inc. (DMS). Under her leadership, DMS applies advances in basic science to create practical, evidence-based solutions to combat memory loss. </p>
                         <p>Dr. Wayne Pommen & Dr. Morgan Barense will share their innovation stories and answer questions from the audience in a panel-style session.</p>
                           <ul class="actions">
-                            <li><a href="#" target="_blank" class="button special fit">COMING SOON</a></li>
+                            <li><a href="https://www.eventbrite.ca/e/from-startups-to-breakthroughs-special-panel-qa-tickets-1028612416427?aff=oddtdtcreator" target="_blank" class="button special fit">RSVP</a></li>
                         </ul>
                     </div>
                 </li>
