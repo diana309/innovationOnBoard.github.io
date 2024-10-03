@@ -63,13 +63,13 @@ weight: 1
                 </li>
                 <li class="timeline-item">
                     <div class="timeline-info">
-                        <span>Friday, October 18</span>
+                        <span>Monday, October 28</span>
                         <span class="timeline-time">4:30-7:00pm EDT</span>
                     </div>
                     <div class="timeline-marker"></div>
                     <div class="timeline-content"> 
                         <h3 class="timeline-title">Building Your Dream Team</h3>
-                         <p><span class="timeline-desc">Location</span> | <a href="https://maps.app.goo.gl/HCJEMcYjP3Rrw1i86" target="_blank"> Galbraith Building - GB221 </a></p>
+                         <p><span class="timeline-desc">Location</span> | <a href="https://maps.app.goo.gl/r8KYpKYXh8i8UvEh6" target="_blank">Sandford Fleming Building, Room 3202, St. George Campus</a></p>
                          <p><span class="timeline-desc">Speaker</span> | <b>Anjanaa Dattani | </b>Assistant Professor at Rotman School of Management, Business Design & Innovation </p>
                         <p><span class="timeline-desc">Case Study Workshop</span> | Anjana Dattani is a Lecturer of Business Design and Innovation at the Rotman School of Management. She brings deep facilitation expertise from her academic research and from working with thousands of executives, MBAs, and undergraduates on applying effective team formation techniques. 
                         </p>
@@ -81,7 +81,7 @@ weight: 1
                      </li>
                      <li class="timeline-item">
                     <div class="timeline-info">
-                        <span>Friday, October 18</span>
+                        <span>Monday, October 28</span>
                         <span class="timeline-time">11:59pm EDT</span>
                     </div>
                     <div class="timeline-marker"></div>
