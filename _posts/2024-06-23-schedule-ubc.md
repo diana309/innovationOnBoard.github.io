@@ -49,6 +49,21 @@ weight: 1
 
           <li class="timeline-item">
             <div class="timeline-info">
+              <span>October 24, 2024</span>
+              <span class="timeline-time">CHBE 101</span>
+            </div>
+            <div class="timeline-marker"></div>
+            <div class="timeline-content">
+              <h3 class="timeline-title">Building a Business Plan</h3>
+              <p>
+                <span class="timeline-desc">Speaker</span> |<br />
+                <b>Hassan Pardawalla</b>
+              </p>
+            </div>
+          </li>
+
+          <li class="timeline-item">
+            <div class="timeline-info">
               <span>November 7, 2024</span>
               <span class="timeline-time">TBD</span>
             </div>
