@@ -39,6 +39,7 @@ weight: 2
               Innovation OnBoard competition.
               <br>
             </p>
+            <br>
             <ul class="actions fit">
               <li>
                 <button class="button fit" disabled>Sign Up</button> 

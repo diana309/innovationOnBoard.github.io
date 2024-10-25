@@ -39,6 +39,7 @@ weight: 1
               Innovation OnBoard competition.
               <br>
             </p>
+            <br>
             <ul class="actions fit">
               <li>
                 <a href="{{ '/competition-application.html' | prepend: site.baseurl | prepend: site.url }}"
