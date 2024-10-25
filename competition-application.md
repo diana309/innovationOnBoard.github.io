@@ -36,7 +36,7 @@ explanation: Take the first step toward an exciting adventure – submit your te
 </div>
 
 <script>
-let memberCount = 1;
+let memberCount = 2;
 
     function addTeamMember() {
       const container = document.getElementById("teamMembersContainer");
