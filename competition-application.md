@@ -10,12 +10,12 @@ explanation: Take the first step toward an exciting adventure – submit your te
     <div class="6u 12u$(small)">
         <div id="signupWrapper">
         <form
-          action="https://formspree.io/f/xyzyzobl"
+          action="https://formspree.io/f/xrbgbdrv"
           method="POST"
         >
                 <div id="teamMembersContainer">
                   <div class="field">
-                    <label for="name-0">Name:</label>
+                    <label for="name-0">Name Team Member 1:</label>
                     <input type="text" id="name-0" name="name[]" required>
                   </div>
                 </div>
@@ -43,7 +43,7 @@ let memberCount = 1;
       const newMember = document.createElement("div");
       newMember.className = "field";
       newMember.innerHTML = `
-        <label for="name-${memberCount}">Name:</label>
+        <label for="name-${memberCount}">Name Team Member ${memberCount}:</label>
         <input type="text" id="name-${memberCount}" name="name[]" required>
       `;
       container.appendChild(newMember);
