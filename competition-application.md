@@ -16,7 +16,7 @@ explanation: Take the first step toward an exciting adventure – submit your te
                 <div id="teamMembersContainer">
                   <div class="field">
                     <label for="name-0">Name Team Member 1:</label>
-                    <input type="text" id="name-0" name="name[]" required>
+                    <input type="text" id="name-0" name="teamMemberNames[]" required>
                   </div>
                 </div>
                 <div class="field">
@@ -44,7 +44,7 @@ let memberCount = 2;
       newMember.className = "field";
       newMember.innerHTML = `
         <label for="name-${memberCount}">Name Team Member ${memberCount}:</label>
-        <input type="text" id="name-${memberCount}" name="name[]" required>
+        <input type="text" id="name-${memberCount}" name="teamMemberNames[]" required>
       `;
       container.appendChild(newMember);
       memberCount++;
