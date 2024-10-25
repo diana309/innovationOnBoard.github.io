@@ -9,28 +9,59 @@ explanation: Take the first step toward an exciting adventure – submit your te
 <div class="row">
     <div class="6u 12u$(small)">
         <div id="signupWrapper">
-        <form
-          action="https://formspree.io/f/xrbgbdrv"
-          method="POST"
-        >
+            <form
+              action="https://formspree.io/f/xrbgbdrv"
+              method="POST"
+            >
+                <div class="field">
+                    <label for="teamname">Team Name</label>
+                    <input type="text" id="teamname" name="teamname" required>
+                </div>
+                <div class="field">
+                    <label for="problem">What problem are you solving?</label>
+                    <textarea id="problem" name="problem" placeholder="Please describe the specific problem or challenge your startup idea aims to address."></textarea>
+                </div>
+                <div class="field">
+                    <label for="solution">What is your solution?</label>
+                    <textarea id="solution" name="solution" placeholder="Please articulate your startup's innovative solution to the problem identified earlier."></textarea>
+                </div>
+                <div class="field">
+                    <label for="additional">Anything you want to add?</label>
+                    <textarea id="additional" name="additional" placeholder="You can include any other information here."></textarea>
+                </div>
                 <div id="teamMembersContainer">
-                  <div class="field">
-                    <label for="name-0">Name Team Member 1:</label>
-                    <input type="text" id="name-0" name="teamMemberNames[]" required>
-                  </div>
+                    <div class="field">
+                        <label for="name-0">Team Member 1 Name:</label>
+                        <input type="text" id="name-0" name="teamMember-1[]" required>
+                    </div>
+                    <div class="field">
+                        <label for="email">Team Member 1 Email:</label>
+                        <input type="email" id="email" name="teamMember-1[]" required>
+                    </div>
+                    <div class="field">
+                        <label for="phone">Team Member 1 Phone Number:</label>
+                        <input type="tel" id="phone" name="teamMember-1[]">
+                    </div>
+                    <div class="field">
+                        <label for="name-1">Team Member 1 Program of Study:</label>
+                        <input type="tel" id="name-1" name="teamMember-1[]" required>
+                    </div>
+                    <div class="field">
+                        <label for="name-1">Team Member 1 Degree:</label>
+                        <input type="tel" id="name-1" name="teamMember-1[]" required>
+                    </div>
+                    <div class="field">
+                        <label for="name-1">Team Member 1 Year of Study:</label>
+                        <input type="tel" id="name-1" name="teamMember-1[]" required>
+                    </div>
+                    <div class="field">
+                        <label for="name-1">Team Member 1 PromoCode:</label>
+                        <input type="tel" id="name-1" name="teamMember-1[]" required>
+                    </div>
                 </div>
-                <div class="field">
-                    <label for="email">Email:</label>
-                    <input type="email" id="email" name="email" required>
-                </div>
-                <div class="field">
-                    <label for="phone">Phone Number:</label>
-                    <input type="tel" id="phone" name="phone">
-                </div>
-                <button type="button" onclick="addTeamMember()">Add Team Member</button>
-                <button type="submit">Submit Application</button>
-        </form>
-
+                    <button type="button" onclick="addTeamMember()">Add Team Member</button>
+                    <button type="submit">Submit Application</button>
+            </form>
         </div>
     </div>
 </div>
@@ -40,13 +71,70 @@ let memberCount = 2;
 
     function addTeamMember() {
       const container = document.getElementById("teamMembersContainer");
-      const newMember = document.createElement("div");
-      newMember.className = "field";
-      newMember.innerHTML = `
-        <label for="name-${memberCount}">Name Team Member ${memberCount}:</label>
-        <input type="text" id="name-${memberCount}" name="teamMemberNames[]" required>
+      // Add Member Name 
+      const newMemberName = document.createElement("div");
+      newMemberName.className = "field";
+      newMemberName.innerHTML = `
+        <label for="name-${memberCount}">Team Member ${memberCount} Name:</label>
+        <input type="text" id="name-${memberCount}" name="teamMember-${memberCount}[]" required>
       `;
-      container.appendChild(newMember);
+      container.appendChild(newMemberName);
+
+      // Add member email
+      const newMemberEmail = document.createElement("div");
+      newMemberEmail.className = "field";
+      newMemberEmail.innerHTML = `
+        <label for="name-${memberCount}">Team Member ${memberCount} Email:</label>
+        <input type="email" id="name-${memberCount}" name="teamMember-${memberCount}[]" required>
+      `;
+      container.appendChild(newMemberEmail);
+
+      // Add member phone
+      const newMemberPhone = document.createElement("div");
+      newMemberPhone.className = "field";
+      newMemberPhone.innerHTML = `
+        <label for="name-${memberCount}">Team Member ${memberCount} Phone Number:</label>
+        <input type="tel" id="name-${memberCount}" name="teamMember-${memberCount}[]" required>
+      `;
+      container.appendChild(newMemberPhone);
+
+      // Add Program 
+      const newMemberProgram = document.createElement("div");
+      newMemberProgram.className = "field";
+      newMemberProgram.innerHTML = `
+        <label for="name-${memberCount}">Team Member ${memberCount} Program of Study:</label>
+        <input type="tel" id="name-${memberCount}" name="teamMember-${memberCount}[]" required>
+      `;
+      container.appendChild(newMemberProgram);
+
+      // Add Degree
+      const newMemberDegree = document.createElement("div");
+      newMemberDegree.className = "field";
+      newMemberDegree.innerHTML = `
+        <label for="name-${memberCount}">Team Member ${memberCount} Degree:</label>
+        <input type="tel" id="name-${memberCount}" name="teamMember-${memberCount}[]" required>
+      `;
+      container.appendChild(newMemberDegree);
+
+      // Add Year
+      const newMemberYear = document.createElement("div");
+      newMemberYear.className = "field";
+      newMemberYear.innerHTML = `
+        <label for="name-${memberCount}">Team Member ${memberCount} Year of Study:</label>
+        <input type="tel" id="name-${memberCount}" name="teamMember-${memberCount}[]" required>
+      `;
+      container.appendChild(newMemberYear);
+
+      // Add Promo Code 
+      const newMemberPromoCode = document.createElement("div");
+      newMemberPromoCode.className = "field";
+      newMemberPromoCode.innerHTML = `
+        <label for="name-${memberCount}">Team Member ${memberCount} PromoCode:</label>
+        <input type="tel" id="name-${memberCount}" name="teamMember-${memberCount}[]" required>
+      `;
+      container.appendChild(newMemberPromoCode);
+        
+
       memberCount++;
     }
 </script>
