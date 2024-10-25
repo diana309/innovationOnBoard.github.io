@@ -25,7 +25,7 @@ weight: 1
             </p>
             <ul class="actions fit">
               <li>
-                <a href="{{ '/participant-signup.html' | prepend: site.baseurl | prepend: site.url }}"
+                <a href="{{ '/competition-application-choice.html' | prepend: site.baseurl | prepend: site.url }}"
                   target="_blank" class="button fit">Sign Up</a>
               </li>
             </ul>
