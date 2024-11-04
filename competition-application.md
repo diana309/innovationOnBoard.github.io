@@ -3,7 +3,9 @@ layout: post
 title: Competition Application
 description: Sign Up Form
 nav-menu: true
-explanation: Take the first step toward an exciting adventure – submit your team application today to join the Innovation OnBoard competition.
+explanation: |
+  Take the first step toward an exciting adventure – submit your team application today to join the Innovation OnBoard competition.
+  Accepted teams will be paired with members if possible, and will participate in the competition fair (poster pitching) and final competition (deck pitching). At least one student in a team must currently attend UBC.
 ---
 
 <div class="row">
@@ -31,31 +33,23 @@ explanation: Take the first step toward an exciting adventure – submit your te
                 </div>
                 <div id="teamMembersContainer">
                     <div class="field">
-                        <label for="name-0">Team Member 1 Name:</label>
+                        <label for="name-0">Team Member Name:</label>
                         <input type="text" id="name-0" name="teamMember-1[]" required>
                     </div>
                     <div class="field">
-                        <label for="email">Team Member 1 Email:</label>
+                        <label for="email">Team Member Email:</label>
                         <input type="email" id="email" name="teamMember-1[]" required>
                     </div>
                     <div class="field">
-                        <label for="phone">Team Member 1 Phone Number:</label>
-                        <input type="tel" id="phone" name="teamMember-1[]">
-                    </div>
-                    <div class="field">
-                        <label for="name-1">Team Member 1 Program of Study:</label>
+                        <label for="name-1">Team Member Program of Study:</label>
                         <input type="tel" id="name-1" name="teamMember-1[]" required>
                     </div>
                     <div class="field">
-                        <label for="name-1">Team Member 1 Degree:</label>
+                        <label for="name-1">Team Member Degree:</label>
                         <input type="tel" id="name-1" name="teamMember-1[]" required>
                     </div>
                     <div class="field">
-                        <label for="name-1">Team Member 1 Year of Study:</label>
-                        <input type="tel" id="name-1" name="teamMember-1[]" required>
-                    </div>
-                    <div class="field">
-                        <label for="name-1">Team Member 1 PromoCode:</label>
+                        <label for="name-1">Team Member Year of Study:</label>
                         <input type="tel" id="name-1" name="teamMember-1[]" required>
                     </div>
                 </div>
@@ -89,15 +83,6 @@ let memberCount = 2;
       `;
       container.appendChild(newMemberEmail);
 
-      // Add member phone
-      const newMemberPhone = document.createElement("div");
-      newMemberPhone.className = "field";
-      newMemberPhone.innerHTML = `
-        <label for="name-${memberCount}">Team Member ${memberCount} Phone Number:</label>
-        <input type="tel" id="name-${memberCount}" name="teamMember-${memberCount}[]" required>
-      `;
-      container.appendChild(newMemberPhone);
-
       // Add Program 
       const newMemberProgram = document.createElement("div");
       newMemberProgram.className = "field";
@@ -124,16 +109,6 @@ let memberCount = 2;
         <input type="tel" id="name-${memberCount}" name="teamMember-${memberCount}[]" required>
       `;
       container.appendChild(newMemberYear);
-
-      // Add Promo Code 
-      const newMemberPromoCode = document.createElement("div");
-      newMemberPromoCode.className = "field";
-      newMemberPromoCode.innerHTML = `
-        <label for="name-${memberCount}">Team Member ${memberCount} PromoCode:</label>
-        <input type="tel" id="name-${memberCount}" name="teamMember-${memberCount}[]" required>
-      `;
-      container.appendChild(newMemberPromoCode);
-        
 
       memberCount++;
     }

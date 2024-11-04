@@ -30,10 +30,6 @@ explanation: Take the first step toward an exciting adventure – submit your te
             <input type="text" id="program" name="program">
         </div>
         <div class="field">
-            <label for="expertise">Areas of Expertise:</label>
-            <input type="text" id="expertise" name="expertise">
-        </div>
-        <div class="field">
             <label for="skills">Primary Skills:</label>
             <input type="text" id="skills" name="skills">
         </div>
