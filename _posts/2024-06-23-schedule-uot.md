@@ -79,7 +79,7 @@ weight: 1
                         </ul>
                     </div>
                      </li>
-                     <li class="timeline-item">
+                     <!-- <li class="timeline-item">
                     <div class="timeline-info">
                         <span>Monday, October 28</span>
                         <span class="timeline-time">11:59pm EDT</span>
@@ -89,10 +89,10 @@ weight: 1
                         <h3 class="timeline-title"><b>Co-Founders Day Application Open</b></h3>
                         <p><span class="timeline-desc">Registration</span> | More information will be shared soon.</p>
                          <ul class="actions">
-                            <!-- <li><a href="#" target="_blank" class="button special fit">Coming Soon</a></li> -->
+                            <li><a href="#" target="_blank" class="button special fit">Coming Soon</a></li>
                         </ul>
-                    </div> 
-                </li> 
+                    </div>  
+                    </li> -->
                 <li class="timeline-item period"><!-- November start -->
                     <div class="timeline-info"></div>
                     <div class="timeline-marker"></div>
@@ -102,8 +102,25 @@ weight: 1
                 </li>
                 <li class="timeline-item">
                     <div class="timeline-info">
+                        <span>Wednesday, November 6</span>
+                        <span class="timeline-time">11:59pm EDT</span>
+                    </div>
+                    <div class="timeline-marker"></div>
+                    <div class="timeline-content">
+                        <h3 class="timeline-title"><b>Innovation Fair Competition Application Open</b></h3>
+                        <p><span class="timeline-desc">Competition - Semifinal</span> | The Innovation Fair marks the first stage of the Innovation OnBoard Pitch Competition. This is your chance to present your groundbreaking business ideas to a panel of judges, entrepreneurs, and esteemed UofT professors. At this dynamic fair, you’ll have the opportunity to showcase your vision, gain valuable feedback, and pitch your concept in a competitive yet supportive environment.</p>
+                        <p>Teams will be evaluated on feasibility, innovation, and impact, with the top teams advancing to the next round.</p>
+                        <p>To apply, you need a strong business idea, a cohesive and committed team, and at least one team member who is currently, or has been, a UofT student within the past six months.</p>
+                        <p>Take this opportunity to kickstart your journey in innovation. Submit your application now and join UofT’s vibrant entrepreneurial community.</p>
+                         <ul class="actions">
+                    <li><a href="https://www.innovationboard.ca/uot.html" target="_blank" class="button special fit">Apply</a></li>
+                        </ul>
+                    </div> 
+                </li>
+                <li class="timeline-item">
+                    <div class="timeline-info">
                         <span>Friday, November 8</span>
-                         <span class="timeline-time">4:00-5:00pm EDT</span>
+                         <span class="timeline-time">3:30-5:00pm EDT</span>
                     </div>
                     <div class="timeline-marker"></div>
                     <div class="timeline-content">
@@ -119,7 +136,7 @@ weight: 1
                         </ul>
                     </div>
                 </li>
-                <li class="timeline-item"> <div class="timeline-info">
+                <!-- <li class="timeline-item"> <div class="timeline-info">
                         <span>Friday, November 15</span>
                          <span class="timeline-time">11:59pm EDT</span>
                     </div>
@@ -128,7 +145,7 @@ weight: 1
                         <h3 class="timeline-title"><b>Co-Founders Day Application Closes</b></h3>
                         <p><span class="timeline-desc">Deadline</span> | More information will be shared soon.</p>
                          <ul class="actions">
-                            <!-- <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSfkHvjyR-NZ-VncQWREHw_tvhDVlANN-Ga6i-bJKWxluCebdw/viewform" target="_blank" class="button special fit">Register</a></li>  -->
+                            <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSfkHvjyR-NZ-VncQWREHw_tvhDVlANN-Ga6i-bJKWxluCebdw/viewform" target="_blank" class="button special fit">Register</a></li>
                         </ul>
                     </div> 
                 </li>
@@ -142,7 +159,7 @@ weight: 1
                         <h3 class="timeline-title"><b>Co-Founders Day Application Results</b></h3>
                         <p><span class="timeline-desc">Results</span> | More information will be shared soon.</p>
                          <ul class="actions">
-                    <!-- <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSfkHvjyR-NZ-VncQWREHw_tvhDVlANN-Ga6i-bJKWxluCebdw/viewform" target="_blank" class="button special fit">Register</a></li> -->
+                    <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSfkHvjyR-NZ-VncQWREHw_tvhDVlANN-Ga6i-bJKWxluCebdw/viewform" target="_blank" class="button special fit">Register</a></li>
                         </ul>
                     </div> 
                 </li>
@@ -157,25 +174,11 @@ weight: 1
                          <p><span class="timeline-desc">Location</span> | <a href="https://maps.app.goo.gl/FEpgmo7yRqaHEUXx5" target="_blank"> Toronto Rehabilitation Institute, 2nd floor auditorium</a></p>
                          <p><span class="timeline-desc">Teaming Activity</span> | Join us for Co-Founders' Day, where you can register as either a founder or a co-founder. Founders pitch their ideas, and co-founders choose a founder to form a team with. The event kicks off with an industry-specific speed-dating session, allowing co-founders to meet and explore ideas with founders. Afterward, attendees can network freely during an open social. The event wraps up with team registration, where teams of 1 founder plus 1-4 co-founders are formed for the final pitch competition.</p>
                          <ul class="actions">
-                            <!-- <li><a href="" target="_blank" class="button special fit">Coming Soon</a></li> -->
+                            <li><a href="" target="_blank" class="button special fit">Coming Soon</a></li>
                          </ul>
                     </div>
-                </li>
-                  <li class="timeline-item">
-                    <div class="timeline-info">
-                        <span>November</span>
-                        <span class="timeline-time">11:59pm EDT</span>
-                    </div>
-                    <div class="timeline-marker"></div>
-                    <div class="timeline-content">
-                        <h3 class="timeline-title"><b>Innovation Fair Competition Application Open</b></h3>
-                        <p><span class="timeline-desc">Competition - Semifinal</span> | More information will be shared soon.</p>
-                         <ul class="actions">
-                    <!-- <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSfkHvjyR-NZ-VncQWREHw_tvhDVlANN-Ga6i-bJKWxluCebdw/viewform" target="_blank" class="button special fit">Register</a></li> -->
-                        </ul>
-                    </div> 
-                </li>
-                 <li class="timeline-item period">
+                </li> -->
+                 <li class="timeline-item period"> <!-- December Start -->
                     <div class="timeline-info"></div>
                     <div class="timeline-marker"></div>
                     <div class="timeline-content">
@@ -184,18 +187,19 @@ weight: 1
                 </li> 
                 <li class="timeline-item">
                     <div class="timeline-info">
-                        <span>December, 2024</span>
+                        <span>Tuesday,December 3</span>
                         <span class="timeline-time">UofT Campus (TBD)</span>
                     </div>
                     <div class="timeline-marker"></div>
                     <div class="timeline-content">
                         <h3 class="timeline-title">Identifying Opportunities and Framing Problems</h3>
-                        <p><span class="timeline-desc">Location</span> | <a href="https://maps.app.goo.gl/FEpgmo7yRqaHEUXx5" target="_blank"> Toronto Rehabilitation Institute, 2nd floor auditorium</a></p>
-                        <p><span class="timeline-desc">Speaker</span> | <b>TBD </b> </p>
-                        <p><span class="timeline-desc">Lecture series</span> | This hands-on workshop is designed to empower students with the skills to spot innovation opportunities and clearly define the problems they want to solve. Participants will learn how to analyze market needs, identify gaps in their fields, and frame challenges in a structured and actionable way.</p>
-                       <!-- <ul class="actions">
+                        <p><span class="timeline-desc">Location</span> | <a href="#" target="_blank"> Hart House, East Common Room</a></p>
+                        <p><span class="timeline-desc">Speaker</span> | <b>Devin Singh</b> | CEO @ HeroAI</p>
+                        <p><span class="timeline-desc">Lecture series</span> | Dr. Devin Singh is the founder and CEO of HeroAI and an emergency room doctor at SickKids Hospital. Dr. Singh and colleagues aim to tackle the problem of overcrowded emergency rooms through an AI-based automated triage system, offering a real-world example of how technology can transform healthcare. </p>
+                        <p>In this session, you'll learn how to clearly define problems, conduct market research, and craft value propositions that set your solutions apart. Whether you’re an aspiring entrepreneur or curious about healthcare innovation, this workshop will equip you with practical tools to bring your ideas to life by addressing critical needs..</p>
+                       <ul class="actions">
                     <li><a href="#" target="_blank" class="button special fit">COMING SOON</a></li>
-                        </ul> -->
+                        </ul>
                     </div>
                     </li>
                 <li class="timeline-item period">
@@ -205,22 +209,38 @@ weight: 1
                         <span class="button timeline-title header-inner">January 2025</span>
                     </div>
                 </li>
-                  <li class="timeline-item">
+                 <li class="timeline-item">
                     <div class="timeline-info">
-                        <span>January</span>
-			    <span class="timeline-time">UofT Campus (TBD)</span>
+                        <span>Friday, January 10</span>
+                        <span class="timeline-time">TBD</span>
                     </div>
                     <div class="timeline-marker"></div>
                     <div class="timeline-content">
-                        <h3 class="timeline-title">Market Research and Value Proposition</h3>
-                        <p><span class="timeline-desc">Location</span> | <a href="https://maps.app.goo.gl/FEpgmo7yRqaHEUXx5" target="_blank"> Toronto Rehabilitation Institute, 2nd floor auditorium</a></p>
-                       <p><span class="timeline-desc">Speaker</span> | <b>TBD</b></p>
-                        <p><span class="timeline-desc">Lecture series</span> | Students will learn how to conduct effective research to understand customer needs, analyze competitors, and identify key market trends. Through hands-on activities, students will work in teams to gather and interpret data, define target audiences, and craft a compelling value proposition that clearly communicates the unique benefits of their product or idea. With expert feedback and real-time collaboration, this workshop will provide practical tools to build a strong foundation for any business or project. 
-                        </p>
-                        <!-- <ul class="actions">
-                    <li><a href="https://www.eventbrite.ca/e/where-to-start-with-entrepreneurship-tickets-720538248297?aff=oddtdtcreator" target="_blank" class="button special fit">RSVP</a></li>
-                        </ul> -->
+                        <h3 class="timeline-title">Co-Founders Day</h3>
+                         <p><span class="timeline-desc">Location</span> | <a href="https://maps.app.goo.gl/FEpgmo7yRqaHEUXx5" target="_blank"> Toronto Rehabilitation Institute, 2nd floor auditorium</a></p>
+                         <p><span class="timeline-desc">Teaming Activity</span> | Are you looking for team members to make your idea happen? Are you looking to join a team and gain experience at a pitch competition? Regardless, join us for the Co-Founder's day, where you can register as either a founder or a co-founder. Founders pitch their ideas and co-founders choose a founder to form a team with. The event kicks off with an industry-specific speed-dating session, allowing co-founders to meet and explore ideas with founders. Afterward, attendees can network freely during an open social. The event wraps up with team registration, where teams of 1 founder plus 1-3 co-founders are formed for the final pitch competition. </p>
+                         <ul class="actions">
+                            <li><a href="" target="_blank" class="button special fit">Coming Soon</a></li>
+                         </ul>
                     </div>
+                </li>
+                    <li class="timeline-item">
+                    <div class="timeline-info">
+                        <span>January</span>
+                      <span class="timeline-time">TBD</span>
+                    </div>
+                    <div class="timeline-marker"></div>
+                    <div class="timeline-content">
+                        <h3 class="timeline-title">Navigating Startup Stages and Fundraising Strategies</h3>
+                         <p><span class="timeline-desc">Location</span> | <a href="https://maps.app.goo.gl/FEpgmo7yRqaHEUXx5" target="_blank"> Toronto Rehabilitation Institute, 2nd floor auditorium</a></p>
+                       <p><span class="timeline-desc">Speaker</span> | <b>TBD</b> - TBD</p>
+                      <p><span class="timeline-desc">Workshop</span>  |  Join Innovation Onboard for an engaging workshop designed to guide aspiring entrepreneurs through the key stages of launching and scaling a startup. This event will cover essential fundraising strategies, from bootstrapping to attracting venture capital, and help you understand the right time and approach for each phase of your startup’s journey.</p>
+                      <p>Participants will also get the opportunity to apply their learning with interactive pitch rehearsal activities. These sessions will provide personalized feedback, helping you refine your pitch, clarify your value proposition, and confidently present your ideas to investors. Whether you’re just starting out or preparing for the next stage of growth, this workshop will equip you with the knowledge and skills needed to navigate the complex world of startup development and fundraising.</p>
+                         <ul class="actions">
+                            <!-- <li><a href="https://www.eventbrite.ca/e/getting-started-your-innovation-journey-begins-tickets-1010022633887?aff=website" target="_blank" class="button special fit">RSVP</a></li> -->
+                        </ul>
+                    </div>
+                </li>
                 <!-- </li> -->
                 <!-- <li class="timeline-item">
                     <div class="timeline-info">
@@ -260,24 +280,7 @@ weight: 1
                         <span class="button timeline-title header-inner">February 2025</span>
                     </div>
                 </li>
-                <li class="timeline-item">
-                    <div class="timeline-info">
-                        <span>February</span>
-                      <span class="timeline-time">TBD</span>
-                    </div>
-                    <div class="timeline-marker"></div>
-                    <div class="timeline-content">
-                        <h3 class="timeline-title">Navigating Startup Stages and Fundraising Strategies</h3>
-                         <p><span class="timeline-desc">Location</span> | <a href="https://maps.app.goo.gl/FEpgmo7yRqaHEUXx5" target="_blank"> Toronto Rehabilitation Institute, 2nd floor auditorium</a></p>
-                       <p><span class="timeline-desc">Speaker</span> | <b>Dr. Paul Santerre</b> - Professor, Co-director at Health Innovation Hub, Baxter Chair in Health Technology & Commercialization (UHN)</p>
-                      <p><span class="timeline-desc">Workshop</span>  |  Dr. Santerre has published over 220 peer-reviewed publications and is a listed inventor on over 70 patents in the area of medical polymers. He is the co-founder and current director of the Health Innovation Hub at the University of Toronto, a student-focused entrepreneurial training co-curricular program that has trained over 650 client health science companies which have generated over $430 million CAD.</p>
-                      <p>Dr. Santerre will bring us the different stages of a startup lifecycle, and expand on the new opportunities that support entrepreneurship in the ecosystem.</p>
-                         <ul class="actions">
-                            <!-- <li><a href="https://www.eventbrite.ca/e/getting-started-your-innovation-journey-begins-tickets-1010022633887?aff=website" target="_blank" class="button special fit">RSVP</a></li> -->
-                        </ul>
-                    </div>
-                </li>
-                    <li class="timeline-item">
+                    <!-- <li class="timeline-item">
                     <div class="timeline-info">
                         <span>February, 2025</span>
 			<span class="timeline-time">UofT Campus (TBD)</span>
@@ -290,34 +293,28 @@ weight: 1
                         <p><span class="timeline-desc">Competition - Finals</span> | Dr. Richards is a mentor of the creative destruction lab, an assistant professor at McGill University, and a Fellow in CIFAR’s Learning in Machines & Brains program and a Canada CIFAR AI Chair at Mila. Learn the power of storytelling from Dr. Richards to captivate your audience and drive engagement, and make your innovation stand out in a crowded market. Rehearse your pitch for the big competition in the pitch perfect workshop that follows.
                         </p>
                            <ul class="actions">
-                    <!-- <li><a href="https://www.eventbrite.ca/e/pitch-competition-tickets-772369948307?aff=ebdsoporgprofile" target="_blank" class="button special fit">RSVP</a></li> -->
+                    <li><a href="https://www.eventbrite.ca/e/pitch-competition-tickets-772369948307?aff=ebdsoporgprofile" target="_blank" class="button special fit">RSVP</a></li> 
                         </ul>
                     </div>
-                </li>
-                  <li class="timeline-item period">
-                    <div class="timeline-info"></div>
-                    <div class="timeline-marker"></div>
-                    <div class="timeline-content">
-                        <span class="button timeline-title header-inner">March 2025</span>
-                    </div>
-                </li>
-                  <li class="timeline-item">
+                </li> -->
+                <li class="timeline-item">
                     <div class="timeline-info">
-                        <span>March</span>
-                        <span class="timeline-time">11:59pm EDT</span>
+                        <span>Friday, February 7</span>
+			    <span class="timeline-time">UofT Campus (TBD)</span>
                     </div>
                     <div class="timeline-marker"></div>
                     <div class="timeline-content">
-                        <h3 class="timeline-title"><b>Innovation Fair Competition Application Close</b></h3>
-                        <p><span class="timeline-desc">Competition - Semifinal</span> | More information will be shared soon.</p>
-                         <ul class="actions">
-                    <!-- <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSfkHvjyR-NZ-VncQWREHw_tvhDVlANN-Ga6i-bJKWxluCebdw/viewform" target="_blank" class="button special fit">Register</a></li> -->
+                        <h3 class="timeline-title">Innovation Fair Competition Application Closed</h3>
+                        <p><span class="timeline-desc">Competition - Semifinal</span> | This is the last day to submit your application on our website. 
+                        </p>
+                        <ul class="actions">
+                    <!-- <li><a href="https://www.eventbrite.com/e/innovation-fair-tickets-772363137937?aff=oddtdtcreator" target="_blank" class="button special fit">RSVP</a></li> -->
                         </ul>
-                    </div> 
+                    </div>
                 </li>
                 <li class="timeline-item">
                     <div class="timeline-info">
-                        <span>March</span>
+                        <span>Friday, February 14</span>
 			    <span class="timeline-time">UofT Campus (TBD)</span>
                     </div>
                     <div class="timeline-marker"></div>
@@ -332,7 +329,7 @@ weight: 1
                 </li>
                 <li class="timeline-item">
                     <div class="timeline-info">
-                        <span>March, 2025</span>
+                        <span>Friday, February, 21</span>
 			<span class="timeline-time">UofT Campus (TBD)</span>
                     </div>
                     <div class="timeline-marker"></div>
@@ -345,6 +342,27 @@ weight: 1
                         </ul>
                     </div>
                 </li>
+                  <li class="timeline-item period">
+                    <div class="timeline-info"></div>
+                    <div class="timeline-marker"></div>
+                    <div class="timeline-content">
+                        <span class="button timeline-title header-inner">March 2025</span>
+                    </div>
+                </li>
+                  <!-- <li class="timeline-item">
+                    <div class="timeline-info">
+                        <span>March</span>
+                        <span class="timeline-time">11:59pm EDT</span>
+                    </div>
+                    <div class="timeline-marker"></div>
+                    <div class="timeline-content">
+                        <h3 class="timeline-title"><b>Innovation Fair Competition Application Close</b></h3>
+                        <p><span class="timeline-desc">Competition - Semifinal</span> | More information will be shared soon.</p>
+                         <ul class="actions">
+                     <li><a href="https://docs.google.com/forms/d/e/1FAIpQLSfkHvjyR-NZ-VncQWREHw_tvhDVlANN-Ga6i-bJKWxluCebdw/viewform" target="_blank" class="button special fit">Register</a></li>
+                        </ul>
+                    </div> 
+                </li> -->
                  <li class="timeline-item">
                     <div class="timeline-info">
                         <span>March, 2025</span>
