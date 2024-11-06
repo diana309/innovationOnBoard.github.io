@@ -42,7 +42,8 @@ weight: 2
                 <br>
                 <ul class="actions fit">
                   <li>
-                    <button class="button fit" disabled>Sign Up</button> 
+                    <a href="{{ '/competition-application-choice-uot.html' | prepend: site.baseurl | prepend: site.url }}"
+                      target="_blank" class="button fit">Sign Up</a>
                   </li>
                 </ul>
               </div>
