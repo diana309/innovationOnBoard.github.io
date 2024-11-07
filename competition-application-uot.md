@@ -4,8 +4,7 @@ title: Competition Application
 description: Sign Up Form
 nav-menu: true
 explanation: |
-  Take the first step toward an exciting adventure – submit your team application today to join the Innovation OnBoard competition.
-  Accepted teams will be paired with members if possible, and will participate in the competition fair (poster pitching) and final competition (deck pitching). At least one student in a team must currently attend UBC.
+ Take the first step toward an exciting adventure – submit your team application today to join the Innovation OnBoard competition! If your team needs additional talents, feel free to request extra members. Each team must include at least one current University of Toronto student or an alumnus who graduated in 2022 or later. You can update team details, such as adding new members, anytime before the application deadline by contacting us at innovationboard.uoft@gmail.com.
 ---
 
 <div class="row">
@@ -21,11 +20,25 @@ explanation: |
                 </div>
                 <div class="field">
                     <label for="problem">What problem are you solving?</label>
-                    <textarea id="problem" name="problem" placeholder="Please describe the specific problem or challenge your startup idea aims to address."></textarea>
+                    <textarea id="problem" name="problem" placeholder="Please describe the specific problem or challenge your startup idea aims to address." required></textarea>
                 </div>
                 <div class="field">
                     <label for="solution">What is your solution?</label>
-                    <textarea id="solution" name="solution" placeholder="Please articulate your startup's innovative solution to the problem identified earlier."></textarea>
+                    <textarea id="solution" name="solution" placeholder="Please articulate your startup's innovative solution to the problem identified earlier." required></textarea>
+                </div>
+                 <!-- Venture Idea Selection -->
+                <div class="field">
+                    <label>Would you like additional members to join your team?</label><br>
+                    <input type="radio" id="need_members" name="additional_members" value="I have an existing venture idea" required>
+                    <label for="need_members">Yes, we need additional member(s)</label><br>
+                    <input type="radio" id="open_for_members" name="additional_members" value="I want to join a team with an idea" required>
+                    <label for="open_for_members">Our team is complete, but we are open to adding more members</label>
+                    <input type="radio" id="no_members" name="additional_members" value="I want to join a team with an idea" required>
+                    <label for="no_members">Our team is complete, and we do not wish to add more members</label>
+                </div>
+                <div class="field">
+                    <label for="need_member_explanation">If you would like an additional team member, please describe your ideal candidate(s). </label>
+                    <textarea id="need_member_explanation" name="need_member_explanation" placeholder="Please be as specific as possible to help us find the perfect match"></textarea>
                 </div>
                 <div class="field">
                     <label for="additional">Anything you want to add?</label>
@@ -42,15 +55,15 @@ explanation: |
                     </div>
                     <div class="field">
                         <label for="name-1">Team Member Program of Study:</label>
-                        <input type="tel" id="name-1" name="teamMember-1[]" required>
+                        <input type="text" id="name-1" name="teamMember-1[]" required>
                     </div>
                     <div class="field">
                         <label for="name-1">Team Member Degree:</label>
-                        <input type="tel" id="name-1" name="teamMember-1[]" required>
+                        <input type="text" id="name-1" name="teamMember-1[]" required>
                     </div>
                     <div class="field">
                         <label for="name-1">Team Member Year of Study:</label>
-                        <input type="tel" id="name-1" name="teamMember-1[]" required>
+                        <input type="text" id="name-1" name="teamMember-1[]" required>
                     </div>
                 </div>
                     <button type="button" onclick="addTeamMember()">Add Team Member</button>

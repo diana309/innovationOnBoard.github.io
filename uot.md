@@ -18,32 +18,26 @@ weight: 2
           <div class="row">
             <div class="6u 12u$(small)">
               <div class="box">
-                <h1>Workshops Sign Up</h1>
-                <p>
-                  Unlock the path to entrepreneurship, connect with fellow startup enthusiasts, and gain valuable
-                  insights from experienced entrepreneurs and industry experts. Sign up to receive event reminders.
-                </p>
+                <h1>Competition Application</h1>
+                <p>Submit your team application, and our team will review it. You will receive an email notification within 4 weeks regarding the approval status of your application.</p>
+                 <br>
                 <ul class="actions fit">
                   <li>
-                    <a href="{{ '/participant-signup.html' | prepend: site.baseurl | prepend: site.url }}"
-                      target="_blank" class="button fit">Sign Up</a>
+                   <a href="{{ '/competition-application-uot.html' | prepend: site.baseurl | prepend: site.url }}" target="_blank" class="button fit">Apply as a Team</a>
                   </li>
                 </ul>
               </div>
             </div>
             <div class="6u 12u$(small)">
               <div class="box">
-                <h1>Competition Application</h1>
+                <h1>Pairing Application</h1>
                 <p>
-                  Take the first step toward an exciting adventure – submit your team application today to join the
-                  Innovation OnBoard competition.
-                  <br>
+                 Complete the pairing application, and we’ll work to match you with a team in your area of interest. We’ll keep you updated on the progress and notify you once a potential match is found.
                 </p>
                 <br>
                 <ul class="actions fit">
                   <li>
-                    <a href="{{ '/competition-application-choice-uot.html' | prepend: site.baseurl | prepend: site.url }}"
-                      target="_blank" class="button fit">Sign Up</a>
+                    <a href="{{ '/competition-application-request-pairing-uot.html' | prepend: site.baseurl | prepend: site.url }}" target="_blank" class="button fit">Find My Team</a>
                   </li>
                 </ul>
               </div>
