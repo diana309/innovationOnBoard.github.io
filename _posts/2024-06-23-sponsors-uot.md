@@ -3,10 +3,8 @@ layout: sponsor_page
 title: Sponsors
 description: Sponsors and Community Supporters
 image: /assets/images/pic05.jpg
-redirect_from:
-#   - /sponsors
-#   - /sponsors.html
 tag: uot
+short-title: UoT
 weight: 2
 ---
 

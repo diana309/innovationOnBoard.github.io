@@ -1,50 +1,46 @@
-<!DOCTYPE html>
+<!doctype html>
 <!--
 	Forty by HTML5 UP
 	html5up.net | @ajlkn
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 -->
 <html>
+  {% include head.html %}
 
-{% include head.html %}
+  <body>
+    {% include header.html %}
 
-<body>
+    <!-- Main -->
+    <div id="main" class="alt">
+      <!-- One -->
 
+      <section id="banner" class="banner-sponsor">
+        <div class="inner">
+          <header class="major">
+            <h1>{{ page.title }}</h1>
+          </header>
+          <div class="content">
+            <p
+              style="
+                text-transform: none !important;
+                font-weight: 300;
+                font-size: 1rem;
+              "
+            >
+              {{ page.explanation }}
+            </p>
+            <br />
+          </div>
+        </div>
+      </section>
 
-
-    {% include header.html %} 
-    
-    
-<!-- Main -->
-<div id="main" class="alt">
-
-<!-- One -->
-
-
-
-<section id="banner" class="banner-sponsor">
-	<div class="inner">
-		<header class="major">
-			<h1>{{ page.title }}</h1>
-		</header>
-		<div class="content">
-			<p style="text-transform: none !important; font-weight: 300; font-size: 1rem;">{{ page.explanation }}</p>
-			<br>
-		</div>
-	</div>
-</section>
-
-<section id="one">
-	<div class="inner">
-		<!-- {% if page.image %}<span class="image main"><img src="{{ site.baseurl }}/{{ page.image }}" alt="" /></span>{% endif %} -->
-		<p>{{ content }}</p>
-	</div>
-</section>
-
-</div>
-
-    {% include footer.html %}
-
-</body>
-
+      <section id="one">
+        <div class="inner">
+          <!-- {% if page.image %}<span class="image main"><img src="{{ site.baseurl }}/{{ page.image }}" alt="" /></span>{% endif %} -->
+          <p>{{ content }}</p>
+        </div>
+      </section>
+    </div>
+    {% include footer.html page=page.short-title %}
+  </body>
 </html>

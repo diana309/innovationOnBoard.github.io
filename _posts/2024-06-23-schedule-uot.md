@@ -7,6 +7,7 @@ redirect_from:
   - /schedule/
   - /schedule.html
 tags: uot
+short-title: UoT
 weight: 1
 ---
 
