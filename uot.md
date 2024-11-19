@@ -11,13 +11,14 @@ weight: 2
 ---
 
 <!-- Main -->
+  {% include header.html %}
   <section id="banner" class="banner-sponsor">
     <div class="inner">
       <header class="major">
         <h1>{{ page.title }}</h1>
       </header>
       <p>
-        Take the first step toward an exciting adventure—submit your team application today for the <b>Innovation OnBoard Pitch Competition</b> ! All accepted teams will showcase their ideas at the Innovation Fair (poster pitching), and the top teams will advance to the Final Pitch Competition (Dragon’s Den-style). Winning teams will share a prize pool of up to $3,000. Most importantly, finalists will receive guaranteed interviews and exclusive fast-track opportunities to UofT accelerators such as  <b>H2i</b>, <b>UTEST</b>, and the <b>Hatchery</b>, to bring your ideas to the next level!
+        Take the first step toward an exciting adventure—submit your team application today for the <b>Innovation OnBoard PitchCompetition</b> ! All accepted teams will showcase their ideas at the Innovation Fair (poster pitching), and the top teams will advance to the Final Pitch Competition (Dragon’s Den-style). Winning teams will share a prize pool of up to $3,000. Most importantly, finalists will receive guaranteed interviews and exclusive fast-track opportunities to UofT accelerators such as  <b>H2i</b>, <b>UTEST</b>, and the <b>Hatchery</b>, to bring your ideas to the next level!
       </p>
     </div>
   </section>
