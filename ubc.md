@@ -11,6 +11,17 @@ weight: 1
 ---
 
 <!-- Main -->
+  {% include header.html %}
+  <section id="banner" class="banner-sponsor">
+    <div class="inner">
+      <header class="major">
+        <h1>{{ page.title }}</h1>
+      </header>
+      <p>
+       Innovation OnBoard is a student-led entrepreneurship program featuring bi-weekly seminars and workshops, culminating in a premier venture competition where teams compete for cash prizes. We foster innovation by providing a forum to build cohesive, multidisciplinary teams, simplify the entrepreneurial experience, and launch new ventures.
+      </p>
+    </div>
+  </section>
 <div id="main" class="alt">
     <section id="one" class="alt">
       <div class="inner">
