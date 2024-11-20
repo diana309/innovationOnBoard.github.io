@@ -2,6 +2,7 @@
 layout: post
 title: Pairing Application
 description: Sign Up Form
+short-title: UoT
 nav-menu: true
 explanation: Take the first step toward an exciting adventure—apply to be matched with a potential co-founder! This form is for individuals who either have an idea or are looking to join a team with an existing idea. Please complete the form with as much detail as possible. After reviewing your application, we’ll aim to connect you with a team that aligns with your interests and expertise within 4-6 weeks. Please note that a match is not guaranteed, as it depends on the applications we receive. If a match is successfully found, we’ll notify you by email. You’ll also be invited to join Co-Founder’s Day—a networking event on Jan 7 designed in a speed-dating format for the pitch competition, where you can meet potential team members for the competition and beyond!
 ---
@@ -95,4 +96,3 @@ explanation: Take the first step toward an exciting adventure—apply to be matc
 </div>
 </div>
 </div>
-

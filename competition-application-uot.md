@@ -2,9 +2,10 @@
 layout: post
 title: Competition Application
 description: Sign Up Form
+short-title: UoT
 nav-menu: true
 explanation: |
- Take the first step toward an exciting adventure – submit your team application today to join the Innovation OnBoard competition! If your team needs additional talents, feel free to request extra members. Each team must include at least one current University of Toronto student or an alumnus who graduated in 2022 or later. You can update team details, such as adding new members, anytime before the application deadline by contacting us at innovationboard.uoft@gmail.com.
+  Take the first step toward an exciting adventure – submit your team application today to join the Innovation OnBoard competition! If your team needs additional talents, feel free to request extra members. Each team must include at least one current University of Toronto student or an alumnus who graduated in 2022 or later. You can update team details, such as adding new members, anytime before the application deadline by contacting us at innovationboard.uoft@gmail.com.
 ---
 
 <div class="row">
