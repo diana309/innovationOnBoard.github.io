@@ -5,44 +5,29 @@
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 -->
 <html>
-{% include head.html %}
+  {% include head.html %}
 
-<body>
-  {% include header.html %}
-  <section id="banner" class="banner-sponsor">
-    <div class="inner">
-      <header class="major">
-        <h1>{{ page.title }}</h1>
-      </header>
-      <p>
-        Innovation OnBoard is a student-led entrepreneurship program featuring
-        bi-weekly seminars and workshops, culminating in a premier venture
-        competition where teams compete for cash prizes. We foster innovation
-        by providing a forum to build cohesive, multidisciplinary teams,
-        simplify the entrepreneurial experience, and launch new ventures.
-      </p>
-    </div>
-  </section>
+  <body>
+    {% include header.html %}
 
-  <!-- Add University content -->
-  {{ content }}
+    <!-- Add University content -->
+    {{ content }}
 
-  <!-- Prizes -->
-  <section>
-    <div class="inner">
-      <div class="row">
-        <div class="12u">
-          <h1>Prizes</h1>
-          <p>
-            The competition finalists will compete in a Dragons' Den style
-            presentation in front of industry judges. The top three teams will
-            receive cash prizes.
-          </p>
+    <!-- Prizes -->
+    <section>
+      <div class="inner">
+        <div class="row">
+          <div class="12u">
+            <h1>Prizes</h1>
+            <p>
+              The competition finalists will compete in a Dragons' Den style
+              presentation in front of industry judges. The top three teams will
+              receive cash prizes.
+            </p>
+          </div>
         </div>
       </div>
-    </div>
-  </section>
-</body>
-{% include footer.html page=page.short-title %}
-
+    </section>
+  </body>
+  {% include footer.html page=page.short-title %}
 </html>
