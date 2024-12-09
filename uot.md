@@ -11,7 +11,6 @@ weight: 2
 ---
 
 <!-- Main -->
-  {% include header.html %}
   <section id="banner" class="banner-sponsor">
     <div class="inner">
       <header class="major">
