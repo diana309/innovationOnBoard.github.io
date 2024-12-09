@@ -8,12 +8,16 @@ explanation: Take the first step toward an exciting adventure – submit your te
 
 <div class="row" style="padding-bottom: 25px">
     <div class="6u 12u$(small)">
-    <h1>Competition Application</h1>
-    <p>Submit your team application, and our team will review it. You will receive an email notification within 4 weeks regarding the approval status of your application.</p>
+        <div class="box">
+            <h1>Competition Application</h1>
+            <p>Submit your team application, and our team will review it. You will receive an email notification within 4 weeks regarding the approval status of your application.</p>
+        </div>
     </div>
     <div class="6u 12u$(small)">
-    <h1>Pairing Application</h1>
-    <p>Complete the pairing application, and we’ll work to match you with a team in your area of interest. We’ll keep you updated on the progress and notify you once a potential match is found.</p>
+        <div class="box">
+            <h1>Pairing Application</h1>
+            <p>Complete the pairing application, and we’ll work to match you with a team in your area of interest. We’ll keep you updated on the progress and notify you once a potential match is found.</p>
+        </div>
     </div>
 </div>
 <div class="row">
