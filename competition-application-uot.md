@@ -29,11 +29,11 @@ explanation: |
                  <!-- Venture Idea Selection -->
                 <div class="field">
                     <label>Would you like additional members to join your team?</label><br>
-                    <input type="radio" id="need_members" name="additional_members" value="I have an existing venture idea" required>
+                    <input type="radio" id="need_members" name="additional_members" value="Yes, we need additional member(s)" required>
                     <label for="need_members">Yes, we need additional member(s)</label><br>
-                    <input type="radio" id="open_for_members" name="additional_members" value="I want to join a team with an idea" required>
-                    <label for="open_for_members">Our team is complete, but we are open to adding more members</label>
-                    <input type="radio" id="no_members" name="additional_members" value="I want to join a team with an idea" required>
+                    <input type="radio" id="open_for_members" name="additional_members" value="Team is complete, but we are open to more members" required>
+                    <label for="open_for_members">Our team is complete, but we are open to more members</label>
+                    <input type="radio" id="no_members" name="additional_members" value="We do not wish to add more member" required>
                     <label for="no_members">Our team is complete, and we do not wish to add more members</label>
                 </div>
                 <div class="field">
