@@ -2,9 +2,10 @@
 layout: post
 title: Competition Application
 description: Sign Up Form
+short-title: UoT
 nav-menu: true
 explanation: |
- Take the first step toward an exciting adventure – submit your team application today to join the Innovation OnBoard competition! If your team needs additional talents, feel free to request extra members. Each team must include at least one current University of Toronto student or an alumnus who graduated in 2022 or later. You can update team details, such as adding new members, anytime before the application deadline by contacting us at innovationboard.uoft@gmail.com.
+ Take the first step toward an exciting adventure – submit your team application today to join the Innovation OnBoard competition! If your team needs additional talents, feel free to request extra members. Each team must include at least one current University of Toronto student or an alumnus who graduated in 2022 or later. You can update team details, such as adding new members, anytime before the application deadline by contacting us at innovationboard.uoft@gmail.com. Due to website traffic, submissions may occasionally take up to 2 minutes to process. Please do not refresh or close your browser during this time
 ---
 
 <div class="row">
@@ -29,11 +30,11 @@ explanation: |
                  <!-- Venture Idea Selection -->
                 <div class="field">
                     <label>Would you like additional members to join your team?</label><br>
-                    <input type="radio" id="need_members" name="additional_members" value="I have an existing venture idea" required>
+                    <input type="radio" id="need_members" name="additional_members" value="Yes, we need additional member(s)" required>
                     <label for="need_members">Yes, we need additional member(s)</label><br>
-                    <input type="radio" id="open_for_members" name="additional_members" value="I want to join a team with an idea" required>
-                    <label for="open_for_members">Our team is complete, but we are open to adding more members</label>
-                    <input type="radio" id="no_members" name="additional_members" value="I want to join a team with an idea" required>
+                    <input type="radio" id="open_for_members" name="additional_members" value="Team is complete, but we are open to more members" required>
+                    <label for="open_for_members">Our team is complete, but we are open to more members</label>
+                    <input type="radio" id="no_members" name="additional_members" value="We do not wish to add more member" required>
                     <label for="no_members">Our team is complete, and we do not wish to add more members</label>
                 </div>
                 <div class="field">
@@ -55,15 +56,15 @@ explanation: |
                     </div>
                     <div class="field">
                         <label for="name-1">Team Member Program of Study:</label>
-                        <input type="text" id="name-1" name="teamMember-1[]" required>
+                        <input type="text" id="name-1" name="teamMember-1[]" placeholder="Psychology" required>
                     </div>
                     <div class="field">
                         <label for="name-1">Team Member Degree:</label>
-                        <input type="text" id="name-1" name="teamMember-1[]" required>
+                        <input type="text" id="name-1" name="teamMember-1[]" placeholder="PhD" required>
                     </div>
                     <div class="field">
                         <label for="name-1">Team Member Year of Study:</label>
-                        <input type="text" id="name-1" name="teamMember-1[]" required>
+                        <input type="text" id="name-1" name="teamMember-1[]" placeholder="2nd year" required>
                     </div>
                 </div>
                     <button type="button" onclick="addTeamMember()">Add Team Member</button>
@@ -101,7 +102,7 @@ let memberCount = 2;
       newMemberProgram.className = "field";
       newMemberProgram.innerHTML = `
         <label for="name-${memberCount}">Team Member ${memberCount} Program of Study:</label>
-        <input type="tel" id="name-${memberCount}" name="teamMember-${memberCount}[]" required>
+        <input type="text" id="name-${memberCount}" name="teamMember-${memberCount}[]" placeholder="Math" required>
       `;
       container.appendChild(newMemberProgram);
 
@@ -110,7 +111,7 @@ let memberCount = 2;
       newMemberDegree.className = "field";
       newMemberDegree.innerHTML = `
         <label for="name-${memberCount}">Team Member ${memberCount} Degree:</label>
-        <input type="tel" id="name-${memberCount}" name="teamMember-${memberCount}[]" required>
+        <input type="text" id="name-${memberCount}" name="teamMember-${memberCount}[]" placeholder="PhD" required>
       `;
       container.appendChild(newMemberDegree);
 
@@ -119,7 +120,7 @@ let memberCount = 2;
       newMemberYear.className = "field";
       newMemberYear.innerHTML = `
         <label for="name-${memberCount}">Team Member ${memberCount} Year of Study:</label>
-        <input type="tel" id="name-${memberCount}" name="teamMember-${memberCount}[]" required>
+        <input type="text" id="name-${memberCount}" name="teamMember-${memberCount}[]" placeholder="2nd year" required>
       `;
       container.appendChild(newMemberYear);
 

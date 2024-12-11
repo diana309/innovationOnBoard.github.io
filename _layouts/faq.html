@@ -10,35 +10,35 @@
 
 <body>
 
-    {% include header.html %} 
-    
-    
-<!-- Main -->
-<div id="main" class="alt">
+  {% include header.html %}
 
-<!-- One -->
-<section id="one">
-	<div class="inner">
-		<header class="major">
-			<h1>{{ page.title }}</h1>
-		</header>
-		<div class="row">
-		<div class="8u 12u$(small)">
-			<p>{{ content }}</p>
-		</div>
-		<div class="4u 12u$(small)">
-			<!-- <div class="box">
+
+  <!-- Main -->
+  <div id="main" class="alt">
+
+    <!-- One -->
+    <section id="one">
+      <div class="inner">
+        <header class="major">
+          <h1>{{ page.title }}</h1>
+        </header>
+        <div class="row">
+          <div class="8u 12u$(small)">
+            <p>{{ content }}</p>
+          </div>
+          <div class="4u 12u$(small)">
+            <!-- <div class="box">
 				<h2>Questions</h2>
 				<p>Please do not hesitate email us if you have any further questions:</p>
 				<i class="fa fa-envelope"></i> <a href="mailto:contact@innovationonboard.ca">innovationonb@gmail.com</a>
 			</div> -->
-		</div>
-	</div>
-</section>
+          </div>
+        </div>
+    </section>
 
-</div>
+  </div>
 
-    {% include footer.html %}
+  {% include footer.html page=page.short-title %}
 
 </body>
 
