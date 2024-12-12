@@ -3,7 +3,7 @@ layout: post
 title: Pairing Application
 description: Sign Up Form
 nav-menu: true
-explanation: Take the first step toward an exciting adventure—apply to be matched with a potential co-founder! This form is for individuals who either have an idea or are looking to join a team with an existing idea. Please complete the form with as much detail as possible. After reviewing your application, we’ll aim to connect you with a team that aligns with your interests and expertise within 4-6 weeks. Please note that a match is not guaranteed, as it depends on the applications we receive. If a match is successfully found, we’ll notify you by email. You’ll also be invited to join Co-Founder’s Day—a networking event on Jan 7 designed in a speed-dating format for the pitch competition, where you can meet potential team members for the competition and beyond!
+explanation: Take the first step toward an exciting adventure—apply to be matched with a potential co-founder! This form is for individuals who either have an idea or are looking to join a team with an existing idea. Please complete the form with as much detail as possible. After reviewing your application, we’ll aim to connect you with a team that aligns with your interests and expertise within 4-6 weeks. Please note that a match is not guaranteed, as it depends on the applications we receive. If a match is successfully found, we’ll notify you by email. You’ll also be invited to join Co-Founder’s Day—a networking event on Jan 7 designed in a speed-dating format for the pitch competition, where you can meet potential team members for the competition and beyond! Due to website traffic, submissions may occasionally take up to 2 minutes to process. Please do not refresh or close your browser during this time
 ---
 
 <div class="row">
@@ -40,12 +40,12 @@ enctype="multipart/form-data"
     <!-- Institute of Study -->
     <div class="field">
         <label for="institute">Institute of Study</label>
-        <input type="text" id="institute" name="institute" required>
+        <input type="text" id="institute" name="institute" placeholder="UofT" required>
     </div>
     <!-- Program and Year of Study -->
     <div class="field">
         <label for="program_year">Program and Year of Study</label>
-        <input type="text" id="program_year" name="program_year" required>
+        <input type="text" id="program_year" name="program_year" placeholder="e.g., Psychology - 2nd year PhD" required>
     </div>
     <!-- Area of Expertise -->
     <div class="field">
@@ -84,7 +84,7 @@ enctype="multipart/form-data"
     </div>
     <!-- Resume Attachment -->
     <div class="field">
-        <label for="resume">Optional Attachment: Resume</label>
+        <label for="resume">Optional Attachment: Resume (only PDF is supported)</label>
         <input type="file" id="resume" name="resume" accept="application/pdf">
     </div>
     <!-- Submit Button -->
