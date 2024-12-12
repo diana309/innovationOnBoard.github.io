@@ -12,6 +12,7 @@ explanation: Take the first step toward an exciting adventure—apply to be matc
 <form
   action="https://formspree.io/f/mnnqdjpj"
   method="POST"
+enctype="multipart/form-data"
 >
     <!-- Venture Idea Selection -->
     <div class="field">
@@ -84,7 +85,7 @@ explanation: Take the first step toward an exciting adventure—apply to be matc
     <!-- Resume Attachment -->
     <div class="field">
         <label for="resume">Optional Attachment: Resume</label>
-        <input type="file" id="resume" name="resume" accept=".pdf, .doc, .docx">
+        <input type="file" id="resume" name="resume" accept="application/pdf">
     </div>
     <!-- Submit Button -->
     <div class="fit">
@@ -95,4 +96,3 @@ explanation: Take the first step toward an exciting adventure—apply to be matc
 </div>
 </div>
 </div>
-
