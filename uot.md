@@ -11,7 +11,10 @@ weight: 2
 ---
 
 <!-- Main -->
+<<<<<<< HEAD
   {% include header.html %}
+=======
+>>>>>>> 3da2c660f9c8e2dc43cb49bea3b96c65f0b44725
   <section id="banner" class="banner-sponsor">
     <div class="inner">
       <header class="major">
