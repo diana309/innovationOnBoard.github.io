@@ -1,6 +1,6 @@
 ---
 layout: post
-weight: 11
+weight: 12
 name: Coco
 title: Chief Happiness Officer
 status: executive
