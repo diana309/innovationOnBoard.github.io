@@ -187,7 +187,7 @@ weight: 1
                     <li class="timeline-item">
                     <div class="timeline-info">
                         <span>Thursday, January 23</span>
-                      <span class="timeline-time">5:00-7:00PM</span>
+                      <span class="timeline-time">4:00-6:00PM</span>
                     </div>
                     <div class="timeline-marker"></div>
                     <div class="timeline-content">
