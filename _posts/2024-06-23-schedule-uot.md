@@ -264,7 +264,7 @@ weight: 1
                     <div class="timeline-marker"></div>
                     <div class="timeline-content">
                         <h3 class="timeline-title">Innovation Fair</h3>
-                        <p><span class="timeline-desc">Location</span> | <a href="https://maps.app.goo.gl/4PphMFHs9UoCCYTRA" target="_blank"> David Naylor Student Commons</a></p>
+                        <p><span class="timeline-desc">Location</span> | <a href="https://g.co/kgs/iUSkQSw" target="_blank">Bahen Atrium</a></p>
                         <p><span class="timeline-desc">Competition - Semifinal</span> | Join us for an exciting showcase where student teams will present their innovative startup ideas on posters. This event offers a unique networking opportunity, allowing you to mingle with budding entrepreneurs, educators, and business professionals. We look forward to seeing you there and connecting with the future of innovation and entrepreneurship!
                         </p>
                         <ul class="actions">
@@ -280,7 +280,8 @@ weight: 1
                     <div class="timeline-marker"></div>
                     <div class="timeline-content">
                         <h3 class="timeline-title"><b>Final Competition and Reception</b></h3>
-                        <p><span class="timeline-desc">Location</span> | <a href="https://g.co/kgs/VNUQqEw" target="_blank"> Medical Science Student Commons + Medical Science Auditorium</a></p>
+                        <p><span class="timeline-desc">Location</span> | <a href="https://maps.app.goo.gl/MjY2RErXDcmZRhfT9" target="_blank">Medical Science Building 
+Macleod auditorium (MS2158)</a></p>
                         <p><span class="timeline-desc">Competition - Finals</span> | Get ready to witness some mind-blowing ideas, intense competition, and lots of inspiration. Whether you're an aspiring entrepreneur or just love innovative ideas, this is the place to be! Cheer on the participants as they showcase their creativity and present their business ideas.
                         </p>
                            <ul class="actions">
