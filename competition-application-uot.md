@@ -3,6 +3,8 @@ layout: post
 title: Team Application
 description: Sign Up Form
 nav-menu: true
+tags: uot
+short-title: UoT
 explanation: |
  Submit your team application today to join the Innovation OnBoard Competition! If your team requires additional talents, you are welcome to request extra members. Each team must include at least one current University of Toronto student or an alumnus who graduated in 2022 or later. You can update your team details, such as adding new members, anytime before the application deadline by contacting us. 
 ---
@@ -64,8 +66,8 @@ explanation: |
                         <label for="name-1">Team Member Year of Study:</label>
                         <input type="text" id="name-1" name="teamMember-1[]" placeholder="e.g. 2nd year" required>
                     </div>
-                    <div style="padding-bottom: 30px;"> Please note: Due to high website traffic, submissions may take up to 2 minutes to process. During this time, avoid refreshing or closing your browser. Once we receive your application, you will receive a confirmation email with further details on the next steps. If you do not receive our email within two days, please contact us at innovationboard.uoft@gmail.com.</div>
-                </div>
+                        <div style="padding-bottom: 30px;"> Please note: Due to high website traffic, submissions may take up to 2 minutes to process. During this time, avoid refreshing or closing your browser. Once we receive your application, you will receive a confirmation email with further details on the next steps. If you do not receive our email within two days, please contact us at innovationboard.uoft@gmail.com.</div>
+                        </div>
                     <button type="button" onclick="addTeamMember()">Add Team Member</button>
                     <button type="submit">Submit Application</button>
             </form>

@@ -201,38 +201,6 @@ weight: 1
                         </ul> -->
                     </div>
                 </li>
-                <!-- </li> -->
-                <!-- <li class="timeline-item">
-                    <div class="timeline-info">
-                        <span>January, 2025</span>
-			    <span class="timeline-time">UofT Campus (TBD)</span>
-                    </div>
-                    <div class="timeline-marker"></div>
-                    <div class="timeline-content">
-                        <h3 class="timeline-title">Innovation Fair</h3>
-                        <p><span class="timeline-desc">Competition - Semifinal</span> | Join us for an exciting showcase where student teams will present their innovative startup ideas on posters. This event offers a unique networking opportunity, allowing you to mingle with budding entrepreneurs, educators, and business professionals. We look forward to seeing you there and connecting with the future of innovation and entrepreneurship!
-                        </p> -->
-                        <!-- <ul class="actions">
-                    <li><a href="https://www.eventbrite.com/e/innovation-fair-tickets-772363137937?aff=oddtdtcreator" target="_blank" class="button special fit">RSVP</a></li>
-                        </ul> -->
-                    <!-- </div>
-                </li> -->
-                 <!-- <li class="timeline-item">
-                    <div class="timeline-info">
-                        <span>January 30, 2024</span>
-			    <span class="timeline-time">6:30PM, UBC CHBE 202</span>
-                    </div>
-                    <div class="timeline-marker"></div>
-                    <div class="timeline-content">
-                        <h3 class="timeline-title">Pitching Workshop</h3>
-                        <p><span class="timeline-desc">Speaker</span> | <b>Michelle Sklar</b> - Head of Venture Growth Strategy & Entrepreneur In Residence at entrepreneurship@UBC, Board Member with the VEF.</p>
-                        <p><span class="timeline-desc">Workshop</span> | Michelle is a performance-driven growth marketer, communications strategist, and entrepreneur with over two decades of comprehensive achievements in both B2B and B2C industries. She has a proven track record as an executive leader in digital marketing, PR, strategic partnerships, community management, and company building. Michelle focused her professional career development on scaling ideas to impact in the Emerging Technology, Digital Media, Events, Retail, and Nonprofit industries
-                        </p>
-                        <ul class="actions">
-                    <li><a href="https://www.eventbrite.ca/e/pitching-workshop-tickets-797980520217?aff=ebdsoporgprofile" target="_blank" class="button special fit">RSVP</a></li>
-                        </ul>
-                    </div>
-                </li> -->
                 <li class="timeline-item period">
                     <div class="timeline-info"></div>
                     <div class="timeline-marker"></div>
@@ -275,7 +243,7 @@ weight: 1
                 <li class="timeline-item">
                     <div class="timeline-info">
                         <span>Thursday, February, 20</span>
-			<span class="timeline-time"> (TBD)</span>
+			<span class="timeline-time">3:00-6:00PM</span>
                     </div>
                     <div class="timeline-marker"></div>
                     <div class="timeline-content">
@@ -324,8 +292,5 @@ Macleod auditorium (MS2158)</a></p>
                     <!-- <li><a href="https://www.eventbrite.com/e/innovation-fair-tickets-772363137937?aff=oddtdtcreator" target="_blank" class="button special fit">RSVP</a></li> -->
                         </ul>
                     </div>
-                </li>
-                
-            <!-- </ul>
-        </div>
-    </div> -->
+                </li>  
+       

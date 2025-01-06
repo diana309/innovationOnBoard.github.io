@@ -3,6 +3,8 @@ layout: post
 title: Competition Application
 description: Sign Up Form
 nav-menu: true
+tags: uot
+short-title: UoT
 explanation: |
   Take the first step toward an exciting adventure – submit your team application today to join the Innovation OnBoard competition.
   Accepted teams will be paired with members if possible, and will participate in the competition fair (poster pitching) and final competition (deck pitching). At least one student in a team must currently attend UBC.
