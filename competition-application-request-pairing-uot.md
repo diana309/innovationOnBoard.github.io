@@ -3,7 +3,7 @@ layout: post
 title: Pairing Application
 description: Sign Up Form
 nav-menu: true
-explanation: Take the first step toward an exciting adventure—apply to be matched with a potential co-founder! This form is for individuals who either have an idea or are looking to join a team with an existing idea. Please complete the form with as much detail as possible. After reviewing your application, we’ll aim to connect you with a team that aligns with your interests and expertise within 4-6 weeks. Please note that a match is not guaranteed, as it depends on the applications we receive. If a match is successfully found, we’ll notify you by email. You’ll also be invited to join Co-Founder’s Day—a networking event on Jan 7 designed in a speed-dating format for the pitch competition, where you can meet potential team members for the competition and beyond! Due to website traffic, submissions may occasionally take up to 2 minutes to process. Please do not refresh or close your browser during this time
+explanation: Take the first step toward an exciting adventure—apply to be matched with a potential co-founder! This form is for individuals who either have an idea or are looking to join a team with an existing idea. Please complete the form with as much detail as possible. Please note that a match is not guaranteed, as it depends on the applications we receive. We will send a confirmation email with more details on the next steps after receiving your application. If you haven't received our email within two days, please contact us at innovationboard.uoft@gmail.com. You’ll also be invited to join Co-Founder’s Day—a networking event on Jan 7 designed in a speed-dating format for the pitch competition, where you can meet potential team members for the competition and beyond! Due to website traffic, submissions may occasionally take up to 2 minutes to process. Please do not refresh or close your browser during this time. 
 ---
 
 <div class="row">
@@ -40,7 +40,7 @@ enctype="multipart/form-data"
     <!-- Institute of Study -->
     <div class="field">
         <label for="institute">Institute of Study</label>
-        <input type="text" id="institute" name="institute" placeholder="UofT" required>
+        <input type="text" id="institute" name="institute" placeholder="e.g. UofT" required>
     </div>
     <!-- Program and Year of Study -->
     <div class="field">
@@ -50,12 +50,12 @@ enctype="multipart/form-data"
     <!-- Area of Expertise -->
     <div class="field">
         <label for="expertise">Area of Expertise</label>
-        <input type="text" id="expertise" name="expertise" required>
+        <input type="text" id="expertise" placeholder="e.g., Software Development, Marketing, Engineering" name="expertise" required>
     </div>
     <!-- Venture Interest Area -->
     <div class="field">
         <label for="venture_interest">Venture Interest Area</label>
-        <input type="text" id="venture_interest" name="venture_interest" required>
+        <input type="text" id="venture_interest" placeholder="e.g., HealthTech, EdTech, Sustainability" name="venture_interest" required>
     </div>
     <!-- Preferred Team Role -->
     <div class="field">

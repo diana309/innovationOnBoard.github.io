@@ -42,15 +42,15 @@ explanation: |
                     </div>
                     <div class="field">
                         <label for="name-1">Team Member Program of Study:</label>
-                        <input type="tel" id="name-1" name="teamMember-1[]" required>
+                        <input type="text" id="name-1" name="teamMember-1[]" required>
                     </div>
                     <div class="field">
                         <label for="name-1">Team Member Degree:</label>
-                        <input type="tel" id="name-1" name="teamMember-1[]" required>
+                        <input type="text" id="name-1" name="teamMember-1[]" required>
                     </div>
                     <div class="field">
                         <label for="name-1">Team Member Year of Study:</label>
-                        <input type="tel" id="name-1" name="teamMember-1[]" required>
+                        <input type="text" id="name-1" name="teamMember-1[]" required>
                     </div>
                 </div>
                     <button type="button" onclick="addTeamMember()">Add Team Member</button>

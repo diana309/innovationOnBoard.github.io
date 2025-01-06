@@ -22,10 +22,6 @@ explanation: Take the first step toward an exciting adventure – submit your te
             <input type="email" id="email" name="email" required>
         </div>
         <div class="field">
-            <label for="phone">Phone Number:</label>
-            <input type="tel" id="phone" name="phone">
-        </div>
-        <div class="field">
             <label for="program">Program and Year of Study:</label>
             <input type="text" id="program" name="program">
         </div>

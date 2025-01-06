@@ -33,7 +33,7 @@ weight: 2
           <div class="row">
             <div class="6u 12u$(small)">
               <div class="box">
-                <h1>Competition Application</h1>
+                <h1>Team Application</h1>
                 <p>Please submit your team application for review. You will receive an email notification regarding the status of your application within 4 weeks. If needed, you can update your team details, such as adding new members, before the application deadline by contacting us via email.</p>
                  <br>
                 <ul class="actions fit">

@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Competition Application
+title: Team Application
 description: Sign Up Form
 nav-menu: true
 explanation: |
- Take the first step toward an exciting adventure – submit your team application today to join the Innovation OnBoard competition! If your team needs additional talents, feel free to request extra members. Each team must include at least one current University of Toronto student or an alumnus who graduated in 2022 or later. You can update team details, such as adding new members, anytime before the application deadline by contacting us at innovationboard.uoft@gmail.com. Due to website traffic, submissions may occasionally take up to 2 minutes to process. Please do not refresh or close your browser during this time
+ Submit your team application today to join the Innovation OnBoard Competition! If your team requires additional talents, you are welcome to request extra members. Each team must include at least one current University of Toronto student or an alumnus who graduated in 2022 or later. You can update your team details, such as adding new members, anytime before the application deadline by contacting us. Please note: Due to high website traffic, submissions may take up to 2 minutes to process. During this time, avoid refreshing or closing your browser. Once we receive your application, you will receive a confirmation email with further details on the next steps. If you do not receive our email within two days, please contact us at innovationboard.uoft@gmail.com.
 ---
 
 <div class="row">
@@ -55,15 +55,15 @@ explanation: |
                     </div>
                     <div class="field">
                         <label for="name-1">Team Member Program of Study:</label>
-                        <input type="text" id="name-1" name="teamMember-1[]" placeholder="Psychology" required>
+                        <input type="text" id="name-1" name="teamMember-1[]" placeholder="e.g. Psychology" required>
                     </div>
                     <div class="field">
                         <label for="name-1">Team Member Degree:</label>
-                        <input type="text" id="name-1" name="teamMember-1[]" placeholder="PhD" required>
+                        <input type="text" id="name-1" name="teamMember-1[]" placeholder="e.g., PhD, MSc, BSc" required>
                     </div>
                     <div class="field">
                         <label for="name-1">Team Member Year of Study:</label>
-                        <input type="text" id="name-1" name="teamMember-1[]" placeholder="2nd year" required>
+                        <input type="text" id="name-1" name="teamMember-1[]" placeholder="e.g. 2nd year" required>
                     </div>
                 </div>
                     <button type="button" onclick="addTeamMember()">Add Team Member</button>
