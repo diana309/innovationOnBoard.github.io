@@ -3,7 +3,7 @@ layout: post
 title: Pairing Application
 description: Sign Up Form
 nav-menu: true
-explanation: Take the first step toward an exciting adventure—apply to be matched with a potential co-founder! This form is for individuals who either have an idea or are looking to join a team with an existing idea. Please complete the form with as much detail as possible. Please note that a match is not guaranteed, as it depends on the applications we receive. We will send a confirmation email with more details on the next steps after receiving your application. If you haven't received our email within two days, please contact us at innovationboard.uoft@gmail.com. You’ll also be invited to join Co-Founder’s Day—a networking event on Jan 7 designed in a speed-dating format for the pitch competition, where you can meet potential team members for the competition and beyond! Due to website traffic, submissions may occasionally take up to 2 minutes to process. Please do not refresh or close your browser during this time. 
+explanation: This form is for individuals who either have an idea or are looking to join a team with an existing idea. We will send a confirmation email with more details on the next steps after receiving your application.
 ---
 
 <div class="row">
@@ -87,6 +87,8 @@ enctype="multipart/form-data"
         <label for="resume">Optional Attachment: Resume (only PDF is supported)</label>
         <input type="file" id="resume" name="resume" accept="application/pdf">
     </div>
+      <div style="padding-bottom: 30px;"> Please note: Due to high website traffic, submissions may take up to 2 minutes to process. During this time, avoid refreshing or closing your browser. Once we receive your application, you will receive a confirmation email with further details on the next steps. If you do not receive our email within two days, please contact us at innovationboard.uoft@gmail.com.
+          </div>
     <!-- Submit Button -->
     <div class="fit">
         <button type="submit">Submit </button>
