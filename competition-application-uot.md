@@ -68,7 +68,7 @@ explanation: |
                     </div>
                         <div style="padding-bottom: 30px;"> Please note: Due to high website traffic, submissions may take up to 2 minutes to process. During this time, avoid refreshing or closing your browser. Once we receive your application, you will receive a confirmation email with further details on the next steps. If you do not receive our email within two days, please contact us at innovationboard.uoft@gmail.com.</div>
                         </div>
-                        <div style="padding-bottom: 30px;">We require a <b>$30 refundable deposit per team</b> to secure your presentation spot. This deposit covers the poster board rental and moving fee and will be fully refunded after at least one member completes the preliminary competition on <b>February 13th</b>. The deadline to pay the deposit is <b>February 7th</b> to secure your spot.</div>
+                        <div style="padding-bottom: 30px;">We require a <b>$30 refundable deposit per team</b> to secure your presentation spot. This deposit covers the poster board rental and moving fee and will be fully refunded after at least one member completes the preliminary competition on <b>February 13th</b>. Once your application is approved, we will send you an email with instructions on how to make the refundable deposit payment. The deadline to pay the deposit is <b>February 7th</b> to secure your spot.</div>
                     <button type="button" onclick="addTeamMember()">Add Team Member</button>
                     <button type="submit">Submit Application</button>
             </form>
