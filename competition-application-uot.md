@@ -68,6 +68,7 @@ explanation: |
                     </div>
                         <div style="padding-bottom: 30px;"> Please note: Due to high website traffic, submissions may take up to 2 minutes to process. During this time, avoid refreshing or closing your browser. Once we receive your application, you will receive a confirmation email with further details on the next steps. If you do not receive our email within two days, please contact us at innovationboard.uoft@gmail.com.</div>
                         </div>
+                        <div style="padding-bottom: 30px;">We require a <b>$30 refundable deposit per team</b> to secure your presentation spot. This deposit covers the poster board rental and moving fee and will be fully refunded after at least one member completes the preliminary competition on <b>February 13th</b>. The deadline to pay the deposit is <b>February 7th</b> to secure your spot.</div>
                     <button type="button" onclick="addTeamMember()">Add Team Member</button>
                     <button type="submit">Submit Application</button>
             </form>
@@ -103,7 +104,7 @@ let memberCount = 2;
       newMemberProgram.className = "field";
       newMemberProgram.innerHTML = `
         <label for="name-${memberCount}">Team Member ${memberCount} Program of Study:</label>
-        <input type="text" id="name-${memberCount}" name="teamMember-${memberCount}[]" placeholder="Math" required>
+        <input type="text" id="name-${memberCount}" name="teamMember-${memberCount}[]" placeholder="e.g. Psychology" required>
       `;
       container.appendChild(newMemberProgram);
 
@@ -112,7 +113,7 @@ let memberCount = 2;
       newMemberDegree.className = "field";
       newMemberDegree.innerHTML = `
         <label for="name-${memberCount}">Team Member ${memberCount} Degree:</label>
-        <input type="text" id="name-${memberCount}" name="teamMember-${memberCount}[]" placeholder="PhD" required>
+        <input type="text" id="name-${memberCount}" name="teamMember-${memberCount}[]" placeholder="e.g., PhD, MSc, BSc" required>
       `;
       container.appendChild(newMemberDegree);
 
@@ -121,7 +122,7 @@ let memberCount = 2;
       newMemberYear.className = "field";
       newMemberYear.innerHTML = `
         <label for="name-${memberCount}">Team Member ${memberCount} Year of Study:</label>
-        <input type="text" id="name-${memberCount}" name="teamMember-${memberCount}[]" placeholder="2nd year" required>
+        <input type="text" id="name-${memberCount}" name="teamMember-${memberCount}[]" placeholder="e.g. 2nd year" required>
       `;
       container.appendChild(newMemberYear);
 

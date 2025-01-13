@@ -5,7 +5,7 @@ description: Sign Up Form
 nav-menu: true
 tags: uot
 short-title: UoT
-explanation: This form is for individuals who either have an idea or are looking to join a team with an existing idea. We will send a confirmation email with more details on the next steps after receiving your application.
+explanation: This form is for individuals who either have an idea or are looking to join a team with an existing idea. We will send a confirmation email with more details on the next steps after receiving your application. The deadline to apply is January 25th, 2025. 
 ---
 
 <div class="row">

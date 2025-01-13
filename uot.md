@@ -32,7 +32,7 @@ weight: 2
             <div class="6u 12u$(small)">
               <div class="box">
                 <h1>Team Application</h1>
-                <p>Please submit your team application for review. You will receive an email notification regarding the status of your application within 4 weeks. If needed, you can update your team details, such as adding new members, before the application deadline by contacting us via email.</p>
+                <p>Submit your team application for review. You will receive an email regarding the status of your application within 4 weeks. To update your team details, such as adding new members, contact us via email. The deadline to apply is <b>February 7th, 2025</b>.</p>
                  <br>
                 <ul class="actions fit">
                   <li>
@@ -45,7 +45,7 @@ weight: 2
               <div class="box">
                 <h1>Pairing Application</h1>
                 <p>
-                 Complete the pairing application, and we will work to match you with a team in your area of interest. Additionally, we will host a networking event on January 7 in a speed-dating format to facilitate successful team formation. You will be kept updated on the pairing progress.
+                  Complete your pairing application for review. You will receive an email regarding the pairing progress. To ensure a match with a team in your area of interest, submit your application before the deadline. The deadline to apply is <b>January 25th, 2025</b>.
                 </p>
                 <br>
                 <ul class="actions fit">
