@@ -11,7 +11,9 @@ weight: 1
 ---
 
 <!-- Main -->
-  {% include header.html %}
+
+{% include header.html %}
+
   <section id="banner" class="banner-sponsor">
     <div class="inner">
       <header class="major">
@@ -44,17 +46,15 @@ weight: 1
             </div>
             <div class="6u 12u$(small)">
               <div class="box">
-                <h1>Competition Application</h1>
-                <p>
-                  Take the first step toward an exciting adventure – submit your team application today to join the
-                  Innovation OnBoard competition.
+                <h1>Join the IOB Team</h1>
+                <p> Looking to get involved in an exciting project? Apply now, and we’ll reach out to you via email. Joining IOB is a fantastic opportunity to build valuable experience. 
                   <br>
                 </p>
                 <br>
                 <ul class="actions fit">
                   <li>
-                    <a href="{{ '/competition-application-choice.html' | prepend: site.baseurl | prepend: site.url }}"
-                      target="_blank" class="button fit">Sign Up</a>
+              <a href="{{ '/job-posting' | prepend: site.baseurl | prepend: site.url }}" class="button fit"
+                  style="color: white; background-color:#002047">Apply Here</a>
                   </li>
                 </ul>
               </div>

@@ -129,8 +129,8 @@ weight: 1
 
           <li class="timeline-item">
             <div class="timeline-info">
-              <span>January 23, 2025</span>
-              <span class="timeline-time">6:30PM, AMS Great Hall</span>
+              <span>January 21, 2025</span>
+              <span class="timeline-time">6:00PM, AMS Great Hall</span>
             </div>
             <div class="timeline-marker"></div>
             <div class="timeline-content">
